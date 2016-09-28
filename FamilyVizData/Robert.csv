@@ -1,0 +1,133 @@
+foaf:member,Source,Lable,edge,Target-Label,Target
+H21,189,Robert,Husband of Mary,Mary,190
+H21,189,Robert,Father of Abraham,Abraham,191
+H21,189,Robert,Father of Robert,Robert,192
+H21,189,Robert,Father of James,James,193
+H21,189,Robert,Father of Bridget,Bridget,194
+H21,189,Robert,Father of Mary Jane,Mary Jane,195
+H21,189,Robert,Father of Susan  ,Susan,196
+H21,189,Robert,Father of Sally Anne,Sally Anne,197
+H21,189,Robert,Father of Nelly,Nelly,198
+H21,189,Robert,Father of Charles,Charles,199
+H21,189,Robert,Father of  ,Child,200
+F21,190,Mary ,Wife of Robert,Robert,189
+F21,190,Mary ,Mother of Abraham,Abraham,191
+F21,190,Mary ,Mother of Robert,Robert,192
+F21,190,Mary ,Mother of James,James,193
+F21,190,Mary ,Mother of Bridget,Bridget,194
+F21,190,Mary ,Mother of Mary Jane,Mary Jane,195
+F21,190,Mary ,Mother of Susan,Susan,196
+F21,190,Mary ,Mother of Sally Anne,Sally Anne,197
+F21,190,Mary ,Mother of Nelly,Nelly,198
+F21,190,Mary ,Mother of Charles,Charles,199
+F21,190,Mary ,Mother of  ,Child,200
+F21,191,Abraham,Son of Robert,Robert,189
+F21,191,Abraham,Son of Mary,Mary,190
+F21,191,Abraham,Brother of Robert,Robert,192
+F21,191,Abraham,Brother of James,James,193
+F21,191,Abraham,Brother of Bridget,Bridget,194
+F21,191,Abraham,Brother of Mary Jane,Mary Jane,195
+F21,191,Abraham,Brother of Susan  ,Susan,196
+F21,191,Abraham,Brother of Sally Anne,Sally Anne,197
+F21,191,Abraham,Brother of Nelly,Nelly,198
+F21,191,Abraham,Brother of Charles,Charles,199
+F21,191,Abraham,Brother of  ,Child,200
+F21,192,Robert,Son of Robert,Robert,189
+F21,192,Robert,Son of Mary,Mary,190
+F21,192,Robert,Brother of Abraham,Abraham,191
+F21,192,Robert,Brother of James,James,193
+F21,192,Robert,Brother of Bridget,Bridget,194
+F21,192,Robert,Brother of Mary Jane,Mary Jane,195
+F21,192,Robert,Brother of Susan  ,Susan,196
+F21,192,Robert,Brother of Sally Anne,Sally Anne,197
+F21,192,Robert,Brother of Nelly,Nelly,198
+F21,192,Robert,Brother of Charles,Charles,199
+F21,192,Robert,Brother of  ,Child,200
+F21,193,James,Son of Robert,Robert,189
+F21,193,James,Son of Mary,Mary,190
+F21,193,James,Brother of Abraham,Abraham,191
+F21,193,James,Brother of Robert,Robert,192
+F21,193,James,Brother of Bridget,Bridget,194
+F21,193,James,Brother of Mary Jane,Mary Jane,195
+F21,193,James,Brother of Susan  ,Susan,196
+F21,193,James,Brother of Sally Anne,Sally Anne,197
+F21,193,James,Brother of Nelly,Nelly,198
+F21,193,James,Brother of Charles,Charles,199
+F21,193,James,Brother of  ,Child,200
+F21,194,Bridget,Daughter of Robert,Robert,189
+F21,194,Bridget,Daughter of Mary,Mary,190
+F21,194,Bridget,Sister of Abraham,Abraham,191
+F21,194,Bridget,Sister of Robert,Robert,192
+F21,194,Bridget,Sister of James,James,193
+F21,194,Bridget,Sister of Mary Jane,Mary Jane,195
+F21,194,Bridget,Sister of Susan,Susan,196
+F21,194,Bridget,Sister of Sally Anne,Sally Anne,197
+F21,194,Bridget,Sister of Nelly,Nelly,198
+F21,194,Bridget,Sister of Charles,Charles,199
+F21,194,Bridget,Sister of   ,Child,200
+F21,195,Mary Jane,Daughter of Robert,Robert,189
+F21,195,Mary Jane,Daughter of Mary,Mary,190
+F21,195,Mary Jane,Sister of Abraham,Abraham,191
+F21,195,Mary Jane,Sister of Robert,Robert,192
+F21,195,Mary Jane,Sister of James,James,193
+F21,195,Mary Jane,Sister of Bridget,Bridget,194
+F21,195,Mary Jane,Sister of Susan,Susan,196
+F21,195,Mary Jane,Sister of Sally Anne,Sally Anne,197
+F21,195,Mary Jane,Sister of Nelly,Nelly,198
+F21,195,Mary Jane,Sister of Charles,Charles,199
+F21,195,Mary Jane,Sister of   ,Child,200
+F21,196,Susan,Daughter of Robert,Robert,189
+F21,196,Susan,Daughter of Mary,Mary,190
+F21,196,Susan,Sister of Abraham,Abraham,191
+F21,196,Susan,Sister of Robert,Robert,192
+F21,196,Susan,Sister of James,James,193
+F21,196,Susan,Sister of Bridget,Bridget,194
+F21,196,Susan,Sister of Mary Jane,Mary Jane,195
+F21,196,Susan,Sister of Sally Anne,Sally Anne,197
+F21,196,Susan,Sister of Nelly,Nelly,198
+F21,196,Susan,Sister of Charles,Charles,199
+F21,196,Susan,Sister of   ,Child,200
+F21,197,Sally Anne,Daughter of Robert,Robert,189
+F21,197,Sally Anne,Daughter of Mary,Mary,190
+F21,197,Sally Anne,Sister of Abraham,Abraham,191
+F21,197,Sally Anne,Sister of Robert,Robert,192
+F21,197,Sally Anne,Sister of James,James,193
+F21,197,Sally Anne,Sister of Bridget,Bridget,194
+F21,197,Sally Anne,Sister of Mary Jane,Mary Jane,195
+F21,197,Sally Anne,Sister of Susan,Susan,196
+F21,197,Sally Anne,Sister of Nelly,Nelly,198
+F21,197,Sally Anne,Sister of Charles,Charles,199
+F21,197,Sally Anne,Sister of   ,Child,200
+F21,198,Nelly,Daughter of Robert,Robert,189
+F21,198,Nelly,Daughter of Mary,Mary,190
+F21,198,Nelly,Sister of Abraham,Abraham,191
+F21,198,Nelly,Sister of Robert,Robert,192
+F21,198,Nelly,Sister of James,James,193
+F21,198,Nelly,Sister of Bridget,Bridget,194
+F21,198,Nelly,Sister of Mary Jane,Mary Jane,195
+F21,198,Nelly,Sister of Susan,Susan,196
+F21,198,Nelly,Sister of Sally Anne,Sally,197
+F21,198,Nelly,Sister of Charles,Charles,199
+F21,198,Nelly,Sister of   ,Child,200
+F21,199,Charles,Son of Robert,Robert,189
+F21,199,Charles,Son of Mary,Mary,190
+F21,199,Charles,Brother of Abraham,Abraham,191
+F21,199,Charles,Brother of Robert,Robert,192
+F21,199,Charles,Brother of James,James,193
+F21,199,Charles,Brother of Bridget,Bridget,194
+F21,199,Charles,Brother of Mary Jane,Mary Jane,195
+F21,199,Charles,Brother of Susan  ,Susan,196
+F21,199,Charles,Brother of Sally Anne,Sally Anne,197
+F21,199,Charles,Brother of Nelly,Nelly,198
+F21,199,Charles,Brother of  ,Child,200
+F21,200,Child,Child of Robert,Robert,189
+F21,200,Child,Child of Mary,Mary,190
+F21,200,Child,Sibling of Abraham,Abraham,191
+F21,200,Child,Sibling of Robert,Robert,192
+F21,200,Child,Sibling of James,James,193
+F21,200,Child,Sibling of Bridget,Bridget,194
+F21,200,Child,Sibling of Mary Jane,Mary Jane,195
+F21,200,Child,Sibling of Susan,Susan,196
+F21,200,Child,Sibling of Sally Anne,Sally Anne,197
+F21,200,Child,Sibling of Nelly,Nelly,198
+F21,200,Child,Sibling of Charles,Charles,199

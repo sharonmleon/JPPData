@@ -1,0 +1,31 @@
+foaf:member,Source,Label,edge,Target-Labe,Target
+H13,54,Polly,Family of,Sally,55
+H13,54,Polly,Family of,William,56
+H13,54,Polly,Family of,Mary Anne,57
+H13,54,Polly,Family of,Robert,58
+H13,54,Polly,Family of,Henry,59
+F13,55,Sally,Family of,Polly,54
+F13,55,Sally,Family of,William,56
+F13,55,Sally,Family of,Mary Anne,57
+F13,55,Sally,Family of,Robert,58
+F13,55,Sally,Family of,Henry,59
+F13,56,William,Family of,Polly,54
+F13,56,William,Family of,Sally,55
+F13,56,William,Family of,Mary Anne,57
+F13,56,William,Family of,Robert,58
+F13,56,William,Family of,Henry,59
+F13,57,Mary Anne,Family of,Polly,54
+F13,57,Mary Anne,Family of,Sally,55
+F13,57,Mary Anne,Family of,William,56
+F13,57,Mary Anne,Family of,Robert,58
+F13,57,Mary Anne,Family of,Henry,59
+F13,58,Robert,Family of,Polly,54
+F13,58,Robert,Family of,Sally,55
+F13,58,Robert,Family of,William,56
+F13,58,Robert,Family of,Mary Anne,57
+F13,58,Robert,Family of,Henry,59
+F13,59,Henry,Family of,Polly,54
+F13,59,Henry,Family of,Sally,55
+F13,59,Henry,Family of,William,56
+F13,59,Henry,Family of,Mary Anne,57
+F13,59,Henry,Family of,Robert,58

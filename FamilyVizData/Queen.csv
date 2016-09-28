@@ -1,0 +1,73 @@
+foaf:member,Source,Label,edge,Target-Label,Target
+H10,38,Charles Queen,Husband of Sally (#2),Sally,39
+H10,38,Charles Queen,Father of Nancy,Nancy,40
+H10,38,Charles Queen,Father of Margaret,Margaret,41
+H10,38,Charles Queen,Father of David,David,42
+H10,38,Charles Queen,Father of Eliza ,Eliza ,43
+H10,38,Charles Queen,Father of Martha,Martha,44
+H10,38,Charles Queen,Father of Harriet,Harriet,45
+H10,38,Charles Queen,Father of Sarah Anne,Sarah Anne,46
+F10,39,Sally (#2) Queen,Wife of Charles Queen,Charles Queen,38
+F10,39,Sally (#2) Queen,Mother of Nancy,Nancy,40
+F10,39,Sally (#2) Queen,Mother of Margaret,Margaret,41
+F10,39,Sally (#2) Queen,Mother of David,David,42
+F10,39,Sally (#2) Queen,Mother of Eliza,Eliza ,43
+F10,39,Sally (#2) Queen,Mother of Martha,Martha,44
+F10,39,Sally (#2) Queen,Mother of Harriet,Harriet,45
+F10,39,Sally (#2) Queen,Mother of Sarah Anne,Sarah Anne,46
+F10,40,Nancy Queen,Daughter of Charles Queen,Charles Queen,38
+F10,40,Nancy Queen,Daughter of Sally (#2),Sally,39
+F10,40,Nancy Queen,Sister of Margaret,Margaret,41
+F10,40,Nancy Queen,Sister of David,David,42
+F10,40,Nancy Queen,Sister of Eliza,Eliza ,43
+F10,40,Nancy Queen,Sister of Martha,Martha,44
+F10,40,Nancy Queen,Sister of Harriet,Harriet,45
+F10,40,Nancy Queen,Sister of Sarah Anne,Sarah Anne,46
+F10,41,Margaret Queen,Daughter of Charles Queen,Charles Queen,38
+F10,41,Margaret Queen,Daughter of Sally (#2),Sally,39
+F10,41,Margaret Queen,Sister of Nancy,Nancy,40
+F10,41,Margaret Queen,Sister of David,David,42
+F10,41,Margaret Queen,Sister of Eliza,Eliza ,43
+F10,41,Margaret Queen,Sister of Martha,Martha,44
+F10,41,Margaret Queen,Sister of Harriet,Harriet,45
+F10,41,Margaret Queen,Sister of Sarah Anne,Sarah Anne,46
+F10,42,David Queen,Son of Charles Queen,Charles Queen,38
+F10,42,David Queen,Son of Sally (#2),Sally,39
+F10,42,David Queen,Brother of Nancy,Nancy,40
+F10,42,David Queen,Brother of Margaret,Margaret,41
+F10,42,David Queen,Brother of Eliza,Eliza ,43
+F10,42,David Queen,Brother of Martha,Martha,44
+F10,42,David Queen,Brother of Harriet,Harriet,45
+F10,42,David Queen,Brother of Sarah Anne,Sarah Anne,46
+F10,43,Eliza Queen,Daughter of Charles Queen,Charles Queen,38
+F10,43,Eliza Queen,Daughter of Sally (#2),Sally,39
+F10,43,Eliza Queen,Sister of Nancy,Nancy,40
+F10,43,Eliza Queen,Sister of Margaret,Margaret,41
+F10,43,Eliza Queen,Sister of David,David,42
+F10,43,Eliza Queen,Sister of Martha,Martha,44
+F10,43,Eliza Queen,Sister of Harriet,Harriet,45
+F10,43,Eliza Queen,Sister of Sarah Anne,Sarah Anne,46
+F10,44,Martha Queen,Daughter of Charles Queen,Charles Queen,38
+F10,44,Martha Queen,Daughter of Sally (#2),Sally,39
+F10,44,Martha Queen,Sister of Nancy,Nancy,40
+F10,44,Martha Queen,Sister of Margaret,Margaret,41
+F10,44,Martha Queen,Sister of David,David,42
+F10,44,Martha Queen,Sister of Eliza,Eliza ,43
+F10,44,Martha Queen,Sister of Harriet,Harriet,45
+F10,44,Martha Queen,Sister of Sarah Anne,Sarah Anne,46
+F10,45,Harriet Queen,Daughter of Charles Queen,Charles Queen,38
+F10,45,Harriet Queen,Daughter of Sally (#2),Sally,39
+F10,45,Harriet Queen,Sister of Nancy,Nancy,40
+F10,45,Harriet Queen,Sister of Margaret,Margaret,41
+F10,45,Harriet Queen,Sister of David,David,42
+F10,45,Harriet Queen,Sister of Eliza,Eliza ,43
+F10,45,Harriet Queen,Sister of Martha,Martha,44
+F10,45,Harriet Queen,Sister of Sarah Anne,Sarah Anne,46
+F10,46,Sarah Anne Queen,Daughter of Charles Queen,Charles Queen,38
+F10,46,Sarah Anne Queen,Daughter of Sally (#2),Sally,39
+F10,46,Sarah Anne Queen,Sister of Nancy,Nancy,40
+F10,46,Sarah Anne Queen,Sister of Margaret,Margaret,41
+F10,46,Sarah Anne Queen,Sister of David,David,42
+F10,46,Sarah Anne Queen,Sister of Eliza,Eliza ,43
+F10,46,Sarah Anne Queen,Sister of Martha,Martha,44
+F10,46,Sarah Anne Queen,Sister of Harriet,Harriet,45

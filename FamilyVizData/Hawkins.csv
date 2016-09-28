@@ -1,0 +1,142 @@
+foaf:member,Source,Label,Target,Target-label,edge
+H0,1,Isaac (#1),2,Charles,Father of Charles
+H0,1,Isaac (#1),7,Patrick,Father of Patrick
+H0,1,Isaac (#1),16,James,Father of James
+H0,1,Isaac (#1),20,Isaac,Father of Isaac (#2)
+F0,2,Charles,1,Isaac,Son of Isaac (#1)
+F0,2,Charles,3,Nelly,Brother of Nelly
+F0,2,Charles,7,Patrick,Brother of Patrick
+F0,2,Charles,16,James,Brother of James
+F0,2,Charles,20,Isaac,Brother of Isaac (#2)
+H1,3,Nelly,1,Isaac,Daughter of Isaac (#1)
+H1,3,Nelly,2,Charles,Sister of Charles
+H1,3,Nelly,7,Patrick,Sister of Patrick
+H1,3,Nelly,4,Henry,Mother of Henry
+F1,4,Henny,3,Nelly,Daughter of Nelly 
+F1,4,Henny,5,Cecilia,Brother of Cecilia
+F1,4,Henny,6,Ruthy,Brother of Ruthy
+F1,5,Cecilia,3,Nelly,Daughter of Nelly
+F1,5,Cecilia,4,Henry,Sister of Henry
+F1,5,Cecilia,6,Ruthy,Sister of Ruthy
+F1,6,Ruthy,3,Nelly,Daughter of Nelly
+F1,6,Ruthy,4,Henry,Sister of Henry
+F1,6,Ruthy,5,Cecilia,Sister of Cecilia
+"H2, F0",7,Patrick,1,Isaac,Son of Isaac (#1)
+"H2, F0",7,Patrick,2,Charles,Brother of Charles
+"H2, F0",7,Patrick,3,Nelly,Brother of Nelly
+"H2, F0",7,Patrick,16,James,Brother of James
+"H2, F0",7,Patrick,20,Isaac,Brother of Isaac (#2)
+"H2, F0",7,Patrick,8,Letty,Husband of Letty
+"H2, F0",7,Patrick,9,Cornelius,Father of Cornelius
+"H2, F0",7,Patrick,10,Francis,Father of Francis
+"H2, F0",7,Patrick,11,Susan,Father of Susan
+"H2, F0",7,Patrick,12,Gabriel,Father of Gabriel
+"H2, F0",7,Patrick,13,Peter,Father of Peter
+"H2, F0",7,Patrick,14,Jackson,Father of Jackson
+"H2, F0",7,Patrick,15,Elizabeth,Father of Elizabeth
+F2,8,Letty,7,Patrick,Wife of Patrick
+F2,8,Letty,9,Cornelius,Mother of Cornelius
+F2,8,Letty,10,Francis,Mother of Francis
+F2,8,Letty,11,Susan,Mother of Susan
+F2,8,Letty,12,Gabriel,Mother of Gabriel
+F2,8,Letty,13,Peter,Mother of Peter
+F2,8,Letty,14,Jackson,Mother of Jackson
+F2,8,Letty,15,Elizabeth,Mother of Elizabeth
+F2,9,Cornelius,7,Patrick,Son of Patrick
+F2,9,Cornelius,8,Letty,Son of Letty
+F2,9,Cornelius,10,Francis,Brother of Francis
+F2,9,Cornelius,11,Susan,Brother of Susan
+F2,9,Cornelius,12,Gabriel,Brother of Gabriel
+F2,9,Cornelius,13,Peter,Brother of Peter
+F2,9,Cornelius,14,Jackson,Brother of Jackson
+F2,9,Cornelius,15,Elizabeth,Brother of Elizabeth
+F2,10,Francis,7,Patrick,Son of Patrick
+F2,10,Francis,8,Letty,Son of Letty
+F2,10,Francis,9,Cornelius,Brother of Cornelius
+F2,10,Francis,11,Susan,Brother of Susan
+F2,10,Francis,12,Gabriel,Brother of Gabriel
+F2,10,Francis,13,Peter,Brother of Peter
+F2,10,Francis,14,Jackson,Brother of Jackson
+F2,10,Francis,15,Elizabeth,Brother of Elizabeth
+F2,11,Susan,7,Patrick,Daughter of Patrick
+F2,11,Susan,8,Letty,Daughter of Letty
+F2,11,Susan,9,Cornelius,Sister of Cornelius
+F2,11,Susan,10,Francis,Sister of Francis
+F2,11,Susan,12,Gabriel,Sister of Gabriel
+F2,11,Susan,13,Peter,Sister of Peter
+F2,11,Susan,14,Jackson,Sister of Jackson
+F2,11,Susan,15,Elizabeth,Sister of Elizabeth
+F2,12,Gabriel,7,Patrick,Son of Patrick
+F2,12,Gabriel,8,Letty,Son of Letty
+F2,12,Gabriel,9,Cornelius,Brother of Cornelius
+F2,12,Gabriel,10,Francis,Brother of Francis
+F2,12,Gabriel,11,Susan,Brother of Susan
+F2,12,Gabriel,13,Peter,Brother of Peter
+F2,12,Gabriel,14,Jackson,Brother of Jackson
+F2,12,Gabriel,15,Elizabeth,Brother of Elizabeth
+F2,13,Peter,7,Patrick,Son of Patrick
+F2,13,Peter,8,Letty,Son of Letty
+F2,13,Peter,9,Cornelius,Brother of Cornelius
+F2,13,Peter,10,Francis,Brother of Francis
+F2,13,Peter,11,Susan,Brother of Susan
+F2,13,Peter,12,Gabriel,Brother of Gabriel
+F2,13,Peter,14,Jackson,Brother of Jackson
+F2,13,Peter,15,Elizabeth,Brother of Elizabeth
+F2,14,Jackson,7,Patrick,Son of Patrick
+F2,14,Jackson,8,Letty,Son of Letty
+F2,14,Jackson,9,Cornelius,Brother of Cornelius
+F2,14,Jackson,10,Francis,Brother of Francis
+F2,14,Jackson,11,Susan,Brother of Susan
+F2,14,Jackson,12,Gabriel,Brother of Gabriel
+F2,14,Jackson,13,Peter,Brother of Peter
+F2,14,Jackson,15,Elizabeth,Brother of Elizabeth
+F2,15,Elizabeth,7,Patrick,Son of Patrick
+F2,15,Elizabeth,8,Letty,Son of Letty
+F2,15,Elizabeth,9,Cornelius,Sister of Cornelius
+F2,15,Elizabeth,10,Francis,Sister of Francis
+F2,15,Elizabeth,11,Susan,Sister of Susan
+F2,15,Elizabeth,12,Gabriel,Sister of Gabriel
+F2,15,Elizabeth,13,Peter,Sister of Peter
+F2,15,Elizabeth,14,Jackson,Sister of Jackson
+"H4, F0",16,James,1,Isaac,Son of Isaac (#1)
+"H4, F0",16,James,2,Charles,Brother of Charles
+"H4, F0",16,James,3,Nelly,Brother of Nelly
+"H4, F0",16,James,7,Patrick,Brother of Patrick
+"H4, F0",16,James,20,Isaac,Brother of Isaac (#2)
+"H4, F0",16,James,17,Delia,Husband of Delia
+"H4, F0",16,James,18,Susan,Father of Susan (#2)
+"H4, F0",16,James,19,George,Father of George
+F4,17,Delia,16,James,Wife of James
+F4,17,Delia,18,Susan,Mother of Susan (#2)
+F4,17,Delia,19,George,Mother of George
+F4,18,Susan (#2),16,James,Daughter of James
+F4,18,Susan (#2),17,Delia,Daughter of Delia
+F4,18,Susan (#2),19,George,Sister of George
+F4,19,George,16,James,Daughter of James
+F4,19,George,17,Delia,Daughter of Delia
+F4,19,George,18,Susan,Brother of Susan (#2)
+"H5, F0",20,Isaac (#2),1,Isaac,Son of Isaac (#1)
+"H5, F0",20,Isaac (#2),2,Charles,Brother of Charles
+"H5, F0",20,Isaac (#2),3,Nelly,Brother of Nelly
+"H5, F0",20,Isaac (#2),7,Patrick,Brother of Patrick
+"H5, F0",20,Isaac (#2),16,James,Brother of James
+"H5, F0",20,Isaac (#2),21,Kitty,Wife of Kitty
+"H5, F0",20,Isaac (#2),22,Austin,Father of Austin
+"H5, F0",20,Isaac (#2),23,Isaac,Father of Isaac (#3)
+"H5, F0",20,Isaac (#2),24,Elias,Father of Elias
+F5,21,Kitty,20,Isaac,Wife of Isaac (#2)
+F5,21,Kitty,22,Austin,Mother of Austin
+F5,21,Kitty,23,Isaac,Mother of Isaac (#3)
+F5,21,Kitty,24,Elias,Mother of Elias
+F5,22,Austin,20,Isaac,Son of Isaac (#2)
+F5,22,Austin,21,Kitty,Son of Kitty
+F5,22,Austin,23,Isaac,Brother of Isaac (#3)
+F5,22,Austin,24,Elias,Brother of Elias
+F5,23,Issac (#3),20,Isaac,Son of Isaac (#2)
+F5,23,Issac (#3),21,Kitty,Son of Kitty
+F5,23,Issac (#3),22,Austin,Brother of Austin
+F5,23,Issac (#3),24,Elias,Brother of Elias
+F5,24,Elias,20,Isaac,Son of Isaac (#2)
+F5,24,Elias,21,Kitty,Son of Kitty
+F5,24,Elias,23,Austin,Brother of Austin
+F5,24,Elias,24,Elias,Brother of Elias
