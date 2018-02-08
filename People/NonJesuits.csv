@@ -1,0 +1,195 @@
+dcterms:identifier ,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,dcterms:description ,dcterms:isReferencedBy 
+,,,,,,
+NJ001,Leonard Neale,Leonard,Neale,white lay person,,
+,,,,,,
+NJ002,Ambrose Marechal,Ambrose,Marechal,white lay person,"Suplician, third Archbishop of Baltimore. Spends time at Bohemia and on the faculty at Georgetown College. https://en.wikipedia.org/wiki/Ambrose_Mar%C3%A9chal",
+,,,,,,
+NJ003,Charles Carroll,Charles,Carroll,white lay person,,
+,,,,,,
+NJ004,James Carroll,James,Carroll,white lay person,,
+,,,,,,
+NJ005,Elizabeth Norris,Elizabeth,Norris,white lay person,Contract,
+,,,,,,
+NJ006,Harry,Harry,,white lay person,,
+,,,,,,
+NJ007,John Butler,John,Butler,white lay person,Contract,
+,,,,,,
+NJ008,Dorothy Digges,Dorothy,Digges,white lay person,,
+,,,,,,
+NJ009,Nicholas Lewis Sewall,Nicholas Lewis,Sewall,white lay person,,MPA-39-8-NLSewallInventory-1802-11-11.json
+,,,,,,
+NJ010,Henry Young,Henry,Young,white lay person,purchasing enslaved people from White Marsh in 1824; Own s Nelly s husband Peter ,MPA-24-2-ProceedingsoftheCorporationVol2-1824-09-29.json
+,,,,,,
+NJ011,"Outerbridge Horsey, III",Outerbridge ,Horsey,white lay person,1832 sales talks   St. Thomas s;  John Lee s Brother-in-law , http://mdhistory.net/msaref14/msa_sc1848/html/index.html Senator
+,,,,,,
+NJ012,John Lee,John,Lee,white lay person,1832 sales talks   St. Thomas s;  Horsey s Brother-in-Law , http://mdhistory.net/msaref14/msa_sc1848/html/index.html Congressman
+,,,,,,
+NJ013,Mr. Masi,,Masi,white lay person,"Late 1820s the Corp authorizes the sale of a child, boy or girl from any of the farms",MPA-24-2-ProceedingsoftheCorporationVol2-late-1820s.json
+,,,,,,
+NJ014,Thomas Curd,Thomas,Curd,white lay person,,
+,,,,,,
+NJ015,George Fenwick I,George ,Fenwick I,white lay person,"Father of Francis Fenwick and George Fenwick, II, SJ",MPA-25-7-GeorgeFenwickWill-1807-05-08.json
+,,,,,,
+NJ016,Philip Fenwick ,Philip ,Fenwick ,white lay person,Father of Enoch Fenwick,MPA-25-7-PhilipFenwickWill-1782-03-05.json
+,,,,,,
+NJ017,William Fenwick,William,Fenwick ,white lay person,Uncle of Enoch Fenwick and (?) Benedict Fenwick,MPA-25-7-WilliamFenwickWill-1813-01-05.json
+,,,,,,
+NJ018,Monica Fenwick,Monica,Fenwick ,white lay person,Spouse of William Fenwick (NJ017),MPA-25-7-WilliamFenwickWill-1813-01-05.json
+,,,,,,
+NJ019,Henry Sewall,Henry,Sewall,white lay person,Brother of Charles Sewall (J017),MPA-25-8-Henry-Sewall-Will-1801-12-30.json
+,,,,,,
+NJ020,Eleanor Pye,Eleanor,Pye,white lay person,Sister of Charles Sewall (J017),MPA-25-12-Charles-Sewall-will-1806-08-15.json
+,,,,,,
+NJ021,Henry Pye,Henry,Pye,white lay person,Grandnephew of Charles Sewall,MPA-25-12-Charles-Sewall-will-1806-08-15.json
+,,,,,,
+NJ022,John Pye,John,Pye,white lay person,Grandnephew of Charles Sewall,MPA-25-12-Charles-Sewall-will-1806-08-15.json
+,,,,,,
+NJ023,John Leach,John,Leach,white lay person,,MPA-26-2-Neale-Marshall-1817-12-01.json
+,,,,,,
+NJ024,Robert Digges,Robert,Digges,white lay person,"Child of Robert Digges, Child of Dorothy","MPA-26-7-DorothyDiggesSaleToCharlesSewall-1803-04-09,json"
+,,,,,,
+NJ025,George Digges,George ,Digges,white lay person,"Father of Robert Digges, Spouse of Dorothy Digges","MPA-26-7-DorothyDiggesSaleToCharlesSewall-1803-04-09,json"
+,,,,,,
+NJ026,John Morton,John ,Morton,white lay person,"leases Ambrose Marechal s servant James, Blacksmith",MPA-30-3-Marechal-Lease-James-blacksmith-Morton-1798-01-11.json
+,,,,,,
+NJ027,James O Donald,James,O Donald,white lay person,lease agreement with Ambrose Marechal,MPA-30-3-Marechal-Odonald-BohemiaLease-1795-12-24.json
+,,,,,,
+NJ028,William Corkrill,William,Corkrill,white lay person,Overseer on St. Joseph s (1803),MPA-31-2-StJosephsInventory-1803-04-28.json
+,,,,,,
+NJ029,Sarah Price,Sarah,Price,white lay person,removed Tilly from St. Joseph s in 1803 without permission,MPA-31-2-StJosephsInventory-1803-04-28.json
+,,,,,,
+NJ030,Campbell,,Campell,white lay person,,MPA-35-6-AshtonCampbellEstateLegalDispute-1780.json
+,,,,,,
+NJ031,William Hall,William ,Hall,white lay person,sold Nann to Woods & Alston of Georgia,MPA-35-6-WilliamHall-SlaveSaleToGeorgia-1803-05-07.json
+,,,,,,
+NJ032,Woods & Alston,,Woods & Alston,white lay person,contract with William Hall,MPA-35-6-WilliamHall-SlaveSaleToGeorgia-1803-05-07.json
+,,,,,,
+NJ033,Thomas Attwood,Thomas,Attwood,white lay person,brother of George Attwood,MPA-35-6-AttwoodSellsHisBrother12Slaves-1727-10-02
+,,,,,,
+NJ034,Francis Fenwick,Francis,Fenwick ,white lay person,"brother of George Fenwick, SJ",MPA-39-2-Margaret-Francis-Fenwick-sale-1813-08-10
+,,,,,,
+NJ035,John G. Johnson,John G.,Johnson,white lay person,bought Harriot from George Fenwick,MPA-39-6-FenwickSaleofHarriot-1830-10-15.json
+,,,,,,
+NJ036,Jane Fenwick,Jane,Fenwick ,white lay person,,MPA-39-7-GeorgeFenwick-I-Distribution-1774-06-20.json
+,,,,,,
+NJ037,Ann Fenwick,Ann ,Fenwick ,white lay person,,MPA-39-10-FrancisNealeArrangeSecretSale-1808.json
+,,,,,,
+NJ038,John Wiseman,John,Wiseman,white lay person,,MPA-39-10-FrancisNealeArrangeSecretSale-1808.json
+,,,,,,
+NJ039,John Dorsey,John,Dorsey,white lay person,shoemaker,MPA-44-1-StInigosRentLedger-1804-1832.json
+,,,,,,
+NJ040,George G. Guyther,George G.,Guyther,white lay person,sold Ned to Joseph Carbery,MPA-44-1-StInigosRentLedger-1804-1832.json
+,,,,,,
+NJ031,William Hall,William,Hall,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ041,William L. Hilton,William L.,Hilton,white lay person,hired work of Arnold from St. Inigoes in 1837,MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ042,Peter Smith,Peter,Smith,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ043,Thomas Smith,Thomas,Smith,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ044,Ignatius Langley,Ignatius,Langley,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ045,William Beam,William,Beam,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ046,John Bennett,John,Bennett,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ047,William Heard,William,Heard,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ048,Robert Bean,Robert,Bean,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ049,Dr. Jones,,Jones,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ050,L. Harmon,L.,Harmon,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ051,Mr. Biscoe,,Biscoe,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ052,William McKey,William,McKey,white lay person,hired enslaved labor from St. Inigoes (1834-1839),MPA-44-2-StInigoesAccountLedger-1843-1850.json
+,,,,,,
+NJ053,Mr. Estes,,Estes,white lay person,owner of Solomon,MPA-44-4-LooseScrap-NewtownDaybook-1765.json
+,,,,,,
+NJ054,Benjamin G. Harris,Benjamin G.,Harris,white lay person,owner of George Mills,MPA-44-5-GeorgeMills-Louise-marriagepermission-1848-07-15.json
+,,,,,,
+NJ055,Aloysius Fenwick,Aloysius,Fenwick ,white lay person,owner of Louise,MPA-44-5-GeorgeMills-Louise-marriagepermission-1848-07-15.json
+,,,,,,
+NJ056,Charles Bowling,Charles,Bowling,white lay person,sold woman to Newtown,MPA-45-3-NewtownDayBook-1807-1816.json
+,,,,,,
+NJ057,Margaret Fenwick,Margaret ,Fenwick ,white lay person,"mother of George Fenwick, SJ, Benedict Fenwick, SJ, and Enoch Fenwick, SJ",
+,,,,,,
+NJ058,Eleanor Sewall Fenwick,Eleanor,Fenwick (Sewall),white lay person,married to Francis Fenwick (NJ034),
+,,,,,,
+NJ059,James Marymann,James,Marymann,white lay person,buys two  small  people from Newtown,MPA-46-1-NewtownAccountsLedger-1816-1832.json
+,,,,,,
+NJ060,Joseph Heard,Joseph,Heard,white lay person,exchanges his Anne for Minty and childe,MPA-46-4-StThomasAcctBk-1820-1824
+,,,,,,
+NJ061,Walter Speak,Walter ,Speak,white lay person,sold Jess to St. Thomas's Manor ,MPA-46-6-StThomasAcctBook-1793-1821
+,,,,,,
+NJ062,Mr. Doyne,,Doyne,white lay person,purchas of Joe,MPA-46-6-StThomasAcctBook-1793-1821
+,,,,,,
+NJ063,William Brent,Wiliam,Brent,white lay person,purchase of Michael,MPA-47-2-StThomasAccountBook-1793-1822
+,,,,,,
+NJ064,Joseph Fenwick,Joseph,Fenwick ,white lay person,purchase of Michael,MPA-47-2-StThomasAccountBook-1793-1822
+,,,,,,
+NJ065,Dr. Raphael Smith,Raphael,Smith,white lay person,purchase of Rosweld,MPA-47-2-StThomasAccountBook-1793-1822
+,,,,,,
+NJ066,David Hains,David,Hains,white lay person,purchase of Esther from Bohemia,MPA-49-3-BohemiaDayBook-1790-1870.json
+,,,,,,
+NJ067,John Carty,John,Carty,white lay person,"purchase of Kate, Jonathn, and Bob",MPA-49-3-BohemiaDayBook-1790-1870.json
+,,,,,,
+NJ068,Perry Greenwood,Perry,Greenwood,white lay person,purchase of Nell and her son Perry,MPA-49-3-BohemiaDayBook-1790-1870.json
+,,,,,,
+NJ069,Thomas McKenny,Thomas,McKenny,white lay person,purchase of Martha,MPA-49-3-BohemiaDayBook-1790-1870.json
+,,,,,,
+NJ070,Aitkey Pennington,Aitkey,Pennington,white lay person,purchase of Sarah and Jerry,MPA-49-3-BohemiaDayBook-1790-1870.json
+,,,,,,
+NJ071,Samuel Fulton,Samuel,Fulton,white lay person,sold Mary Hannah and Issac to Bohemia,MPA-49-3-BohemiaDayBook-1790-1870.json
+,,,,,,
+NJ072,John Fulton,John,Fulton,white lay person,sold Mary Hannah and Issac to Bohemia,MPA-49-3-BohemiaDayBook-1790-1870.json
+,,,,,,
+NJ073,John Ryland,John,Ryland,white lay person,purchased Dina Jacob and Jemima,MPA-49-3-BohemiaDayBook-1790-1870.json
+,,,,,,
+NJ074,Joseph Carbery,Joseph,Carberry,white lay person,sold Agnes and Mary to Newtown in 1794,1782-MPA-44-4-NewtownDayBook-loose-SlaveList-1782-1796.json
+,,,,,,
+NJ075,R. Thompson,R.,Thompson,white lay person,"owner of Harry, who is father of Jerry (6156)",1782-MPA-44-4-NewtownDayBook-loose-SlaveList-1782-1796.json
+,,,,,,
+NJ076,Edmond Plowden,Edmond,Plowden,white lay person,exchanged his William for Jane and Rachel,1782-MPA-44-4-NewtownDayBook-loose-SlaveList-1782-1796.json
+,,,,,,
+NJ077,Marun Duval,Marun,Duval,white lay person,owner of Rachel (4114),1818-MPC-3-4-WhiteMarshBaptismalRegistry-1818-1822.json
+,,,,,,
+NJ078,Jeremiah Neale,Jeremiah ,Neale,white lay person,sold man to the College,GUArchives-Ledger-1803-1813.json
+,,,,,,
+NJ079,Philip Bussard,Philip ,Bussard,white lay person,purchased a woman from the College,GUArchives-Ledger-1803-1813.json
+,,,,,,
+NJ080,John Hoover,John,Hoover,white lay person,purchased people from the College (perhaps 15 @ $400),GUArchives-DayBook-1837-1854.json
+,,,,,,
+NJ081,Mr. Herbert,,Herbert,white lay person,owner of Clem's wife (7095),CHMC-6-7-Grassi-Marshall-1817-02-06.json
+,,,,,,
+NJ082,Mr. Magruder,,Magruder,white lay person,owner of Emmy West (7108),1818-MPC-3-4-WhiteMarshBaptismalRegistry-1818-1833.json
+,,,,,,
+NJ083,Mr. Wooden,,Wooden,white lay person,owner of Patsy Mahony (7109),1818-MPC-3-4-WhiteMarshBaptismalRegistry-1818-1833.json
+,,,,,,
+NJ084,Joseph Erins,Joseph,Erins (might be Evins),white lay person,owner of John Thomas (7110),1818-MPC-3-4-WhiteMarshBaptismalRegistry-1818-1833.json
+,,,,,,
+NJ085,Mrs. Carpenter,,Carpenter,white lay person,owner of Eliza (7131),MPA-101-9-NewtownSacramentalRegister-1819-1857.json
+,,,,,,
+NJ086,William Llewellin,William,Llewellin,white lay person,owner of Henry (7132),MPA-101-9-NewtownSacramentalRegister-1819-1857.json
+,,,,,,
+NJ087,Capt. Chiseldine,Capt.,Chiseldine,white lay person,owner of Henry (7133),MPA-101-9-NewtownSacramentalRegister-1819-1857.json
+,,,,,,
+NJ088,Mr. Plowden,,Plowden,white lay person,owner of Henry (7134) might be the same as Edmond Plowden but I think this is another brother,MPA-26.5-2-NewtownBaptisms-(1806-1835)
+,,,,,,
+NJ089,John Jenkins,John,Jenkins,white lay person,owner of Nicholas (7135),MPA-26.5-2-NewtownBaptisms-(1806-1835)
+,,,,,,
+NJ090,Washington Bowling,Washington,Bowling,white lay person,sold Sarah (6111),MPA-26.5-2-NewtownBaptisms-(1806-1835)
+,,,,,,
+NJ091,Mary June,Mary,June,white lay person,owner of Mary (7136),MPA-101-9-NewtownSacramentalRegister-1819-1857.json
+,,,,,,
+NJ092,Molly Ford,Molly ,Ford,white lay person,owner of Mary (7137),MPA-101-9-NewtownSacramentalRegister-1819-1857.json
+,,,,,,
+NJ093,Richard Wright,Richard,Wright,white lay person,purchase of person from the College,GUArchives-DayBook-1830-1836.json
+NJ094,M. Middleton,M.,Middleton,white lay person,sold Perry (6078) to St. Inigoes,MPA-26.5-2-NewtownBaptisms-(1806-1835)
+NJ095,George Reese,George ,Reese,white lay person,purchased enslaved people: Nell (5091) and Philis (5014),1790-MPC-1-1-Records of Bohemia-1790.json
+NJ096,Robert Hodgson,Robert,Hodgson,white lay person,purchased Jany (5103),1790-MPC-1-1-Records of Bohemia-1790.json
+NJ097,John Cainan,John,Cainan,white lay person,purchased Bob (5097),1790-MPC-1-1-Records of Bohemia-1790.json
+NJ098,James Pennington,James,Pennington,white lay person,purchase of 5082,1790-MPC-1-1-Records of Bohemia-1790.json
+NJ099,Robert Milligan,Robert,Milligan,white lay person,purchased William (5054),MPA-49-3-BohemiaDayBook-1790-1870.json

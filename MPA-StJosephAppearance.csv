@@ -1,0 +1,55 @@
+OS-ID,Identifier,Title,Date,Date type,Date of Birth,Note,Type,File,Age,Value,Estimated Value,Relationship,Identifier,Relationship,Identifier,Relationship,Identifier,Location,SJ,Identifier,SJ,Identifier,Source
+1194,3000,Mary,1765-12-27,baptism,,,sacramental record,,,,,sibling of ,3001,sibling of,3002,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2040,3001,Davy,1765-12-27,god parent,,,sacramental record,,,,,sibling of ,3000,sibling of,3002,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2041,3002,Lucy,1765-12-27,god parent,,,sacramental record,,,,,sibling of ,3000,sibling of ,3001,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1910,3003,Maria,1830-04-27,sale,,authorized sale of her 3 children,Corporation Proceedings,,,,,parent of,3004,parent of,3005,parent of,3006,St. Joseph's,,,,,MPA-24-2-ProceedingsoftheCorporationVol2-late-1830-04-27.json
+1911,3004,Child,1830-04-27,sale,,authorized sale of Maria�۪s 3 children,Corporation Proceedings,,,,,child of ,3003,sibling of,3005,sibling of ,3006,St. Joseph's,,,,,MPA-24-2-ProceedingsoftheCorporationVol2-late-1830-04-27.json
+1912,3005,Child,1830-04-27,sale,,authorized sale of Maria�۪s 3 children,Corporation Proceedings,,,,,child of ,3003,sibling of,3004,sibling of ,3006,St. Joseph's,,,,,MPA-24-2-ProceedingsoftheCorporationVol2-late-1830-04-27.json
+1913,3006,Child,1830-04-27,sale,,authorized sale of Maria�۪s 3 children,Corporation Proceedings,,,,,child of ,3003,sibling of,3004,sibling of ,3005,St. Joseph's,,,,,MPA-24-2-ProceedingsoftheCorporationVol2-late-1830-04-27.json
+1999,3007,Michael,1830-06-30,account,,hire for 1832,account book,,,,40.00 per annum,,,,,,,St. Joseph's,,,,,MPA-31-2-Acct-StJoseph-1830-1831.json
+1999,3007,Michael,1831,visitation,,Kenney observation,report,,,,,,,,,,,St. Joseph's,Peter Kenney,J031,,,MPA-31-2-ReportPeterKenney-1831.json
+1999,3007,Michael,1831-06-29,visitation,,,notes,,,,$750/3,,,,,,,St. Joseph's,Peter Kenney,J031,Joseph Marshall,J045,MPA-31-2-VisitationStJosephs-1830-06-29.json
+1128,3008,Betsy,1830-06-30,account,,hire for 1832,account book,,,,12.00 per annum,,,,,,,St. Joseph's,,,,,MPA-31-2-Acct-StJoseph-1830-1831.json
+1477,3009,Nan ,1803-04-28,inventory,,,inventory,,45,,,overseen by William Corkrill,NJ028,,,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+1477,3009,Nancy,1831,visitation,,Kenney observation,report,,,,,,,,,,,St. Joseph's,Peter Kenney,J031,,,MPA-31-2-ReportPeterKenney-1831.json
+1477,3009,Nancy,1831-06-29,visitation,,,notes,,70,,burden,,,,,,,St. Joseph's,Peter Kenney,J031,Joseph Marshall,J045,MPA-31-2-VisitationStJosephs-1830-06-29.json
+2001,3010,Sam,1831,visitation,,Kenney observation,report,,,,,,,,,,,St. Joseph's,Peter Kenney,J031,,,MPA-31-2-ReportPeterKenney-1831.json
+2001,3010,Sam,1831-06-29,visitation,,,notes,,12,,burden,,,,,,,St. Joseph's,Peter Kenney,J031,Joseph Marshall,J045,MPA-31-2-VisitationStJosephs-1830-06-29.json
+2002,3011,Ned,1831,visitation,,Kenney observation,report,,,,,,,,,,,St. Joseph's,Peter Kenney,J031,,,MPA-31-2-ReportPeterKenney-1831.json
+1478,3013,Paul,1803-04-28,inventory,,,inventory,,43,,,overseen by William Corkrill,NJ028,,,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+1479,3014,Mary,1803-04-28,inventory,,,inventory,,38,,,overseen by William Corkrill,NJ028,,,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+1480,3015,Matt,1803-04-28,inventory,,,inventory,,32,,,overseen by William Corkrill,NJ028,,,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+1481,3016,Sam,1803-04-28,inventory,,,inventory,,30,,,overseen by William Corkrill,NJ028,,,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+1482,3017,Hannah,1803-04-28,inventory,,,inventory,,22,,,overseen by William Corkrill,NJ028,,,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+1483,3018,John,1803-04-28,inventory,,,inventory,,16,,,overseen by William Corkrill,NJ028,,,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+1484,3019,Maria,1803-04-28,inventory,,,inventory,,5,,,overseen by William Corkrill,NJ028,,,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+1485,3020,Ned,1803-04-28,inventory,,3011? ,inventory,,2,,,overseen by William Corkrill,NJ028,,,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+1485,3020,Ned,1831-06-29,visitation,,,notes,,30,,$750/3,,,,,,,St. Joseph's,Peter Kenney,J031,Joseph Marshall,J045,MPA-31-2-VisitationStJosephs-1830-06-29.json
+1486,3021,Tilly,1803-04-28,inventory,,,inventory,,20,,,overseen by William Corkrill,NJ028,knows of Sarah Price,NJ029,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+1487,3022,Thom,1803-04-28,inventory,,ran away on 1803-04-08,inventory,,24,,,overseen by William Corkrill,NJ028,,,,,St. Joseph's,John Ambrose Sauge,J046,,,MPA-31-2-StJosephsInventory-1803-04-28.json
+2003,3023,Tom,1831-06-29,visitation,,,notes,,30,,$750/3,,,,,,,St. Joseph's,Peter Kenney,J031,Joseph Marshall,J045,MPA-31-2-VisitationStJosephs-1830-06-29.json
+2004,3026,Lucy,1831-06-29,visitation,,,notes,,18,,$100.00,,,,,,,St. Joseph's,Peter Kenney,J031,Joseph Marshall,J045,MPA-31-2-VisitationStJosephs-1830-06-29.json
+2005,3027,Belle,1831-06-29,visitation,,hired out,notes,,17,,$100.00,,,,,,,St. Joseph's,Peter Kenney,J031,Joseph Marshall,J045,MPA-31-2-VisitationStJosephs-1830-06-29.json
+1195,3028,Matthew,1771-10-16,baptism,,,sacramental record,,,,,godchild of Thom.,3029,godchild of Peg (Chs Blake's),,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2042,3029,Thom,1771-10-16,godparent,,,sacramental record,,,,,godparent of Matthew,3028,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1196,3030,Thom,1773-04-04,baptism,,Tom and Nell Told (parents? With last name?),sacramental record,,,,,godchild of Paul,3031,godchild of Nell (Henry Blake's),,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2043,3031,Paul,1773-04-04,godparent,,,sacramental record,,,,,godparent of Thom,3030,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2043,3031,Paul,1778-10-10,godparent,,,sacramental record,,,,,godparent of Thomas,3036,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1197,3032,Samuel,1773-09-04,baptism,,,sacramental record,,,,,godchild of David,3033,godchild of Hester (Mrs. Sullivan's),,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2044,3033,David,1773-09-04,godparent,,,sacramental record,,,,,godparent of Samuel,3032,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1198,3034,Frances,1775-02-07,baptism,,,sacramental record,,,,,godchild of Thomas (Mr. Tuite's),,godchild of Mary or Poll (Mr. Tuite's),,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1199,3035,Margaret,1777-08-24,baptism,,,sacramental record,,,,,godchild of Abraham of Corsica creek,,godchild of Nan of Corsica Creek,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1200,3036,Thomas,1778-10-10,baptism,,,sacramental record,,,,,godchild of Paul,3031,godchild of Frank (C. Blake's),,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2045,3037,Jinny,1779-11-14,godparent,,,sacramental record,,,,,godparent of Hannah,,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2045,3037,Jinny,1783-02-17,godparent,,,sacramental record,,,,,godparent of Jeremiah (Mr. Cochran's),,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1201,3038,Henrietta,1780-04-09,baptism,,,sacramental record,,,,,godchild of Mary,3039,godchild of Abraham (Mr. Blake's),,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2046,3039,Mary,1780-04-09,godparent,,,sacramental record,,,,,godparent of Henrietta,3038,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2046,3039,Mary,1781-09-01,godparent,,,sacramental record,,,,,godparent of John Baptist,3040,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1202,3040,John Baptist,1781-09-01,baptism,,,sacramental record,,,,,godchild of John Butter,,godchild of Mary,3039,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1202,3040,John Baptist,1781-09-06,death,,,sacramental record,,,,,,,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1203,3041,Gleotilda,1782-10-12,baptism,,,sacramental record,,,,,godchild of John Butter,,godchild of Petronella (Chs. Blake's),,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2047,3042,Jerry,1783-02-17,godparent,,,sacramental record,,,,,godparent of Jeremiah (Mr. Cochran's),,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1204,3043,Jane,1786-03-04,baptism,,,sacramental record,,,,,godchild of Fanny,3044,godchild of Robert (Tuite's),,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+2048,3044,Fanny,1786-03-04,godparent,,,sacramental record,,,,,godparent of Jane,3043,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1205,3045,Jerry,1799-03-16,baptism,,,sacramental record,,,,,child of Henny,3046,godchild of Cliotilda,3041,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
+1747,3046,Henny,1799-03-16,parenthood,,,sacramental record,,,,,parent of Jerry,3045,,,,,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
