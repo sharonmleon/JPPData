@@ -1,0 +1,139 @@
+OS-ID,dcterms:identifier ,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,schema:foundingDate ,Date type,bio:birth ,bio:death ,dcterms:description ,Type,child of ,schema:homeLocation ,dcterms:isReferencedBy ,dcterms:isReferencedBy 
+2675,8168,Nace (Butler),Nace,(Butler),enslaved,1838,inventory,1818-01-01,,ran away,20,,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2676,8176,Gabe,Gabe,,enslaved,1838,inventory,1830-01-01,,listed as 9,8,,3,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2677,8178,Henry,Henry,,enslaved,1838,inventory,1832-01-01,,listed as 7 ,6,,3,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2678,8179,Thomas,Thomas,,enslaved,1838,inventory,1833-01-01,,,5,,3,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2679,8180,Mary ,Mary ,,enslaved,1838,inventory,1835-01-01,,,3,,3,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2680,8181,John Lewis,John,Lewis,enslaved,1838,inventory,1836-01-01,,name from bill of sale,1.5,,3,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2681,8184,Amanda,Amanda,,enslaved,1838,inventory,1830-01-01,,Age 10 in bill of sale,8,,3,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2682,8185,Elizabeth,Elizabeth,,enslaved,1838,inventory,1831-01-01,,Age 8 in bill of sale,7,,3,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2683,8186,Billy,Billy,,enslaved,1838,inventory,1832-01-01,,,6,,3,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2684,8187,Biby,Biby,,enslaved,1838,inventory,1833-01-01,,,5,,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2685,8188,Hariet Eagline,Hariet,Eagline,enslaved,1838,inventory,1833-01-01,,Surname from bill of sale;  age 6 in bill of sale,5,,3,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2686,8189,Robert,Robert,,enslaved,1838,inventory,1795-01-01,,,43,F21,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2687,8192,Robert,Robert,,enslaved,1838,inventory,1824-01-01,,,14,F21,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2688,8195,Mary Jane,Mary Jane,,enslaved,1838,inventory,1828-01-01,,,10,F21,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2689,8197,Sally Anne,Sally Anne,,enslaved,1838,inventory,1831-01-01,,,7,F21,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2690,8198,Nelly,Nelly,,enslaved,1838,inventory,1832-01-01,,,6,F21,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2691,8199,Charles,Charles,,enslaved,1838,inventory,1833-01-01,,,5,F21,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2692,8200,Child,Child,,enslaved,1838,inventory,1836-01-01,,,2,F21,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2693,8218,Arnold Jones,Arnold,Jones,enslaved,1838,inventory,1831-01-01,,Age 9 in bill of sale;  surname inferred from family,7,F41,3,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2694,8219,Louisa,Louisa,,enslaved,1838,inventory,1833-01-01,,Age 6 in bill of sale,5,,3,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2695,8220,Betsy Dorsey,Betsy,Dorsey,enslaved,1838,inventory,1800-01-01,,Betty Dorsey (30) in Bill of sale,38,,3,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2696,8221,Baney,Baney,,enslaved,1838,inventory,1826-01-01,,Bernard (15) in bill of sale,12,,3,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2697,8223,Greenfield,Greenfield,,enslaved,1838,inventory,1833-01-01,,,5,,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2698,8224,Daniel,Daniel,,enslaved,1838,inventory,1834-01-01,,,4,,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2699,8230,Rachel,Rachel,(Campbell),enslaved,1838,inventory,1827-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,11,F22,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2700,8233,Emeline,Emeline,(Campbell),enslaved,1838,inventory,1832-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,6,F22,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2701,8234,Watt,Watt,(Campbell),enslaved,1838,inventory,1835-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,3,F22,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2702,8235,Child,Child,(Campbell),enslaved,1838,inventory,1837-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,1,F22,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2703,8238,Matt,Matt,,enslaved,1838,inventory,1828-01-01,,,10,,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2704,8239,Ginny,Ginny,,enslaved,1838,inventory,1831-01-01,,,7,,3,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2705,8240,Catherine,Catherine,,enslaved,1838,inventory,1834-01-01,,,4,,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2706,8241,Child (Maria - 9 months),Maria,,enslaved,1838,inventory,1837-01-01,,,0.5,,3,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2707,8251,Alexius,.Alexius,,enslaved,1838,inventory,1802-01-01,,married off,36,,3,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2708,8255,Girl,Girl,,enslaved,1838,inventory,1836-01-01,,,2,F30,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2709,8258,Henny [strike through],Henny [strike through],,enslaved,1838,inventory,1778-01-01,,married off,60,F32,3,,http://slaveryarchive.georgetown.edu/items/show/9
+2710,8127,Peter,Peter,,enslaved,1838,inventory,1787-01-01,,,51,,2,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2711,8132,Betty,xBetty,,enslaved,1838,inventory,1792-01-01,,,46,,2,,http://slaveryarchive.georgetown.edu/items/show/9
+2712,8155,Susanna,Susanna,,enslaved,1838,inventory,1824-01-01,,,14,,2,,http://slaveryarchive.georgetown.edu/items/show/9
+2713,8160,Luncina ,Luncina [strike through Sal],,enslaved,1838,inventory,1828-01-01,,,10,,2,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2714,8161,Dina,Dina,,enslaved,1838,inventory,1830-01-01,,,8,,2,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2715,8162,Peg,Peg [strike through Esther],,enslaved,1838,inventory,1830-01-01,,listed as 6 in bill of sale,8,,2,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2716,8164,Child of 1,Child of 1,,enslaved,1838,inventory,1837-01-01,,,1,,2,,http://slaveryarchive.georgetown.edu/items/show/9
+2717,8165,Child of 2 years old,Child of 2 years old,,enslaved,1838,inventory,1836-01-01,,,2,,2,,http://slaveryarchive.georgetown.edu/items/show/9
+2718,8102,Bernard Butler,xBernard,Butler,enslaved,1838,inventory,1803-01-01,,Surname from bill of sale,35,,5,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2719,8110,Betsy,Betsy,,enslaved,1838,inventory,1813-01-01,,"2 daughters; Could be Betsy Hill (55) from bill of sale or Besy Hill (25) w/ Sam (1), Ellen (4) and Martha (2)",25,,5,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2720,8312,Boy,Boy,,enslaved,1838,inventory,1830-01-01,,age from bill of sale,8,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2721,8313,Boy,Boy,,enslaved,1838,inventory,1836-01-01,,age from bill of sale,1.5,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2722,8300,Boy (Charles - 1),Charles,,enslaved,1838,inventory,1837-01-01,,name and age from bill of sale,1,,5,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2723,8309,Boy (Oswald - 5),Oswald,,enslaved,1838,inventory,1833-01-01,,,5,,5,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2724,8301,Boy (Sam - 1),Sam,,enslaved,1838,inventory,1837-01-01,,Is this Besty (Bess Hill_��s) missing infant Sam?,1,,5,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2725,8115,Celestia,Celestia,,enslaved,1838,inventory,1808-01-01,,age from bill of sale,30,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2726,8107,Francis,Francis,,enslaved,1838,inventory,1830-01-01,,bill of sale lists age as 10,8,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2727,8098,George Harris,xGeorge,Harris,enslaved,1838,inventory,1773-01-01,,Surname from bill of sale,65,,5,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2728,8306,Girl,Girl,,enslaved,1838,inventory,1832-01-01,,age from bill of sale,6,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2729,8307,Girl,Girl,,enslaved,1838,inventory,1834-01-01,,age from bill of sale,4,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2730,8308,Girl,Girl,,enslaved,1838,inventory,1836-01-01,,age from bill of sale,1.5,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2731,8311,Girl,Girl,,enslaved,1838,inventory,1834-01-01,,age from bill of sale,4,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2732,8314,Girl,Girl,,enslaved,1838,inventory,1828-01-01,,age from bill of sale,10,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2733,8315,Girl,Girl,,enslaved,1838,inventory,1834-01-01,,age from bill of sale,4,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2734,8316,Girl,Girl,,enslaved,1838,inventory,1834-01-01,,,4,,5,,http://slaveryarchive.georgetown.edu/items/show/9
+2735,8317,Girl,Girl,,enslaved,1838,inventory,1834-01-01,,,4,,5,,http://slaveryarchive.georgetown.edu/items/show/9
+2736,8318,Girl,Girl,,enslaved,1838,inventory,1834-01-01,,,4,,5,,http://slaveryarchive.georgetown.edu/items/show/9
+2737,8319,Girl,Girl,,enslaved,1838,inventory,1834-01-01,,,4,,5,,http://slaveryarchive.georgetown.edu/items/show/9
+2738,8304,Girl (Ellen - 4) ,Ellen,,enslaved,1838,inventory,1834-01-01,,,4,,5,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2739,8305,Girl (Martha - 2),Martha ,,enslaved,1838,inventory,1836-01-01,,,2,,5,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2740,8302,Girl (Nance - 8),Nance,,enslaved,1838,inventory,1830-01-01,,name and age from bill of sale,8,,5,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2741,8116,Henny,xHenny,,enslaved,1838,inventory,1808-01-01,,age from bill of sale,30,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2742,8105,Jim Blair,xJim,Blair,enslaved,1838,inventory,1826-01-01,,Surname from bill of sale (James);  age 14,12,,5,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2743,8121,Jinny,xJinny,,enslaved,1838,inventory,1773-01-01,,"4 daughters; might be Ginny from bill of sale, age from bill of sale",65,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2744,8096,John Butler,John,Butler,enslaved,1838,inventory,1803-01-01,,surname confirmed in two docs,35,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2745,8097,John Coyle,John,Coyle,enslaved,1838,inventory,1817-01-01,,Coyle,21,,5,,http://slaveryarchive.georgetown.edu/items/show/9
+2746,8117,Louisa,Louisa,,enslaved,1838,inventory,1818-01-01,,age from bill of sale,20,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2747,8119,Mary,xMary,,enslaved,1838,inventory,1783-01-01,,age from bill of sale,55,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2748,8120,Mary ,Mary ,,enslaved,1838,inventory,1773-01-01,,age from bill of sale,65,,5,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2749,8103,William,xWilliam,,enslaved,1838,inventory,1820-01-01,,,18,,5,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2750,8069,Adoph,xAdoph,,enslaved,1838,inventory,1828-01-01,,,10,F15,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2751,8029,Anderson,Anderson,,enslaved,1838,inventory,1820-01-01,,,18,F7,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2752,8068,Austin,xAustin,,enslaved,1838,inventory,1825-01-01,,,13,F15,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2753,8067,Betsy,Betsy,,enslaved,1838,inventory,1806-01-01,,ran away,32,H15,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2754,8082,Bill,Bill,,enslaved,1838,inventory,1796-01-01,,William (Idiot) in bill of sale,42,,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2755,8032,Billy,Billy,,enslaved,1838,inventory,1798-01-01,,Married off,40,F6,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2756,8038,Charles Queen,Charles Queen,Queen,enslaved,1838,inventory,1793-01-01,,ran away,45,H10,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2757,8042,David Queen,David,Queen,enslaved,1838,inventory,1824-01-01,,,14,F10,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2758,8017,Delia Hawkins,Delia,Hawkins,enslaved,1838,inventory,1816-01-01,,surname inferred from bill of sale (64) by family,22,F4,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2759,8086,Edward,Edward,,enslaved,1838,inventory,1835-01-01,,,3,F19,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2760,8024,Elias Hawkins,Elias,,enslaved,1838,inventory,1836-01-01,,surname inferred from bill of sale (64) by family,1 1/6,F5,6,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2761,8083,Eliza,Eliza,,enslaved,1838,inventory,1812-01-01,,married to freeman,26,H19,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2762,8043,Eliza (Queen),Eliza,Queen,enslaved,1838,inventory,1826-01-01,,Mrs. Simsteed?,12,F10,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2763,8053,Elizabeth,Elizabeth,,enslaved,1838,inventory,1837-01-01,,,1,F12,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2764,8061,Elizabeth,xElizabeth,,enslaved,1838,inventory,1815-01-01,,,23,F14,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2765,8015,Elizabeth Hawkins,Elizabeth,Hawkins,enslaved,1838,inventory,1837-01-01,,surname inferred from bill of sale by family,1,F3; F2,6,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2766,8012,Gabriel Hawkins,Gabriel,Hawkins,enslaved,1838,inventory,1830-01-01,,surname inferred from bill of sale by family,8,F3; F2,6,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2767,8019,George Hawkins,George,Hawkins,enslaved,1838,inventory,1837-01-01,,surname inferred from bill of sale (64) by family,1,F4,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2768,8071,Hariet Ann,Hariet Ann,,enslaved,1838,inventory,1834-01-01,,,4,F15,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2769,8060,Harriet,xHarriet,,enslaved,1838,inventory,1795-01-01,,married to freeman,43,H14,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2770,8004,Henny (Hawkins),Henny,Hawkins,enslaved,1838,inventory,1825-01-01,,,13,F1,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2771,8070,Henrietta,Henrietta,,enslaved,1838,inventory,1831-01-01,,,7,F15,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2772,8059,Henry,Henry,,enslaved,1838,inventory,1830-01-01,,,8,F13,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2773,8062,Iasais (Isaiah),Iasais,,enslaved,1838,inventory,1817-01-01,,ran away,21,F14,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2774,8023,"Isaac Hawkins, III",Isaac (#3),Hawkins,enslaved,1838,inventory,1834-01-01,,surname inferred from bill of sale (64) by family,4,F5,6,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2775,8014,Jackson Hawkins,Jackson,Hawkins,enslaved,1838,inventory,1835-01-01,,surname inferred from bill of sale by family,3,F3; F2,6,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2776,8080,James,James,,enslaved,1838,inventory,1788-01-01,,married to freewoman,50,,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2777,8016,James Hawkins,James,Hawkins,enslaved,1838,inventory,1810-01-01,,surname inferred from bill of sale (64) by family,28,H4; F0,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2778,8066,Jemmy,Jemmy,,enslaved,1838,inventory,1837-01-01,,,1,F14,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2779,8035,John ,John (#2),,enslaved,1838,inventory,1808-01-01,,shoemaker,30,H9,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2780,8034,John (Harrison),John (#1),Harrison,enslaved,1838,inventory,1833-01-01,,Age 6 in bill of sale;  surname inferred from family,5,F8,6,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2781,8048,Joseph,Joseph,,enslaved,1838,inventory,1798-01-01,,married off,40,H12,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2782,8075,Len,Len,,enslaved,1838,inventory,1800-01-01,,ran away (sickly),38,,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2783,8041,Margaret (Queen),Margaret,Queen,enslaved,1838,inventory,1823-01-01,,,15,F10,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2784,8074,Margery,Margery,,enslaved,1838,inventory,1778-01-01,,,60,H17,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2785,8089,Maria,Maria,,enslaved,1838,inventory,1812-01-01,,married off,26,,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2786,8090,Maria,Maria,,enslaved,1838,inventory,1833-01-01,,,5,,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2787,8078,Mary,Mary,,enslaved,1838,inventory,1836-01-01,,,1.5,F18,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2788,8057,Mary Anne Digges,Mary Anne,Digges,enslaved,1838,inventory,1820-01-01,,Surname from bill of sale,18,F13,6,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2789,8063,Mary Ellen,Mary Ellen,,enslaved,1838,inventory,1821-01-01,,,17,F14,6,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2790,8036,Nancy,Nancy,,enslaved,1838,inventory,1814-01-01,,,24,F9,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2791,8064,Nancy,Nancy,,enslaved,1838,inventory,1823-01-01,,ran away,15,F14,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2792,8040,Nancy (Queen),Nancy,Queen,enslaved,1838,inventory,1821-01-01,,[illegible],17,F10,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2793,8073,Nancy [strike through],Nancy [strike through],,enslaved,1838,inventory,1804-01-01,,dead,34,,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2794,8031,Ned,Ned (#2),,enslaved,1838,inventory,1828-01-01,,,10,F7,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2795,8047,Nelly,xNelly,,enslaved,1838,inventory,1778-01-01,,,60,H11,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2796,8049,Nelly,xNelly,,enslaved,1838,inventory,1822-01-01,,Age listed as 17,16,F11,6,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2797,8033,Nelly (Harrison),Nelly (#2),Harrison,enslaved,1838,inventory,1800-01-01,,Might be Nelly Harrison (50),38,H8,6,http://slaveryarchive.georgetown.edu/items/show/12,http://slaveryarchive.georgetown.edu/items/show/9
+2798,8037,Patrick ,Patrick (#2),,enslaved,1838,inventory,1835-01-01,,,3,F9,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2799,8013,Peter Hawkins,Peter,Hawkins,enslaved,1838,inventory,1833-01-01,,surname inferred from bill of sale by family,5,F3; F2,6,http://slaveryarchive.georgetown.edu/items/show/13,http://slaveryarchive.georgetown.edu/items/show/9
+2800,8054,Polly,Polly,,enslaved,1838,inventory,1778-01-01,,,60,H13,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2801,8084,Revidy,Revidy,,enslaved,1838,inventory,1831-01-01,,Reverdy in bill of sale,7,F19,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2802,8058,Robert,Robert,,enslaved,1838,inventory,1826-01-01,,(an Idiot),12,F13,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2803,8025,Sally,Sally (#1),,enslaved,1838,inventory,1778-01-01,,,65,H6,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2804,8055,Sally,Sally,,enslaved,1838,inventory,1788-01-01,,married off,50,F13,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2805,8039,Sally Queen,Sally (#2),Queen,enslaved,1838,inventory,1794-01-01,,,44,F10,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2806,8052,Sam,Sam,,enslaved,1838,inventory,1834-01-01,,,4,F31,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2807,8046,Sarah Anne (Queen),Sarah Anne,Queen,enslaved,1838,inventory,1837-01-01,,,1,F10,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2808,8018,Susan Hawkins,Susan (#2),Hawkins,enslaved,1838,inventory,1835-01-01,,surname inferred from bill of sale (64) by family,3,F4,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2809,8081,Tom,Tomx,,enslaved,1838,inventory,1793-01-01,,,45,,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2810,8056,William,William,,enslaved,1838,inventory,1817-01-01,,ran away,21,F13,6,,http://slaveryarchive.georgetown.edu/items/show/9
+2811,8087,William,William,,enslaved,1838,inventory,1835-01-01,,age on bill of sale is 2,3,F19,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9
+2812,8091,William,William,,enslaved,1838,inventory,1837-01-01,,age on bill of sale is 2,0.5,,6,http://slaveryarchive.georgetown.edu/items/show/14,http://slaveryarchive.georgetown.edu/items/show/9

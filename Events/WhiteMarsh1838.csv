@@ -1,0 +1,92 @@
+OS-ID,dcterms:identifier ,1838 ID,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,schema:foundingDate ,Date type,bio:birth ,bio:death ,dcterms:description ,bio:age,child of ,id,relationship:childOf ,child of  ,id,schema:homeLocation ,Buyer,schema:buyer,dcterms:isReferencedBy 
+1132,,3,Nelly (Hawkins),Nelly,Hawkins,enslaved,,inventory,1800-01-01,,,38,,H1; F0,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1212,,28,Simon,Simon,,enslaved,,inventory,1818-01-01,,,20,,F7,,,,White Marsh,,,
+1219,,9,Cornelius Hawkins,Cornelius,Hawkins,enslaved,,inventory,1825-01-01,,surname inferred from bill of sale by family,13,,F2,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+1220,,30,Louisa,Louisa,,enslaved,,inventory,1824-01-01,,,14,,F7,,,,White Marsh,,,
+1224,,10,Francis Hawkins,Francis,Hawkins,enslaved,,inventory,1826-01-01,,surname inferred from bill of sale by family,12,,F2,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+1228,,11,Susan Hawkins,Susan,Hawkins,enslaved,,inventory,1828-01-01,,surname inferred from bill of sale by family,10,,F3; F2,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+1229,,5,Cecilia (Hawkins),Cecilia,Hawkins,enslaved,,inventory,1830-01-01,,,8,,F1,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1231,,65,Martha,Martha,,enslaved,,inventory,1828-01-01,,ran away;  age listed as 11 in bill of sale,10,,F14,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+1237,,6,Ruthy (Hawkins),Ruthy,Hawkins,enslaved,,inventory,1832-01-01,,,6,,F1,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1238,,77,Nancy ,Nancy ,,enslaved,,inventory,1833-01-01,,,5,,F18,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1239,,22,Austin Hawkins,Austin,Hawkins,enslaved,,inventory,1832-01-01,,surname inferred from bill of sale (64) by family,6,,F5,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+1240,,44,Martha (Queen),Martha,Queen,enslaved,,inventory,1833-01-01,,,5,,F10,,,,White Marsh,,,
+1241,,51,Mary,Mary,,enslaved,,inventory,1832-01-01,,,6,,F31,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1246,,85,Noble,Noble,,enslaved,,inventory,1833-01-01,,,5,,F19,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1552,,1,"Isaac Hawkins, I ",Isaac (#1),Hawkins,enslaved,,inventory,1773-01-01,,surname inferred from bill of sale (64) by family,65,,H0,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1558,,79,Garvis,Garvis,,enslaved,,inventory,1778-01-01,,married off (Charles or Jarvis in bill of sale),60,,,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1657,,20,"Isaac Hawkins, II",Isaac (#2),Hawkins,enslaved,,inventory,1812-01-01,,illegible;  surname inferred from bill of sale (64) by family,26,,H5; F0,,,,White Marsh,,,
+1749,,2,Charles Hawkins,Charles,Hawkins,enslaved,,inventory,1789-01-01,,ran away;  surname inferred from bill of sale (64) by family,40,,F0,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1758,,26,Ned,Ned,,enslaved,,inventory,1793-01-01,,,45,,H7,,,,White Marsh,,,
+1759,,27,Rachel ,Rachel ,,enslaved,,inventory,1795-01-01,,,43,,F7,,,,White Marsh,,,
+1772,,8,Letty Hawkins,Letty,Hawkins,enslaved,,inventory,1808-01-01,,surname inferred from bill of sale by marriage;  listed with Martha (1),30,,F2,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+1774,,7,Patrick Hawkins,Patrick,Hawkins,enslaved,,inventory,1803-01-01,,Surname from bill of sale,35,,H2,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+1775,,21,Kitty Hawkins,Kitty,Hawkins,enslaved,,inventory,1810-01-01,,surname inferred from bill of sale (64) by family,28,,F5,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+1782,,45,Harriet (Queen),Harriet,Queen,enslaved,,inventory,1833-01-01,,Listed as Harriet Anne,5,,F10,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+1784,,88,Regis [strike through],Regis [strike through],,enslaved,,inventory,1810-01-01,,carpenter,28,,,,,,White Marsh,,,
+1789,,76,Minty,Minty,,enslaved,,inventory,1812-01-01,,married to freeman,26,,F18,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1794,,72,Richard,Richard,,enslaved,,inventory,1800-01-01,,,38,,H16,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+2067,,50,Kitty,Kitty,,enslaved,,inventory,1816-01-01,,married freeman,22,,F11; H31,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8069,69,Adoph,xAdoph,,enslaved,,inventory,1828-01-01,,,10,,F15,,,,White Marsh,,,
+,8029,29,Anderson,Anderson,,enslaved,,inventory,1820-01-01,,,18,,F7,,,,White Marsh,,,
+,8068,68,Austin,xAustin,,enslaved,,inventory,1825-01-01,,,13,,F15,,,,White Marsh,,,
+,8067,67,Betsy,Betsy,,enslaved,,inventory,1806-01-01,,ran away,32,,H15,,,,White Marsh,,,
+,8082,82,Bill,Bill,,enslaved,,inventory,1796-01-01,,William (Idiot) in bill of sale,42,?,,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8032,32,Billy,Billy,,enslaved,,inventory,1798-01-01,,Married off,40,,F6,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8038,38,Charles Queen,Charles Queen,Queen,enslaved,,inventory,1793-01-01,,ran away,45,,H10,,,,White Marsh,,,
+,8042,42,David Queen,David,Queen,enslaved,,inventory,1824-01-01,,,14,,F10,,,,White Marsh,,,
+,8017,17,Delia Hawkins,Delia,Hawkins,enslaved,,inventory,1816-01-01,,surname inferred from bill of sale (64) by family,22,,F4,,,,White Marsh,,,
+,8086,86,Edward,Edward,,enslaved,,inventory,1835-01-01,,,3,,F19,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8024,24,Elias Hawkins,Elias,,enslaved,,inventory,1836-01-01,,surname inferred from bill of sale (64) by family,1 1/6,,F5,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8083,83,Eliza,Eliza,,enslaved,,inventory,1812-01-01,,married to freeman,26,,H19,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8043,43,Eliza (Queen),Eliza,Queen,enslaved,,inventory,1826-01-01,,Mrs. Simsteed?,12,,F10,,,,White Marsh,,,
+,8053,53,Elizabeth,Elizabeth,,enslaved,,inventory,1837-01-01,,,1,,F12,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8061,61,Elizabeth,xElizabeth,,enslaved,,inventory,1815-01-01,,,23,,F14,,,,White Marsh,,,
+,8015,15,Elizabeth Hawkins,Elizabeth,Hawkins,enslaved,,inventory,1837-01-01,,surname inferred from bill of sale by family,1,,F3; F2,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8012,12,Gabriel Hawkins,Gabriel,Hawkins,enslaved,,inventory,1830-01-01,,surname inferred from bill of sale by family,8,,F3; F2,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8019,19,George Hawkins,George,Hawkins,enslaved,,inventory,1837-01-01,,surname inferred from bill of sale (64) by family,1,,F4,,,,White Marsh,,,
+,8071,71,Hariet Ann,Hariet Ann,,enslaved,,inventory,1834-01-01,,,4,,F15,,,,White Marsh,,,
+,8060,60,Harriet,xHarriet,,enslaved,,inventory,1795-01-01,,married to freeman,43,,H14,,,,White Marsh,,,
+,8004,4,Henny (Hawkins),Henny,Hawkins,enslaved,,inventory,1825-01-01,,,13,,F1,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8070,70,Henrietta,Henrietta,,enslaved,,inventory,1831-01-01,,,7,,F15,,,,White Marsh,,,
+,8059,59,Henry,Henry,,enslaved,,inventory,1830-01-01,,,8,,F13,,,,White Marsh,,,
+,8062,62,Iasais (Isaiah),Iasais,,enslaved,,inventory,1817-01-01,,ran away,21,,F14,,,,White Marsh,,,
+,8023,23,"Isaac Hawkins, III",Isaac (#3),Hawkins,enslaved,,inventory,1834-01-01,,surname inferred from bill of sale (64) by family,4,,F5,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8014,14,Jackson Hawkins,Jackson,Hawkins,enslaved,,inventory,1835-01-01,,surname inferred from bill of sale by family,3,,F3; F2,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8080,80,James,James,,enslaved,,inventory,1788-01-01,,married to freewoman,50,,,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8016,16,James Hawkins,James,Hawkins,enslaved,,inventory,1810-01-01,,surname inferred from bill of sale (64) by family,28,,H4; F0,,,,White Marsh,,,
+,8066,66,Jemmy,Jemmy,,enslaved,,inventory,1837-01-01,,,1,,F14,,,,White Marsh,,,
+,8035,35,John ,John (#2),,enslaved,,inventory,1808-01-01,,shoemaker,30,,H9,,,,White Marsh,,,
+,8034,34,John (Harrison),John (#1),Harrison,enslaved,,inventory,1833-01-01,,Age 6 in bill of sale;  surname inferred from family,5,?,F8,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8048,48,Joseph,Joseph,,enslaved,,inventory,1798-01-01,,married off,40,,H12,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8075,75,Len,Len,,enslaved,,inventory,1800-01-01,,ran away (sickly),38,,,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8041,41,Margaret (Queen),Margaret,Queen,enslaved,,inventory,1823-01-01,,,15,,F10,,,,White Marsh,,,
+,8074,74,Margery,Margery,,enslaved,,inventory,1778-01-01,,,60,,H17,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8089,89,Maria,Maria,,enslaved,,inventory,1812-01-01,,married off,26,,,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8090,90,Maria,Maria,,enslaved,,inventory,1833-01-01,,,5,,,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8078,78,Mary,Mary,,enslaved,,inventory,1836-01-01,,,1.5,,F18,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8057,57,Mary Anne Digges,Mary Anne,Digges,enslaved,,inventory,1820-01-01,,Surname from bill of sale,18,,F13,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8063,63,Mary Ellen,Mary Ellen,,enslaved,,inventory,1821-01-01,,,17,,F14,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8036,36,Nancy,Nancy,,enslaved,,inventory,1814-01-01,,,24,,F9,,,,White Marsh,,,
+,8064,64,Nancy,Nancy,,enslaved,,inventory,1823-01-01,,ran away,15,,F14,,,,White Marsh,,,
+,8040,40,Nancy (Queen),Nancy,Queen,enslaved,,inventory,1821-01-01,,[illegible],17,,F10,,,,White Marsh,,,
+,8073,73,Nancy [strike through],Nancy [strike through],,enslaved,,inventory,1804-01-01,,dead,34,,,,,,White Marsh,,,
+,8031,31,Ned,Ned (#2),,enslaved,,inventory,1828-01-01,,,10,,F7,,,,White Marsh,,,
+,8047,47,Nelly,xNelly,,enslaved,,inventory,1778-01-01,,,60,,H11,,,,White Marsh,,,
+,8049,49,Nelly,xNelly,,enslaved,,inventory,1822-01-01,,Age listed as 17,16,?,F11,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8033,33,Nelly (Harrison),Nelly (#2),Harrison,enslaved,,inventory,1800-01-01,,Might be Nelly Harrison (50),38,?,H8,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8037,37,Patrick ,Patrick (#2),,enslaved,,inventory,1835-01-01,,,3,,F9,,,,White Marsh,,,
+,8013,13,Peter Hawkins,Peter,Hawkins,enslaved,,inventory,1833-01-01,,surname inferred from bill of sale by family,5,,F3; F2,,,,White Marsh,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8054,54,Polly,Polly,,enslaved,,inventory,1778-01-01,,,60,,H13,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8084,84,Revidy,Revidy,,enslaved,,inventory,1831-01-01,,Reverdy in bill of sale,7,,F19,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8058,58,Robert,Robert,,enslaved,,inventory,1826-01-01,,(an Idiot),12,,F13,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8025,25,Sally,Sally (#1),,enslaved,,inventory,1778-01-01,,,65,,H6,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8055,55,Sally,Sally,,enslaved,,inventory,1788-01-01,,married off,50,,F13,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8039,39,Sally Queen,Sally (#2),Queen,enslaved,,inventory,1794-01-01,,,44,,F10,,,,White Marsh,,,
+,8052,52,Sam,Sam,,enslaved,,inventory,1834-01-01,,,4,,F31,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8046,46,Sarah Anne (Queen),Sarah Anne,Queen,enslaved,,inventory,1837-01-01,,,1,,F10,,,,White Marsh,,,
+,8018,18,Susan Hawkins,Susan (#2),Hawkins,enslaved,,inventory,1835-01-01,,surname inferred from bill of sale (64) by family,3,,F4,,,,White Marsh,,,
+2809,8081,81,Tom,Tomx,,enslaved,,inventory,1793-01-01,,,45,,,,,,White Marsh,,,
+2810,8056,56,William,William,,enslaved,,inventory,1817-01-01,,ran away,21,,F13,,,,White Marsh,,,
+2811,8087,87,William,William,,enslaved,,inventory,1835-01-01,,age on bill of sale is 2,3,,F19,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+2812,8091,91,William,William,,enslaved,,inventory,1837-01-01,,age on bill of sale is 2,0.5,?,,,,,White Marsh,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14

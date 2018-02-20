@@ -1,0 +1,94 @@
+OS-ID,dcterms:identifier ,1838 ID,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,schema:foundingDate ,Date type,bio:birth ,bio:death ,dcterms:description ,bio:age,child of ,id,relationship:childOf ,child of  ,id,schema:homeLocation ,Buyer,schema:buyer,dcterms:isReferencedBy 
+1358,2261,226,Watt,xWatt,(Campbell),enslaved,,inventory,1793-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,45,,F22,,,,St. Inigoes,,,
+1363,2266,169,Biby (Butler?),Biby,(Butler?),enslaved,,inventory,1793-01-01,,listed with infant on bill of sale,45,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+1364,2428,236,Dick,Dick,,enslaved,,inventory,1798-01-01,,ran away,40,,,,,,St. Inigoes,,,
+1367,2270,245,Kitty Walton,Kitty,Walton,enslaved,,inventory,1785-01-01,,Surname from bill of sale,53,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+1369,2272,214,Daniel,Daniel,,enslaved,,inventory,1813-01-01,,,25,,,,,,St. Inigoes,,,
+1371,2274,190,Mary ,Mary ,,enslaved,,inventory,1800-01-01,,,38,,F21,,,,St. Inigoes,,,
+1372,2275,213,Gabe,Gabe,,enslaved,,inventory,1810-01-01,,"blacksmith, married off",28,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1373,2276,209,Harry,Harry,,enslaved,,inventory,1763-01-01,,,75,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1374,2277,253,Frederick,xFrederick,,enslaved,,inventory,1818-01-01,,,20,,,,,,St. Inigoes,,,
+1377,2404,210,Anny,Anny,,enslaved,,inventory,1768-01-01,,,70,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1378,2281,250,Sally,Sally,,enslaved,,inventory,1782-01-01,,Age listed as 60 in bill of sale,56,?,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+1383,2286,207,George,George,,enslaved,,inventory,1808-01-01,,,30,,,,,,St. Inigoes,,,
+1384,2485,246,Peter,Peter,,enslaved,,inventory,1801-01-01,,married off,37,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1385,2288,252,Henry,Henry,,enslaved,,inventory,1816-01-01,,,22,,,,,,St. Inigoes,,,
+1618,8216,216,Arnold,Arnold,,enslaved,,inventory,1810-01-01,,ran away,28,,,,,,St. Inigoes,,,
+1622,2461,208,Joseph,Joseph,,enslaved,,inventory,1816-01-01,,married off,22,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1670,2288,167,Nace Butler,Nace,Butler,enslaved,,inventory,1787-01-01,,[strike thorugh (blacksmith)] listed as 50 in bill of sale,51,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+1983,2243,247,John [strike through] (Brown),John [strike through],Brown ,enslaved,,inventory,1803-01-01,,Might be John Brown;  Surname from bill of sale,35,?,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+1984,2478,248,Michael,Michael,,enslaved,,inventory,1805-01-01,,married off,33,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1985,2245,249,Ned,Ned,,enslaved,,inventory,1808-01-01,,,30,,,,,,St. Inigoes,,,
+1988,2248,244,Regis,Regis,,enslaved,,inventory,1810-01-01,,married off,28,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+1991,2251,204,Nelly Merrick,Nelly,Merrick,enslaved,,inventory,1785-01-01,,last name inferred from family relationship,53,,F40,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2400,191,Abraham,Abraham,,enslaved,,inventory,1822-01-01,,,16,,F21,,,,St. Inigoes,,,
+,2401,237,Adeline Campbell,Adeline,Campbell,enslaved,,inventory,1806-01-01,,Surname from bill of sale;  age 28 in bill of sale,32,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,2402,231,Alexander,Alexander,(Campbell),enslaved,,inventory,1828-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,10,,F22,,,,St. Inigoes,,,
+,2403,175,Anne,Anne,,enslaved,,inventory,1828-01-01,,,10,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2407,217,Anny Jones,Anny,Jones,enslaved,,inventory,1811-01-01,,Anne Jones (26) in bill of sale,27,,H41,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,2410,173,Basil,Basil,,enslaved,,inventory,1825-01-01,,listed as 14,13,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2417,177,Biby,Biby,,enslaved,,inventory,1831-01-01,,Listed as 8,7,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2418,225,Bill,Bill,,enslaved,,inventory,1810-01-01,,not married,28,,,,,,St. Inigoes,,,
+,2419,201,Bill Cush,xBill,Cush,enslaved,,inventory,1810-01-01,,Cusha,28,,,,,,St. Inigoes,,,
+,2421,171,Bridget,Bridget,,enslaved,,inventory,1821-01-01,,,17,,,,,,St. Inigoes,,,
+,2422,194,Bridget,Bridget,,enslaved,,inventory,1827-01-01,,,11,,F21,,,,St. Inigoes,,,
+,2423,172,Caroline,Caroline,,enslaved,,inventory,1824-01-01,,listed as 16,14,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2427,232,Charlotte,Charlotte,(Campbell),enslaved,,inventory,1831-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,7,,F22,,,,St. Inigoes,,,
+,2433,243,Eliza,Eliza,Barney,enslaved,,inventory,1816-01-01,,"Could be Eliza Butler (19), listed with an infant",22,?,F42,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2435,183,Emeline Brown,Emeline,Brown,enslaved,,inventory,1828-01-01,,Age 13 in bill of sale,10,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,2438,256,Zeke,Zeke,,enslaved,,inventory,1806-01-01,,married off;  Leke in the transcription of bill of sale,32,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,2439,228,Frank,Frank,(Campbell),enslaved,,inventory,1818-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,20,,F22,,,,St. Inigoes,,,
+,2444,254,Ginny,Ginny,,enslaved,,inventory,1819-01-01,,married off,19,,H30,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,2445,206,Gusty,Gusty,,enslaved,,inventory,1830-01-01,,"Listed as 9, Gustin in bill of sale",8,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2447,211,Harry,Harry,,enslaved,,inventory,1798-01-01,,married off,40,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,2449,182,Henny,Henny,,enslaved,,inventory,1810-01-01,,,28,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,2457,193,James,James,,enslaved,,inventory,1826-01-01,,,12,,F21,,,,St. Inigoes,,,
+,2460,259,James,James,,enslaved,,inventory,1778-01-01,,not married,60,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,2466,205,Lewis,Lewis,,enslaved,,inventory,1828-01-01,,listed as 12,10,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2469,215,Louisa,Louisa,,enslaved,,inventory,1815-01-01,,,23,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,2470,222,Lucinda,Lucinda,,enslaved,,inventory,1828-01-01,,Age 13 in bill of sale,10,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,2473,174,Martha Anne,Martha,,enslaved,,inventory,1827-01-01,,"Listed 12, and with middle name",11,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2479,257,Nathan,Nathan,,enslaved,,inventory,1774-01-01,,,64,,H32,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,2480,242,Nelly Barney,Nelly,Barney,enslaved,,inventory,1783-01-01,,Surname from bill of sale,55,,H42,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2481,212,Nelly,Nelly,,enslaved,,inventory,1800-01-01,,,38,,,,,,St. Inigoes,,,
+,2489,203,Phil Merrick,Phil,Merrick,enslaved,,inventory,1783-01-01,,last name from bill of sale,55,,H40,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,2490,202,Regis Gough,Regis,Gough,enslaved,,inventory,1810-01-01,,"Gough, married off",28,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,2492,229,Sam,Sam,(Campbell),enslaved,,inventory,1824-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,14,,F22,,,,St. Inigoes,,,
+,2495,170,Suckey,Suckey,,enslaved,,inventory,1817-01-01,,,21,,,,,,St. Inigoes,,,
+,2496,196,Susan,Susan,,enslaved,,inventory,1830-01-01,,,8,,F21,,,,St. Inigoes,,,
+,2497,227,Teresa,Teresa [strike through Baney],(Campbell),enslaved,,inventory,1796-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,42,,F22,,,,St. Inigoes,,,
+,8168,168,Nace (Butler),Nace,(Butler),enslaved,,inventory,1818-01-01,,ran away,20,?,,,,,St. Inigoes,,,
+,8176,176,Gabe,Gabe,,enslaved,,inventory,1830-01-01,,listed as 9,8,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8178,178,Henry,Henry,,enslaved,,inventory,1832-01-01,,listed as 7 ,6,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8179,179,Thomas,Thomas,,enslaved,,inventory,1833-01-01,,,5,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8180,180,Mary ,Mary ,,enslaved,,inventory,1835-01-01,,,3,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8181,181,John Lewis,John,Lewis,enslaved,,inventory,1836-01-01,,name from bill of sale,1.5,,,,,,St. Inigoes,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+,8184,184,Amanda,Amanda,,enslaved,,inventory,1830-01-01,,Age 10 in bill of sale,8,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8185,185,Elizabeth,Elizabeth,,enslaved,,inventory,1831-01-01,,Age 8 in bill of sale,7,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8186,186,Billy,Billy,,enslaved,,inventory,1832-01-01,,,6,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8187,187,Biby,Biby,,enslaved,,inventory,1833-01-01,,,5,,,,,,St. Inigoes,,,
+,8188,188,Hariet Eagline,Hariet,Eagline,enslaved,,inventory,1833-01-01,,Surname from bill of sale;  age 6 in bill of sale,5,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8189,189,Robert,Robert,,enslaved,,inventory,1795-01-01,,,43,,F21,,,,St. Inigoes,,,
+,8192,192,Robert,Robert,,enslaved,,inventory,1824-01-01,,,14,,F21,,,,St. Inigoes,,,
+,8195,195,Mary Jane,Mary Jane,,enslaved,,inventory,1828-01-01,,,10,,F21,,,,St. Inigoes,,,
+,8197,197,Sally Anne,Sally Anne,,enslaved,,inventory,1831-01-01,,,7,,F21,,,,St. Inigoes,,,
+,8198,198,Nelly,Nelly,,enslaved,,inventory,1832-01-01,,,6,,F21,,,,St. Inigoes,,,
+,8199,199,Charles,Charles,,enslaved,,inventory,1833-01-01,,,5,,F21,,,,St. Inigoes,,,
+,8200,200,Child,Child,,enslaved,,inventory,1836-01-01,,,2,,F21,,,,St. Inigoes,,,
+,8218,218,Arnold Jones,Arnold,Jones,enslaved,,inventory,1831-01-01,,Age 9 in bill of sale;  surname inferred from family,7,,F41,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8219,219,Louisa,Louisa,,enslaved,,inventory,1833-01-01,,Age 6 in bill of sale,5,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8220,220,Betsy Dorsey,Betsy,Dorsey,enslaved,,inventory,1800-01-01,,Betty Dorsey (30) in Bill of sale,38,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8221,221,Baney,Baney,,enslaved,,inventory,1826-01-01,,Bernard (15) in bill of sale,12,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8223,223,Greenfield,Greenfield,,enslaved,,inventory,1833-01-01,,,5,,,,,,St. Inigoes,,,
+,8224,224,Daniel,Daniel,,enslaved,,inventory,1834-01-01,,,4,,,,,,St. Inigoes,,,
+,8230,230,Rachel,Rachel,(Campbell),enslaved,,inventory,1827-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,11,,F22,,,,St. Inigoes,,,
+,8233,233,Emeline,Emeline,(Campbell),enslaved,,inventory,1832-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,6,,F22,,,,St. Inigoes,,,
+,8234,234,Watt,Watt,(Campbell),enslaved,,inventory,1835-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,3,,F22,,,,St. Inigoes,,,
+,8235,235,Child,Child,(Campbell),enslaved,,inventory,1837-01-01,,Surname inferred from post-sale data: https://www.nytimes.com/2017/03/12/us/georgetown-university-slaves-life-campbell.html,1,,F22,,,,St. Inigoes,,,
+,8238,238,Matt,Matt,,enslaved,,inventory,1828-01-01,,,10,,,,,,St. Inigoes,,,
+,8239,239,Ginny,Ginny,,enslaved,,inventory,1831-01-01,,,7,?,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8240,240,Catherine,Catherine,,enslaved,,inventory,1834-01-01,,,4,,,,,,St. Inigoes,,,
+,8241,241,Child (Maria - 9 months),Maria,,enslaved,,inventory,1837-01-01,,,0.5,?,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+,8251,251,Alexius,.Alexius,,enslaved,,inventory,1802-01-01,,married off,36,,,,,,St. Inigoes,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+,8255,255,Girl,Girl,,enslaved,,inventory,1836-01-01,,,2,,F30,,,,St. Inigoes,,,
+,8258,258,Henny [strike through],Henny [strike through],,enslaved,,inventory,1778-01-01,,married off,60,,F32,,,,St. Inigoes,,,
