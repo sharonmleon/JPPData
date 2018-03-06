@@ -1,42 +1,43 @@
 Identifier,Title,Date,Date type,Date of Birth,Note,Type,File,Age,Value,Estimated Value,Relationship,Identifier,Relationship,Identifier,Location,SJ,Identifier,SJ,Identifier,Source
-5001,Fanny,1815*,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5002,Regis,1815*,manumission planning,,,notes,,,,350,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5003,Jacob,1815*,manumission planning,,,notes,,,,350,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5004,Bill ,1815*,manumission planning,,,notes,,,,300,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5006,John,1815*,manumission planning,,,notes,,,,60,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5007,Nancy,1815*,manumission planning,,,notes,,,,200,parent of infant child,5008,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5008,infant child,1815*,manumission planning,,,notes,,,,,child of Nancy,5007,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5009,Polly,1815*,manumission planning,,,notes,,,,200,parent of infant child,5010,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5010,infant child,1815*,manumission planning,,,notes,,,,,child of Polly,5009,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5011,Minty,1815*,manumission planning,,,notes,,,,150,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5012,Lucy,1815*,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5064,Fanny,1815*,manumission planning,1767,,notes,,48,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5002,Regis,1815*,manumission planning,1796,,notes,,19,350,350,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5003,Jacob,1815*,manumission planning,1800,,notes,,15,350,350,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5004,Bill ,1815*,manumission planning,1802,,notes,,13,300,300,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5006,John,1815*,manumission planning,1811,,notes,,4,60,60,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5007,Nancy,1815*,manumission planning,1795,,notes,,20,200/2,200,parent of infant child,5008,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5008,infant child,1815*,manumission planning,1814,,notes,,1,200/2,,child of Nancy,5007,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5009,Polly,1815*,manumission planning,1798,,notes,,17,200/2,200,parent of infant child,5010,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5010,infant child,1815*,manumission planning,1814,,notes,,1,200/2,,child of Polly,5009,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5011,Minty,1815*,manumission planning,1805,,notes,,10,150,150,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5012,Lucy,1815*,manumission planning,1810,,notes,,5,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
 5013,Barney,1815*,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5014,Joe,1815-09-19,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5015,Dick ,1815-09-19,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5015,Dick ,1815*,manumission planning,,,notes,,,,120,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5016,Philis,1815*,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5016,Philis,1798,mention,,,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-5017,Maria,1815*,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5018,Prue,1815*,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5019,James  ,1815*,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5020,Tom,1815*,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5021,Twin boy 1,1815*,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5022,Twin boy 2,1815*,manumission planning,,,notes,,,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
-5023,Molly,1815*,manumission planning,,,notes,,,,160,Spouse of Harry,NJ006,parent of David,5024,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5055,Barney S,1815*,manumission planning,1762,,notes,,53,,,,,,,,,,,,
+5014,Joe,1815-09-19,manumission planning,1770,,notes,,45,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5059,Dick ,1815-09-19,manumission planning,1783,,notes,,32,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5110,Dick ,1815*,manumission planning,1808,,notes,,7,,120,,,,,Bohemia,John Carroll,J006,,,"C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5016,Philis,1815*,manumission planning,1779,,notes,,36,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5016,Philis,1798,mention,1779,,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+5017,Maria,1815*,manumission planning,1799,,notes,,16,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5018,Prue,1815*,manumission planning,1801,,notes,,14,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5019,James  ,1815*,manumission planning,1803,,notes,,12,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5020,Tom,1815*,manumission planning,1808,,notes,,7,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5021,Twin boy 1,1815*,manumission planning,1814,,notes,,1,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5022,Twin boy 2,1815*,manumission planning,1814,,notes,,1,,,,,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5023,Molly,1815*,manumission planning,,to be purchased by husband/father Harry,notes,,,60/2,160,Spouse of Harry,NJ006,parent of David,5024,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
 5023,Moll ,1799,mention,,,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-5024,David,1815*,manumission planning,,,notes,,,,,child of Molly,5023,child of Harry,NJ006,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
+5024,David,1815*,manumission planning,,to be purchased by husband/father Harry,notes,,,60/2,,child of Molly,5023,child of Harry,NJ006,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-13-LettertoNealefromEnochFenwickaboutEmancipation-c1817.json"""
 5026,Peg,1799-10-09,work assignment,,assigned to seminary,Proceedings,,,,,,,,,Bohemia,,,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-10-CorpRCCProceedings-1799-10-09.json"""
 5027,Kate,1791-02-22,inoculation,,,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
 5027,Kate,1799-10-09,Sale authorization,,,Proceedings,,,,,parent of ,5028,parent of ,5029,Bohemia,Francis Beestow,J016,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-10-CorpRCCProceedings-1799-10-09.json"""
 5028,Kate's child 1,1799-10-09,Sale authorization,,,Proceedings,,,,,child of Kate,5027,,,Bohemia,Francis Beestow,J016,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-10-CorpRCCProceedings-1799-10-09.json"""
 5029,Kate's child 2,1799-10-09,Sale authorization,,,Proceedings,,,,,child of Kate,5027,,,Bohemia,Francis Beestow,J016,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-23-10-CorpRCCProceedings-1799-10-09.json"""
 5030,Woman,1813-09-14,Sale authorization,,,Proceedings,,,,,parent of ,5031,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-24-1-ProceedingsoftheCorporationVol1-1813-09-14.json"""
-5031,Her child,1813-09-14,Sale authorization,,,Proceedings,,,,,child of  ,5030,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-24-1-ProceedingsoftheCorporationVol1-1813-09-14.json"""
+5031,Child,1813-09-14,Sale authorization,,,Proceedings,,,,,child of  ,5030,,,Bohemia,John Carroll,J006,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-24-1-ProceedingsoftheCorporationVol1-1813-09-14.json"""
 5032,James,1798-01-11,contract,,"leased to John Morton, Blacksmith",contract,,,,,property of Ambrose Marechal,NJ002,leased by John Morton,NJ026,Bohemia,,,,,MPA-30-3-Marechal-Lease-James-blacksmith-Morton-1798-01-11.json
 5032,James,1791-02-22,inoculation,,,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-5033,Jacob,1832*,sale planning,,,account book,,,,$250.00,,,,,Bohemia,Joseph Marshall,J045,,,MPA-30-5-UndatedUnsignedBohemiaAccount.json
+5003,Jacob,1832*,sale planning,,,account book,,,,$250.00,,,,,Bohemia,Joseph Marshall,J045,,,MPA-30-5-UndatedUnsignedBohemiaAccount.json
 5034,Jim,1832*,sale planning,,,account book,,,,$250.00,,,,,Bohemia,Joseph Marshall,J045,,,MPA-30-5-UndatedUnsignedBohemiaAccount.json
-5035,Tom,1832*,sale planning,,,account book,,,,$250.00,,,,,Bohemia,Joseph Marshall,J045,,,MPA-30-5-UndatedUnsignedBohemiaAccount.json
+5020,Tom,1832*,sale planning,,,account book,,,,$250.00,,,,,Bohemia,Joseph Marshall,J045,,,MPA-30-5-UndatedUnsignedBohemiaAccount.json
 5036,Jerry,1832*,sale planning,,,account book,,,,$150.00,,,,,Bohemia,Joseph Marshall,J045,,,MPA-30-5-UndatedUnsignedBohemiaAccount.json
 5037,Bill ,1832*,sale planning,,,account book,,,,$150.00,,,,,Bohemia,Joseph Marshall,J045,,,MPA-30-5-UndatedUnsignedBohemiaAccount.json
 5038,Little Girl,1832*,sale planning,,given to support the old,account book,10,,,,,,,,Bohemia,,,,,MPA-30-5-UndatedUnsignedBohemiaAccount.json
@@ -72,7 +73,7 @@ Identifier,Title,Date,Date type,Date of Birth,Note,Type,File,Age,Value,Estimated
 5057,Barny,1799,mention,,O’Donald’s,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
 5058,Stephen,1796-08-03,death,,cancer,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
 5058,Stephen,1791-02-22,inoculation,,,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-5058,Stephen,1795-03-10,purchase,,,account book,,,L90,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+5111,Stephen,1795-03-10,purchase,,,account book,,,L90,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
 5059,Dick ,1791-02-22,inoculation,,,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
 5059,Dick ,1798,mention,,,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
 5059,Dick ,1799,mention,,,account book,,,,,,,,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
@@ -145,7 +146,6 @@ Identifier,Title,Date,Date type,Date of Birth,Note,Type,File,Age,Value,Estimated
 5104,Philis,1794-01-08,sale,,,account book,,,L35/2,,purchased by George Reese,,parent of Nel,,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
 ,Unknown,1831,sale,,Mulledy writes to Kenney twice about the sale of “wicked slaves” – executed by July 1832,letter,,,,,,,,,Bohemia,Thomas Mulledy,J028,,,Mulledy-1-4d-Kenney-Mulledy-1832-07-16.json
 ,Unknown,1824-01-01,sale,,notes old debt still owed for sale of negroes from Bohemia,account book,,,,$320.00,,,,,Bohemia,Adam Marshall,J041,,,MPA-60-7-Marshall-GeneralFundFinancialRpt-1824-01-01.json
-,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
