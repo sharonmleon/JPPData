@@ -1,51 +1,48 @@
-OS-ID,dcterms:identifier ,1838 ID,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,schema:foundingDate ,Date type,bio:birth ,bio:death ,dcterms:description ,bio:age,child of ,id,relationship:childOf ,child of  ,id,schema:homeLocation ,Buyer,schema:buyer,dcterms:isReferencedBy 
-1181,8303,303,Girl (Eliza - 10),Eliza ,,enslaved,,inventory,1828-01-01,,name and age from bill of sale,10,F23,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-1182,8310,310,Girl (Sarah - 10) ,Sarah  ,,enslaved,,inventory,1828-01-01,,,10,F26,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-1186,8106,106,Henry Johnson,xHenry,Johnson,enslaved,,inventory,1828-01-01,,Surname from bill of sale,10,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
-1454,8114,114,Crissy,Crissy,,enslaved,,inventory,1806-01-01,,age from bill of sale; Crissa in bill of sale,32,H28,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-1458,8111,111,Matilida,Matilida,,enslaved,,inventory,1808-01-01,,age from bill of sale,30,H25,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-1459,8100,100,Daniel,xDaniel,,enslaved,,inventory,1758-01-01,,listed as 70 in bill of sale,80,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-1460,8113,113,Margaret,Margaret,,enslaved,,inventory,1812-01-01,,age from bill of sale,26,H27,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-1461,8101,101,Nace,xNace,,enslaved,,inventory,1783-01-01,,,55,,,,,,St. Thomas's Manor,,,
-1462,8094,94,Len Queen,xLen,Queen,enslaved,,inventory,1788-01-01,,Surname confirmed by two documents,50,,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-1467,8095,95,Sam (Harris?),xSam,Harris,enslaved,,inventory,1808-01-01,,Could be Sam Harris (25),30,,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-1474,8104,104,Tom Riley,xTom,Riley,enslaved,,inventory,1822-01-01,,Surname from bill of sale;  age 18 in bill of sale,16,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
-1616,8092,92,Charles,xCharlesx,,enslaved,,inventory,1763-01-01,,[strikeover][60],75,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-1738,8093,93,Benedict,Benedict,,enslaved,,inventory,1773-01-01,,,65,,,,,,St. Thomas's Manor,,,
-1740,8112,112,Kitty,Kitty,,enslaved,,inventory,1788-01-01,,1 son & 1 daughter;  maybe Kitty (50) followed by Sarah (10) and Oswald (5),50,H26,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-1745,8108,108,Stephen,xStephen,,enslaved,,inventory,1778-01-01,,lame,60,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-2035,8109,109,Anny,Anny,,enslaved,,inventory,1787-01-01,,2 sons & 2 daughters;  age from bill of sale,51,H23,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-2038,8118,118,Teresia,xTeresia,,enslaved,,inventory,1768-01-01,,age from bill of sale,70,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-2113,8099,99,Len Sweetum (or Sweden),Len,Sweetum (or Sweden),enslaved,,inventory,1788-01-01,,"Sweetum [bill of sale lists age as 57, surname as Sweden]",50,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8102,102,Bernard Butler,xBernard,Butler,enslaved,,inventory,1803-01-01,,Surname from bill of sale,35,,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-,8110,110,Betsy,Betsy,,enslaved,,inventory,1813-01-01,,"2 daughters; Could be Betsy Hill (55) from bill of sale or Besy Hill (25) w/ Sam (1), Ellen (4) and Martha (2)",25,H24,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-,8312,312,Boy,Boy,,enslaved,,inventory,1830-01-01,,age from bill of sale,8,F28,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8313,313,Boy,Boy,,enslaved,,inventory,1836-01-01,,age from bill of sale,1.5,F28,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8300,300,Boy (Charles - 1),Charles,,enslaved,,inventory,1837-01-01,,name and age from bill of sale,1,F23,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-,8309,309,Boy (Oswald - 5),Oswald,,enslaved,,inventory,1833-01-01,,,5,F26,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-,8301,301,Boy (Sam - 1),Sam,,enslaved,,inventory,1837-01-01,,Is this Besty (Bess Hill_��s) missing infant Sam?,1,F23,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-,8115,115,Celestia,Celestia,,enslaved,,inventory,1808-01-01,,age from bill of sale,30,F28,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8107,107,Francis,Francis,,enslaved,,inventory,1830-01-01,,bill of sale lists age as 10,8,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8098,98,George Harris,xGeorge,Harris,enslaved,,inventory,1773-01-01,,Surname from bill of sale,65,,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-,8306,306,Girl,Girl,,enslaved,,inventory,1832-01-01,,age from bill of sale,6,F25,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8307,307,Girl,Girl,,enslaved,,inventory,1834-01-01,,age from bill of sale,4,F25,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8308,308,Girl,Girl,,enslaved,,inventory,1836-01-01,,age from bill of sale,1.5,F25,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8311,311,Girl,Girl,,enslaved,,inventory,1834-01-01,,age from bill of sale,4,F27,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8314,314,Girl,Girl,,enslaved,,inventory,1828-01-01,,age from bill of sale,10,F28,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8315,315,Girl,Girl,,enslaved,,inventory,1834-01-01,,age from bill of sale,4,F28,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8316,316,Girl,Girl,,enslaved,,inventory,1834-01-01,,,4,F29,,,,,St. Thomas's Manor,,,
-,8317,317,Girl,Girl,,enslaved,,inventory,1834-01-01,,,4,F29,,,,,St. Thomas's Manor,,,
-,8318,318,Girl,Girl,,enslaved,,inventory,1834-01-01,,,4,F29,,,,,St. Thomas's Manor,,,
-,8319,319,Girl,Girl,,enslaved,,inventory,1834-01-01,,,4,F29,,,,,St. Thomas's Manor,,,
-,8304,304,Girl (Ellen - 4) ,Ellen,,enslaved,,inventory,1834-01-01,,,4,F24,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-,8305,305,Girl (Martha - 2),Martha ,,enslaved,,inventory,1836-01-01,,,2,F24,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-,8302,302,Girl (Nance - 8),Nance,,enslaved,,inventory,1830-01-01,,name and age from bill of sale,8,F23,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
-,8116,116,Henny,xHenny,,enslaved,,inventory,1808-01-01,,age from bill of sale,30,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8105,105,Jim Blair,xJim,Blair,enslaved,,inventory,1826-01-01,,Surname from bill of sale (James);  age 14,12,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
-,8121,121,Jinny,xJinny,,enslaved,,inventory,1773-01-01,,"4 daughters; might be Ginny from bill of sale, age from bill of sale",65,F20; H29,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8096,96,John Butler,John,Butler,enslaved,,inventory,1803-01-01,,surname confirmed in two docs,35,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8097,97,John Coyle,John,Coyle,enslaved,,inventory,1817-01-01,,Coyle,21,,,,,,St. Thomas's Manor,,,
-,8117,117,Louisa,Louisa,,enslaved,,inventory,1818-01-01,,age from bill of sale,20,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8119,119,Mary,xMary,,enslaved,,inventory,1783-01-01,,age from bill of sale,55,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8120,120,Mary ,Mary ,,enslaved,,inventory,1773-01-01,,age from bill of sale,65,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
-,8103,103,William,xWilliam,,enslaved,,inventory,1820-01-01,,,18,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+OS-ID,dcterms:identifier ,1838 ID,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,schema:foundingDate ,Date type,bio:birth ,bio:death ,dcterms:description ,bio:age,child of ,id,relationship:childOf ,child of  ,id,schema:homeLocation ,Buyer,schema:buyer,dcterms:isReferencedBy ,
+return,8092,92,Charles,xCharlesx,,enslaved,,inventory,1763-01-01,,[strikeover][60],75,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+1738,1116,93,Benedict,Benedict,,enslaved,,inventory,1773-01-01,,,65,,,,,,St. Thomas's Manor,,,,
+1462,1114,94,Len Queen,xLen,Queen,enslaved,,inventory,1788-01-01,,Surname confirmed by two documents,50,,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+1467,1157,95,Sam (Harris?),xSam,Harris,enslaved,,inventory,1808-01-01,,Could be Sam Harris (25),30,,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+1466,1150,96,John Butler,John,Butler,enslaved,,inventory,1803-01-01,,surname confirmed in two docs,35,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+1468,1158,97,John Coyle,John,Coyle,enslaved,,inventory,1817-01-01,,Coyle,21,,,,,,St. Thomas's Manor,,,,
+2727,8098,98,George Harris,xGeorge,Harris,enslaved,,inventory,1773-01-01,,Surname from bill of sale,65,,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+2113,1115,99,Len Sweetum (or Sweden),Len,Sweetum (or Sweden),enslaved,,inventory,1788-01-01,,"Sweetum [bill of sale lists age as 57, surname as Sweden]",50,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+1459,1111,100,Daniel,xDaniel,,enslaved,,inventory,1758-01-01,,listed as 70 in bill of sale,80,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+1461,1113,101,Nace,xNace,,enslaved,,inventory,1783-01-01,,,55,,,,,,St. Thomas's Manor,,,,
+2718,8102,102,Bernard Butler,xBernard,Butler,enslaved,,inventory,1803-01-01,,Surname from bill of sale,35,,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+2749,8103,103,William,xWilliam,,enslaved,,inventory,1820-01-01,,,18,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12,
+1474,1164,104,Tom Riley,xTom,Riley,enslaved,,inventory,1822-01-01,,Surname from bill of sale,16,,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+2742,8105,105,Jim Blair,xJim,Blair,enslaved,,inventory,1826-01-01,,Surname from bill of sale (James),12,,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12
+1186,1132,106,Henry Johnson,xHenry,Johnson,enslaved,,inventory,1828-01-01,,Surname from bill of sale,10,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/12,
+2762,8107,107,Francis,Francis,,enslaved,,inventory,1830-01-01,,bill of sale lists age as 10,8,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+1745,1143,108,Stephen,xStephen,,enslaved,,inventory,1778-01-01,,lame,60,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2035,1127,109,Anny,Anny,,enslaved,,inventory,1787-01-01,,2 sons & 2 daughters,51,H23 ,,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+2719,8110,110,Betsy,Betsy,,enslaved,,inventory,1813-01-01,,"2 daughters; Could be Betsy Hill (55) from bill of sale or Besy Hill (25) w/ Sam (1), Ellen (4) and Martha (2)",25,H24,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+1458,1110,111,Matilida,Matilida,,enslaved,,inventory,1808-01-01,,age from bill of sale,30,H25,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+1740,1121,112,Kitty,Kitty,,enslaved,,inventory,1788-01-01,,1 son & 1 daughter; maybe Kitty (50) followed by Sarah (10) and Oswald (5),50,H26,,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13
+1460,1112,113,Margaret,Margaret,,enslaved,,inventory,1812-01-01,,age from bill of sale,26,H27,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+1454,1100,114,Crissy,Crissy,,enslaved,,inventory,1806-01-01,,age from bill of sale,32,H28,,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+2725,8115,115,Celestia,Celestia,,enslaved,,inventory,1808-01-01,,age from bill of sale,30,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2010,1108,116,Henny,xHenny,,enslaved,,inventory,1808-01-01,,age from bill of sale,30,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2746,8117,117,Louisa,Louisa,,enslaved,,inventory,1818-01-01,,age from bill of sale,20,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2038,1140,118,Teresia,xTeresia,,enslaved,,inventory,1768-01-01,,age from bill of sale,70,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2747,8119,119,Mary,xMary,,enslaved,,inventory,1783-01-01,,age from bill of sale,55,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2748,8120,120,Mary ,Mary ,,enslaved,,inventory,1773-01-01,,age from bill of sale,65,F20,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2743,8121,121,Jinny,xJinny,,enslaved,,inventory,1773-01-01,,"4 daughters; might be Ginny from bill of sale, age from bill of sale",65,F20, H29,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14
+2722,8300,300,Boy (Charles - 1),Charles,,enslaved,,inventory,1837-01-01,,name and age from bill of sale,1,F23,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+2724,8301,301,Boy (Sam - 1),Sam,,enslaved,,inventory,1837-01-01,,Is this Besty (Bess Hill_??s) missing infant Sam?,1,F23,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+2740,8302,302,Girl (Nance - 8),Nance,,enslaved,,inventory,1830-01-01,,name and age from bill of sale,8,F23,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+return,8303,303,Girl (Eliza - 10),Eliza ,,enslaved,,inventory,1828-01-01,,name and age from bill of sale,10,F23,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+2738,8304,304,Girl (Ellen - 4) ,Ellen,,enslaved,,inventory,1834-01-01,,,4,F24,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+2739,8305,305,Girl (Martha - 2),Martha ,,enslaved,,inventory,1836-01-01,,,2,F24,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+1190,1141,306,Matilda Ann,Matilida Ann,,enslaved,,inventory,1832-01-01,,age from bill of sale,6,F25,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2729,8307,307,Girl,Girl,,enslaved,,inventory,1834-01-01,,age from bill of sale,4,F25,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2730,8308,308,Girl,Girl,,enslaved,,inventory,1836-01-01,,age from bill of sale,1.5,F25,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2723,8309,309,Boy (Oswald - 5),Oswald,,enslaved,,inventory,1833-01-01,,,5,F26,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+1182,1120,310,Girl (Sarah - 10) ,Sarah  ,,enslaved,,inventory,1828-01-01,,,10,F26,,,,,St. Thomas's Manor,Jesse Batey,,http://slaveryarchive.georgetown.edu/items/show/13,
+2731,8311,311,Girl,Girl,,enslaved,,inventory,1834-01-01,,age from bill of sale,4,F27,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2720,8312,312,Boy,Boy,,enslaved,,inventory,1830-01-01,,age from bill of sale,8,F28,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2721,8313,313,Boy,Boy,,enslaved,,inventory,1836-01-01,,age from bill of sale,1.5,F28,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2732,8314,314,Girl,Girl,,enslaved,,inventory,1828-01-01,,age from bill of sale,10,F28,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2733,8315,315,Girl,Girl,,enslaved,,inventory,1834-01-01,,age from bill of sale,4,F28,,,,,St. Thomas's Manor,Henry Johnson,,http://slaveryarchive.georgetown.edu/items/show/14,
+2734,8316,316,Girl,Girl,,enslaved,,inventory,1834-01-01,,,4,F29,,,,,St. Thomas's Manor,,,,
