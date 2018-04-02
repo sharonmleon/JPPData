@@ -1,0 +1,220 @@
+{
+    "o:label": "People",
+    "o:resource_template_property": [
+        {
+            "o:alternate_label": "Name",
+            "o:alternate_comment": null,
+            "o:is_required": true,
+            "data_type_name": "literal",
+            "data_type_label": "Text",
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "title",
+            "label": "Title"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "identifier",
+            "label": "Identifier"
+        },
+        {
+            "o:alternate_label": "First name",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
+            "vocabulary_label": "Friend of a Friend",
+            "local_name": "firstName",
+            "label": "firstName"
+        },
+        {
+            "o:alternate_label": "Last name",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
+            "vocabulary_label": "Friend of a Friend",
+            "local_name": "lastName",
+            "label": "lastName"
+        },
+        {
+            "o:alternate_label": "Gender",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": "customvocab:3",
+            "data_type_label": "Gender",
+            "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
+            "vocabulary_label": "Friend of a Friend",
+            "local_name": "gender",
+            "label": "gender"
+        },
+        {
+            "o:alternate_label": "Date of first appearance",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/schema.org\/",
+            "vocabulary_label": "Schema",
+            "local_name": "foundingDate",
+            "label": "foundingDate"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/bio\/0.1\/",
+            "vocabulary_label": "Bio",
+            "local_name": "birth",
+            "label": "Birth Event"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/bio\/0.1\/",
+            "vocabulary_label": "Bio",
+            "local_name": "death",
+            "label": "Death Event"
+        },
+        {
+            "o:alternate_label": "Exit Data",
+            "o:alternate_comment": "Last date associated with the SJs",
+            "o:is_required": false,
+            "data_type_name": "literal",
+            "data_type_label": "Text",
+            "vocabulary_namespace_uri": "http:\/\/schema.org\/",
+            "vocabulary_label": "Schema",
+            "local_name": "endDate",
+            "label": "endDate"
+        },
+        {
+            "o:alternate_label": "Notes",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "description",
+            "label": "Description"
+        },
+        {
+            "o:alternate_label": "Status",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": "customvocab:2",
+            "data_type_label": "Status",
+            "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
+            "vocabulary_label": "Friend of a Friend",
+            "local_name": "status",
+            "label": "status"
+        },
+        {
+            "o:alternate_label": "Parent",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
+            "vocabulary_label": "Relationship",
+            "local_name": "childOf",
+            "label": "Child Of"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
+            "vocabulary_label": "Relationship",
+            "local_name": "siblingOf",
+            "label": "Sibling Of"
+        },
+        {
+            "o:alternate_label": "Spouse",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
+            "vocabulary_label": "Relationship",
+            "local_name": "spouseOf",
+            "label": "Spouse Of"
+        },
+        {
+            "o:alternate_label": "Child",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
+            "vocabulary_label": "Relationship",
+            "local_name": "parentOf",
+            "label": "Parent Of"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
+            "vocabulary_label": "Relationship",
+            "local_name": "knowsOf",
+            "label": "Knows Of"
+        },
+        {
+            "o:alternate_label": "Owner",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": "uri",
+            "data_type_label": "URI",
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
+            "vocabulary_label": "Relationship",
+            "local_name": "employedBy",
+            "label": "Employed By"
+        },
+        {
+            "o:alternate_label": "Home Location",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/schema.org\/",
+            "vocabulary_label": "Schema",
+            "local_name": "homeLocation",
+            "label": "homeLocation"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "isReferencedBy",
+            "label": "Is Referenced By"
+        }
+    ],
+    "o:resource_class": {
+        "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
+        "vocabulary_label": "Friend of a Friend",
+        "local_name": "Agent",
+        "label": "Agent"
+    }
+}
