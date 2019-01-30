@@ -1,0 +1,1 @@
+This data was created as an initial pass over the 1838 sale census and corresponding bills of sale. For the most part the relationships indicated here are correct, but a number of them have been surpassed by the information contained in the People data folder.
