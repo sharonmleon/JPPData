@@ -1,0 +1,15 @@
+bio:participant,identifier,dcterms:title,name,bio:date,dcterms:type,dcterms:description,schema:location,SJ,ID,relationship:knowsOf,dcterms:source
+3660,5200,"1754-11-22, Girl birth",Girl,1754-11-22,birth,Betty’s daughter,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3661,5201,"1755-11-09, John birth",John,1755-11-09,birth,Nanny’s daughter,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3662,5202,"1756-12-05, Prudens birth",Prudens,1756-11-09,birth,Molly’s daughter,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3663,5203,"1758-10-18, John birth",John,1758-10-18,birth,Molly’s son,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3666,5206,"1750-05, Dick birth",Dicky,1750-05,birth,Betty’s son,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3667,5207,"1750-06, Nell birth",Nell,1750-06,birth,Ralph’s daughter,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3668,5208,"1752-04-02, Ralph birth",Ralph,1752-04-02,birth,born on Easter Sunday,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3660,5200,"1756-05-09, Girl, death",Girl,1756-05-09,death,,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3660,5200,"1754-11-24, Girl baptism",Girl,1754-11-24,baptism,"Died May 9, 1756 – godfather David – godmother Mrs. Cat Farrel",1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3661,5201,"1755-11-11, John baptism",John,1755-11-11,baptism,Child of Nanny - godfather Isaac - godmother Betty,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3662,5202,"1756-12-07, Prudens baptism",Prudens,1756-12-07,baptism,Child of Molly – godfather Davi – godmother Betty,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3663,5203,"1756-10-22, John baptism",John,1758-10-22,baptism,Child of Molly – godfather Davi – godmother Betty,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3664,5204,Robert baptism,Robert,,baptism,Child of Nanny – baptized by Revd. Mr. Harding ,1,Revd. Mr. Harding,,,http://slaveryarchive.georgetown.edu/items/show/276
+3665,5205,"1760-12, Sara baptism",Sara,1760-12,baptism,Child of Mary – baptized by Mr. Manners ,1,Mr. Manners,,,http://slaveryarchive.georgetown.edu/items/show/276

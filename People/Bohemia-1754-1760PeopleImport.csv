@@ -1,0 +1,17 @@
+OS-ID,dcterms:identifier ,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,schema:foundingDate ,Date type,bio:birth ,bio:death ,dcterms:description ,schema:homeLocation ,dcterms:isReferencedBy 
+,5200,Girl,Girl,,enslaved,1754-11-22,birth,1754-11-22,1756-05-09,"Child of Betty (5209) Died May 9, 1756 – godfather David – godmother Mrs. Cat Farrel",1,http://slaveryarchive.georgetown.edu/items/show/276
+,5201,John,John,,enslaved,1755-11-09,birth,1755-11-09,,Child of Nanny (5211) - godfather Isaac - godmother Betty,1,http://slaveryarchive.georgetown.edu/items/show/276
+,5202,Prudens,Prudens,,enslaved,1756-11-09,birth,1756-11-09,,Child of Molly (5213) – godfather Davi – godmother Betty,1,http://slaveryarchive.georgetown.edu/items/show/276
+,5203,John,John,,enslaved,1758-10-18,birth,1758-10-18,,Child of Molly (5213) – godfather Davi – godmother Betty – year might be wrong,1,http://slaveryarchive.georgetown.edu/items/show/276
+,5204,Robert,Robert,,enslaved,1756,baptism,,,Child of Nanny (5211),1,http://slaveryarchive.georgetown.edu/items/show/276
+,5205,Sara,Sara,,enslaved,1760-12,baptism,1760-12,,Child of Mary,1,http://slaveryarchive.georgetown.edu/items/show/276
+,5206,Dick ,Dick ,,enslaved,1750-05,birth,1750-05,,Child of Betty (5209)  ,1,http://slaveryarchive.georgetown.edu/items/show/276
+,5207,Nell,Ralph,,enslaved,1750-06,birth,1750-06,,child of Ralph (5215),1,http://slaveryarchive.georgetown.edu/items/show/276
+,5208,Ralph,Ralph,,enslaved,1752-04-02,birth,1752-04-02,,born on Easter Sunday,1,http://slaveryarchive.georgetown.edu/items/show/276
+,5209,Betty,Betty,,enslaved,1754-11-22,parenthood,,,Mother of Girl (5200) and Dick (5206),1,http://slaveryarchive.georgetown.edu/items/show/276
+,5210,Davi ,Davi ,,enslaved,1754-11-22,,,,Godfather of Girl (5200),1,http://slaveryarchive.georgetown.edu/items/show/276
+,5211,Nanny,Nanny,,enslaved,1755-11-09,parenthood,,,Mother of John (5201),1,http://slaveryarchive.georgetown.edu/items/show/276
+,5212,Isaac,Isaac,,enslaved,1755-11-09,,,,Godfather of John (5201),1,http://slaveryarchive.georgetown.edu/items/show/276
+,5213,Molly  ,Molly ,,enslaved,1756-12-05,parenthood,,,Mother of Prudens (5202) and John (5203),1,http://slaveryarchive.georgetown.edu/items/show/276
+,5214,Mary,Mary,,enslaved,1760-12,parenthood,,,Mother of Sara (5205),1,http://slaveryarchive.georgetown.edu/items/show/276
+,5215,Ralph,Ralph,,enslaved,1752,parenthood,,,Father of Nell (5208),1,http://slaveryarchive.georgetown.edu/items/show/276

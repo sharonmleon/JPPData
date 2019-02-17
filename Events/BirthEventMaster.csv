@@ -1,27 +1,82 @@
 bio:participant,identifier,dcterms:title,name,bio:date,dcterms:type,dcterms:description,schema:location,SJ,ID,relationship:knowsOf,dcterms:source
+1257,6001,"1752, Monica birth",Monica,1752,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1258,6002,"1752, Rebecca birth",Rebecca,1752,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1259,6003,"1754, John birth",John,1754,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1260,6004,"1756, Jaen birth",Jaen,1756,birth,sold to Wid. Chrec (illegible),2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1261,6005,"1758, Rose birth",Rose,1758,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1262,6006,"1758, Ignatius birth",Ignatius,1758,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1263,6007,"1759, Abraham birth",Abraham,1759,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1264,6008,"1759, Anastasia birth",Anastasia,1759,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1265,6009,"1759, Moises birth",Moises,1759,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1266,6010,"1760, Benjamin birth",Benjamin,1760,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1267,6011,"1761, George birth",George,1761,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1268,6012,"1761, Veronica birth",Veronica,1761,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1269,6013,"1761, Mary Anne birth",Mary Anne,1761,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1270,6014,"1762, Agnes birth",Agnes,1762,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1271,6015,"1762, Dreaden birth",Dreaden,1762,birth,dead,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1272,6016,"1762, Henry birth",Henry,1762,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1273,6017,"1763, Jacob birth",Jacob,1763,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1274,6018,"1764, Philip Carter birth",Philip Carter,1764,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1275,6019,"1765, Lucy birth",Lucy,1765,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1276,6020,"1765, Susanna birth",Susanna,1765,birth,dead,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1277,6021,"1765, Clare birth",Clare,1765,birth,dead,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1280,6024,"1765, Cecilia birth",Cecilia,1765,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1284,6028,"1768, William birth",William,1768,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1285,6029,"1769, Peg  birth",Peg ,1769,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1286,6030,"1769, Bernard birth",Bernard,1769,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1320,6121,"1783, Gabe birth",Gabe,1783,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1321,6124,"1783, Anna birth",Anna,1783,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1322,6127,"1784, Charles birth",Charles,1784,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1323,6130,"1784, Judith birth",Judith,1784,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1324,6131,"1786, William birth",William,1786,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1331,6142,"1791, Mary birth",Mary,1791,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1332,6143,"1791, Sarah birth",Sarah,1791,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1333,6144,"1792, Elizabeth birth",Elizabeth,1792,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1256,6000,"1752-05-01, Mary birth",Mary,1752-05-01,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1278,6022,"1765-07-28, Prudence birth",Prudence,1765-07-28,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1279,6023,"1765-09-15, Henrietta birth",Henrietta,1765-09-15,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1281,6025,"1766-06-14, Chedrick birth",Chedrick,1766-06-14,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1282,6026,"1766-12-04, Francis birth",Francis,1766-12-04,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1283,6027,"1767-05-08, Isaac birth",Isaac,1767-05-08,birth,dead,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
+1325,6132,"1786-07-09, Raphael birth",Raphael,1786-07-09,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1327,6134,"1787-06, Jacob birth",Jacob,1787-06,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1326,6133,"1787-09-06, Peter birth",Peter,1787-09-06,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1328,6135,"1789-03-10, Stephen birth",Stephen,1789-03-10,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1329,6136,"1789-08-10, Francis birth",Francis,1789-08-10,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1330,6137,"1789-12-02, Bibiana birth",Bibiana,1789-12-02,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1399,6138,"1789-12-16, Clare birth",Clare,1789-12-16,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1820,6141,"1793-07-11, Bennet birth",Bennet,1793-07-11,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1335,6147,"1793-08-14, William birth",William,1793-08-14,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1336,6150,"1794-01-27, James birth",James,1794-01-27,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1337,6152,"1795-11-04, Lucy birth",Lucy,1795-11-04,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1138,6153,"1796-01, Catharine birth",Catharine,1796-01,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1339,6154,"1796-04-16, Nicholas birth",Nicholas,1796-04-16,birth,twin of Ann,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1340,6155,"1796-04-16, Ann birth",Ann,1796-04-16,birth,twin of Nicholas,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1341,6156,"1796-11-16, Jerry birth",Jerry,1796-11-16,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1342,6158,"1796-12-22, Clare birth",Clare,1796-12-22,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+1159,1015,"1754, Eleanor birth",Eleanor,1754,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
+1151,1016,"1755, George birth",George,1755,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1136,1001,"1749-1753, Charity birth",Charity,1749-1753,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1137,1002,"1749-1753, Ignatius birth",Ignatius,1749-1753,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1138,1003,"1749-1753, Winnifred birth",Winnifred,1749-1753,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1139,1004,"1749-1753, Michael birth",Michael,1749-1753,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
-1140,1005,"1755-02-22, John birth",John,1755-02-22,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1141,1006,"1755-02-17, Sarah birth",Sarah,1755-02-17,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
+1140,1005,"1755-02-22, John birth",John,1755-02-22,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1142,1007,"1755-06-15, Robert birth",Robert,1755-06-15,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1143,1008,"1755-10, Dicky birth",Dicky,1755-10,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1144,1009,"1756-02, Bob birth",Bob,1756-02,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
-1145,1010,"1759-10-29, Dina birth",Dina,1759-10-29,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
+1152,1017,"1756-11-29, Mary birth",Mary,1756-11-29,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
+1148,1013,"1758-02, Margaret birth",Margaret,1758-02,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1146,1011,"1759-05, Peter birth",Peter,1759-05,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1147,1012,"1759-05, Sarah birth",Sarah,1759-05,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
-1148,1013,"1758-02, Margaret birth",Margaret,1758-02,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
+1145,1010,"1759-10-29, Dina birth",Dina,1759-10-29,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1149,1014,"1759-12-20, Eleanor birth",Eleanor,1759-12-20,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
-1151,1016,"1755, George birth",George,1755,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
-1152,1017,"1756-11-29, Mary birth",Mary,1756-11-29,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
-1153,1018,"1763-03-11, Statia birth",Statia,1763-03-11,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
-1154,1019,"1761-04-19, Benjamin birth",Benjamin,1761-04-19,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
-1155,1020,"1761-04-05, Catherine birth",Catherine,1761-04-05,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1156,1021,"1759-12-27, Nell birth",Nell,1759-12-27,birth,strike [dead] - Jan.,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
+1155,1020,"1761-04-05, Catherine birth",Catherine,1761-04-05,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
+1154,1019,"1761-04-19, Benjamin birth",Benjamin,1761-04-19,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1157,1023,"1762-09-10, Elizabeth birth",Elizabeth,1762-09-10,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1158,1024,"1762-11-02, Margaret birth",Margaret,1762-11-02,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
-1159,1015,"1754, Eleanor birth",Eleanor,1754,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
+1153,1018,"1763-03-11, Statia birth",Statia,1763-03-11,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1159,1025,"1764-08-06, Harry birth",Harry,1764-08-06,birth,,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1160,1026,"1765-06-02, Lucy birth",Lucy,1765-06-02,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1161,1027,"1765-09-16, Jeremiah birth",Jeremiah,1765-09-16,birth,strike [dead],1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
@@ -44,91 +99,10 @@ bio:participant,identifier,dcterms:title,name,bio:date,dcterms:type,dcterms:desc
 1178,1044,"1778-01-22, Charity birth",Charity,1778-01-22,birth,year questionable,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1179,1045,"1778-01-29, Daniel birth",Daniel,1778-01-29,birth,strike [dead] year questionable,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
 1180,1046,"1778-03-02, Alexius birth",Alexius,1778-03-02,birth,In the service of ArchB. Carroll in 1797 (in Corp Proceedings and in St. Thomas Account Book) – year questionable,1024,George Hunter,J004,969,http://slaveryarchive.georgetown.edu/items/show/45
-1256,6000,"1752-05-01, Mary birth",Mary,1752-05-01,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1257,6001,"1752, Monica birth",Monica,1752,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1258,6002,"1752, Rebecca birth",Rebecca,1752,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1259,6003,"1754, John birth",John,1754,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1260,6004,"1756, Jaen birth",Jaen,1756,birth,sold to Wid. Chrec (illegible),2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1261,6005,"1758, Rose birth",Rose,1758,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1262,6006,"1758, Ignatius birth",Ignatius,1758,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1263,6007,"1759, Abraham birth",Abraham,1759,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1264,6008,"1759, Anastasia birth",Anastasia,1759,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1265,6009,"1759, Moises birth",Moises,1759,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1266,6010,"1760, Benjamin birth",Benjamin,1760,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1267,6011,"1761, George birth",George,1761,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1268,6012,"1761, Veronica birth",Veronica,1761,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1269,6013,"1761, Mary Anne birth",Mary Anne,1761,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1270,6014,"1762, Agnes birth",Agnes,1762,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1271,6015,"1762, Dreaden birth",Dreaden,1762,birth,dead,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1272,6016,"1762, Henry birth",Henry,1762,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1273,6017,"1763, Jacob birth",Jacob,1763,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1274,6018,"1764, Philip Carter birth",Philip Carter,1764,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1275,6019,"1765, Lucy birth",Lucy,1765,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1276,6020,"1765, Susanna birth",Susanna,1765,birth,dead,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1277,6021,"1765, Clare birth",Clare,1765,birth,dead,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1278,6022,"1765-07-28, Prudence birth",Prudence,1765-07-28,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1279,6023,"1765-09-15, Henrietta birth",Henrietta,1765-09-15,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1280,6024,"1765, Cecilia birth",Cecilia,1765,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1281,6025,"1766-06-14, Chedrick birth",Chedrick,1766-06-14,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1282,6026,"1766-12-04, Francis birth",Francis,1766-12-04,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1283,6027,"1767-05-08, Isaac birth",Isaac,1767-05-08,birth,dead,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1284,6028,"1768, William birth",William,1768,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1285,6029,"1769, Peg  birth",Peg ,1769,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1286,6030,"1769, Bernard birth",Bernard,1769,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/171
-1287,6068,"1806-04-05, Henny birth",Henny,1806-04-05,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1288,6070,"1807-11-07, John birth",John,1807-11-07,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1289,6073,"1809-08-16, Bill birth",Bill,1809-08-16,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1290,6075,"1811-11-02, Abram birth",Abram,1811-11-02,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1291,6076,"1812-02-23, Susan  birth",Susan ,1812-02-23,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1292,6079,"1814-07-01, Jarret birth",Jarret,1814-07-01,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1293,6080,"1815-09, Charlotte birth",Charlotte,1815-09,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1294,6081,"1815-12-25, Mary birth",Mary,1815-12-25,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1295,6082,"1816-10-06, Julian birth",Julian,1816-10-06,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1296,6083,"1811-02-24, Dick birth",Dick,1811-02-24,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1297,6084,"1813, Grinfield birth",Grinfield,1813,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1298,6087,"1814-06-09, Rosanne birth",Rosanne,1814-06-09,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1299,6088,"1817, James   birth",James  ,1817,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1300,6091,"1819-05-03, Ferdinand birth",Ferdinand,1819-05-03,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1301,6092,"1819-02-12, Sylvester birth",Sylvester,1819-02-12,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1302,6093,"1820-10-30, Cristina birth",Cristina,1820-10-30,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1303,6094,"1821-08-12, Harriet birth",Harriet,1821-08-12,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1304,6095,"1822-04-05, Emeline birth",Emeline,1822-04-05,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1305,6096,"1823, Henry birth",Henry,1823,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1306,6097,"1823, Eleanor birth",Eleanor,1823,birth,Henry and Eleanor twins?,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1307,6098,"1826, Mary birth",Mary,1826,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1308,6099,"1824-02-22, Lucrese birth",Lucrese,1824-02-22,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1309,6100,"1825-04-10, Ritta birth",Ritta,1825-04-10,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1310,6101,"1821-09-19, Remus birth",Remus,1821-09-19,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1311,6102,"1825, Miley birth",Miley,1825,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1312,6103,"1827, Lucy birth",Lucy,1827,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1313,6104,"1827, Ann birth",Ann,1827,birth,crossed out (dead?),2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1314,6105,"1828-10-17, Joe birth",Joe,1828-10-17,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1315,6106,"1830-10-09, Mary Jane birth",Mary Jane,1830-10-09,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1316,6107,"1831-03-03, Mary birth",Mary,1831-03-03,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1317,6108,"1825, Alexius birth",Alexius,1825,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1318,6109,"1831-09-03, Priscilla birth",Priscilla,1831-09-03,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1319,6110,"1831-12-12, Nicholas birth",Nicholas,1831-12-12,birth,crossed out and indicated dead,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-1320,6121,"1783, Gabe birth",Gabe,1783,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1321,6124,"1783, Anna birth",Anna,1783,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1322,6127,"1784, Charles birth",Charles,1784,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1323,6130,"1784, Judith birth",Judith,1784,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1324,6131,"1786, William birth",William,1786,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1325,6132,"1786-07-09, Raphael birth",Raphael,1786-07-09,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1326,6133,"1787-09-06, Peter birth",Peter,1787-09-06,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1327,6134,"1787-06, Jacob birth",Jacob,1787-06,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1328,6135,"1789-03-10, Stephen birth",Stephen,1789-03-10,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1329,6136,"1789-08-10, Francis birth",Francis,1789-08-10,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1330,6137,"1789-12-02, Bibiana birth",Bibiana,1789-12-02,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1331,6142,"1791, Mary birth",Mary,1791,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1332,6143,"1791, Sarah birth",Sarah,1791,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1333,6144,"1792, Elizabeth birth",Elizabeth,1792,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1335,6147,"1793-08-14, William birth",William,1793-08-14,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1336,6150,"1794-01-27, James birth",James,1794-01-27,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1337,6152,"1795-11-04, Lucy birth",Lucy,1795-11-04,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1338,6153,"1796-01, Catharine birth",Catharine,1796-01,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1339,6154,"1796-04-16, Nicholas birth",Nicholas,1796-04-16,birth,twin of Ann,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1340,6155,"1796-04-16, Ann birth",Ann,1796-04-16,birth,twin of Nicholas,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1341,6156,"1796-11-16, Jerry birth",Jerry,1796-11-16,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1342,6158,"1796-12-22, Clare birth",Clare,1796-12-22,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1399,6138,"1789-12-16, Clare birth",Clare,1789-12-16,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
-1820,6141,"1793-07-11, Bennet birth",Bennet,1793-07-11,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/173
+3660,5200,"1754-11-22, Girl birth",Girl,1754-11-22,birth,Betty’s daughter,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3661,5201,"1755-11-09, John birth",John,1755-11-09,birth,Nanny’s daughter,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3662,5202,"1756-12-05, Prudens birth",Prudens,1756-11-09,birth,Molly’s daughter,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3663,5203,"1758-10-18, John birth",John,1758-10-18,birth,Molly’s son,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3666,5206,"1750-05, Dick birth",Dicky,1750-05,birth,Betty’s son,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3667,5207,"1750-06, Nell birth",Nell,1750-06,birth,Ralph’s daughter,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3668,5208,"1752-04-02, Ralph birth",Ralph,1752-04-02,birth,born on Easter Sunday,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
