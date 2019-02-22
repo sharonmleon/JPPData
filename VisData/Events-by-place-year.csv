@@ -1,0 +1,174 @@
+dcterms:type/0/@value,Year,schema:location/0/display_title,count,Sum
+baptism,1754,Bohemia,1,1
+baptism,1755,Bohemia,1,1
+baptism,1756,Bohemia,1,1
+baptism,1758,Bohemia,1,1
+baptism,1769,Bohemia,1,1
+baptism,1819,Newtown,1,2
+baptism,1821,Newtown,1,1
+baptism,1830,Newtown,1,2
+baptism,1831,Newtown,1,4
+baptism,1832,Newtown,1,4
+baptism,1833,Newtown,1,1
+baptism,1765,St. Joseph's Manor,1,1
+baptism,1771,St. Joseph's Manor,1,1
+baptism,1773,St. Joseph's Manor,1,2
+baptism,1775,St. Joseph's Manor,1,1
+baptism,1777,St. Joseph's Manor,1,1
+baptism,1778,St. Joseph's Manor,1,1
+baptism,1780,St. Joseph's Manor,1,1
+baptism,1781,St. Joseph's Manor,1,1
+baptism,1782,St. Joseph's Manor,1,1
+baptism,1786,St. Joseph's Manor,1,1
+baptism,1799,St. Joseph's Manor,1,1
+baptism,1827,St. Thomas's Manor,1,1
+baptism,1828,St. Thomas's Manor,1,3
+baptism,1829,St. Thomas's Manor,1,4
+baptism,1830,St. Thomas's Manor,1,3
+baptism,1831,St. Thomas's Manor,1,1
+baptism,1832,St. Thomas's Manor,1,1
+baptism,1819,White Marsh,1,2
+baptism,1820,White Marsh,1,4
+baptism,1821,White Marsh,1,4
+baptism,1822,White Marsh,1,7
+baptism,1823,White Marsh,1,1
+baptism,1827,White Marsh,1,2
+baptism,1828,White Marsh,1,2
+baptism,1829,White Marsh,1,4
+baptism,1831,White Marsh,1,4
+baptism,1832,White Marsh,1,12
+birth,1750,Bohemia,1,2
+birth,1752,Bohemia,1,1
+birth,1754,Bohemia,1,1
+birth,1755,Bohemia,1,1
+birth,1756,Bohemia,1,1
+birth,1758,Bohemia,1,1
+birth,1752,Newtown,1,2
+birth,1754,Newtown,1,1
+birth,1756,Newtown,1,1
+birth,1758,Newtown,1,2
+birth,1759,Newtown,1,3
+birth,1760,Newtown,1,1
+birth,1761,Newtown,1,3
+birth,1762,Newtown,1,3
+birth,1763,Newtown,1,1
+birth,1764,Newtown,1,1
+birth,1765,Newtown,1,4
+birth,1768,Newtown,1,1
+birth,1769,Newtown,1,2
+birth,1783,Newtown,1,2
+birth,1784,Newtown,1,2
+birth,1786,Newtown,1,1
+birth,1787,Newtown,1,1
+birth,1791,Newtown,1,2
+birth,1792,Newtown,1,1
+birth,1796,Newtown,1,1
+birth,1813,Newtown,1,1
+birth,1815,Newtown,1,1
+birth,1817,Newtown,1,1
+birth,1823,Newtown,1,2
+birth,1825,Newtown,1,2
+birth,1826,Newtown,1,1
+birth,1827,Newtown,1,2
+birth,1752,Newtown,1,1
+birth,1765,Newtown,1,2
+birth,1766,Newtown,1,2
+birth,1767,Newtown,1,1
+birth,1786,Newtown,1,1
+birth,1787,Newtown,1,1
+birth,1789,Newtown,1,4
+birth,1793,Newtown,1,2
+birth,1794,Newtown,1,1
+birth,1795,Newtown,1,1
+birth,1796,Newtown,1,4
+birth,1806,Newtown,1,1
+birth,1807,Newtown,1,1
+birth,1809,Newtown,1,1
+birth,1811,Newtown,1,2
+birth,1812,Newtown,1,1
+birth,1814,Newtown,1,2
+birth,1815,Newtown,1,1
+birth,1816,Newtown,1,1
+birth,1819,Newtown,1,2
+birth,1820,Newtown,1,1
+birth,1821,Newtown,1,2
+birth,1822,Newtown,1,1
+birth,1824,Newtown,1,1
+birth,1825,Newtown,1,1
+birth,1828,Newtown,1,1
+birth,1830,Newtown,1,1
+birth,1831,Newtown,1,3
+birth,1749,Port Tobacco,1,4
+birth,1754,Port Tobacco,1,1
+birth,1755,Port Tobacco,1,2
+birth,1756,Port Tobacco,1,1
+birth,1758,Port Tobacco,1,1
+birth,1759,Port Tobacco,1,2
+birth,1766,Port Tobacco,1,1
+birth,1755,Port Tobacco,1,3
+birth,1756,Port Tobacco,1,1
+birth,1759,Port Tobacco,1,2
+birth,1761,Port Tobacco,1,2
+birth,1762,Port Tobacco,1,2
+birth,1763,Port Tobacco,1,1
+birth,1764,Port Tobacco,1,1
+birth,1765,Port Tobacco,1,3
+birth,1767,Port Tobacco,1,2
+birth,1768,Port Tobacco,1,1
+birth,1770,Port Tobacco,1,1
+birth,1773,Port Tobacco,1,3
+birth,1775,Port Tobacco,1,2
+birth,1776,Port Tobacco,1,2
+birth,1777,Port Tobacco,1,3
+birth,1778,Port Tobacco,1,3
+birth,1765,St. Joseph's Manor,1,1
+death,1826,Abroad,1,1
+death,1756,Bohemia,1,1
+death,1796,Bohemia,1,1
+death,1824,Bohemia,1,1
+death,1790,Newtown,1,1
+death,1791,Newtown,1,1
+death,1784,Newtown,1,1
+death,1790,Newtown,1,3
+death,1793,Newtown,1,2
+death,1831,Newtown,1,1
+death,1812,St. Inigoe's Manor,1,4
+death,1815,St. Inigoe's Manor,1,1
+death,1766,St. Joseph's Manor,1,1
+death,1781,St. Joseph's Manor,1,1
+death,1826,St. Thomas's Manor,1,1
+death,1827,St. Thomas's Manor,1,1
+death,1820,White Marsh,1,1
+death,1832,White Marsh,1,1
+death,1790,,1,1
+death,1809,,1,1
+inventory,1763,Fingale,1,22
+inventory,1810,Georgetown College,1,10
+inventory,1811,Georgetown College,1,3
+inventory,1812,Georgetown College,1,10
+inventory,1813,Georgetown College,1,10
+inventory,1814,Georgetown College,1,12
+inventory,1752,Newtown,1,18
+inventory,1788,Newtown,1,22
+inventory,1838,Newtown,1,44
+inventory,1717,Newtown,1,15
+inventory,1831,St. Inigoe's Manor,1,90
+inventory,1838,St. Inigoe's Manor,1,93
+inventory,1821,St. Inigoe's Manor,1,61
+inventory,1803,St. Joseph's Manor,1,11
+inventory,1820,St. Thomas's Manor,1,26
+inventory,1838,St. Thomas's Manor,1,46
+inventory,1763,White Marsh,1,64
+inventory,1838,White Marsh,1,91
+marriage,1822,Newtown,1,1
+marriage,1831,Newtown,1,2
+marriage,1817,St. Inigoe's Manor,1,1
+marriage,1831,St. Inigoe's Manor,1,1
+marriage,1770,St. Joseph's Manor,1,1
+marriage,1813,St. Thomas's Manor,1,1
+marriage,1828,St. Thomas's Manor,1,1
+marriage,1829,St. Thomas's Manor,1,1
+marriage,1830,St. Thomas's Manor,1,1
+marriage,1831,St. Thomas's Manor,1,1
+marriage,1823,White Marsh,1,1
+marriage,1831,White Marsh,1,1
