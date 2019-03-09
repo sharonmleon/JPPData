@@ -1,0 +1,624 @@
+o:id,dcterms:title/0/@value,relationship:childOf/0/property_label,relationship:childOf/0/value_resource_id,relationship:childOf/0/display_title,schema:homeLocation/0/value_resource_id,schema:homeLocation/0/display_title
+1448,Patrick,Child Of,1446,Jenny,1,Bohemia
+1452,Joseph,Child Of,1450,Nelly,1,Bohemia
+1634,Infant Child,Child Of,1633,Nancy,1,Bohemia
+1636,Infant Child,Child Of,1635,Polly,1,Bohemia
+1648,David,Child Of,1686,Moll ,1,Bohemia
+1648,David,Child Of,1030,Harry,1,Bohemia
+1706,Abigail,Child Of,1699,Poll ,1,Bohemia
+1706,Abigail,Child Of,1862,David,1,Bohemia
+1859,Hannah,Child Of,1858,Mary,1,Bohemia
+1859,Hannah,Child Of,1861,Pat,1,Bohemia
+1860,Isaac,Child Of,1861,Pat,1,Bohemia
+1860,Isaac,Child Of,1858,Mary,1,Bohemia
+1919,Perry,Child Of,1918,Nell,1,Bohemia
+1919,Perry,Child Of,1093,Perry Greenwood,1,Bohemia
+1929,Nell,Child Of,1933,Philis,1,Bohemia
+1931,Clara,Child Of,1933,Philis,1,Bohemia
+1971,Kate's child 1,Child Of,1438,Kate,1,Bohemia
+1972,Kate's child 2,Child Of,1438,Kate,1,Bohemia
+1974,Child,Child Of,1973,Woman,1,Bohemia
+3548,Nelly,Child Of,1932,Jany,1,Bohemia
+3548,Nelly,Child Of,1692,Ralph,1,Bohemia
+3660,Girl,Child Of,3669,Betty,1,Bohemia
+3661,John,Child Of,3671,Nanny,1,Bohemia
+3662,Prudens,Child Of,3673,Molly,1,Bohemia
+3663,John,Child Of,3673,Molly,1,Bohemia
+3664,Robert,Child Of,3671,Nanny,1,Bohemia
+3665,Sara,Child Of,3674,Mary,1,Bohemia
+3666,Dick,Child Of,3669,Betty,1,Bohemia
+3667,Nell,Child Of,3675,Ralph,1,Bohemia
+1248,Henry Rea,Child Of,1847,Henry,2,Newtown
+1248,Henry Rea,Child Of,1833,Bett ,2,Newtown
+1249,Robert James,Child Of,1827,William,2,Newtown
+1249,Robert James,Child Of,1826,Nelly,2,Newtown
+1250,Jane,Child Of,1852,Mary,2,Newtown
+1250,Jane,Child Of,1288,John,2,Newtown
+1251,Mary Ann,Child Of,1829,Henry,2,Newtown
+1251,Mary Ann,Child Of,2110,Cecilia Adams,2,Newtown
+1252,John Henry,Child Of,1665,Eliza,2,Newtown
+1252,John Henry,Child Of,1289,Bill Hill,2,Newtown
+1253,Louisa,Child Of,1851,Mary,2,Newtown
+1253,Louisa,Child Of,1831,Thomas,2,Newtown
+1254,James Henry,Child Of,1832,Harry,2,Newtown
+1254,James Henry,Child Of,2111,Sarah,2,Newtown
+1255,Elizabeth,Child Of,1287,Henny,2,Newtown
+1256,Mary,Child Of,1799,Ben Sr.,2,Newtown
+1256,Mary,Child Of,1798,Clare,2,Newtown
+1257,Monica,Child Of,1801,James  ,2,Newtown
+1257,Monica,Child Of,1800,Nel ,2,Newtown
+1259,John,Child Of,1799,Ben Sr.,2,Newtown
+1259,John,Child Of,1798,Clare,2,Newtown
+1260,Jaen,Child Of,1801,James  ,2,Newtown
+1260,Jaen,Child Of,1800,Nel ,2,Newtown
+1261,Rose,Child Of,1799,Ben Sr.,2,Newtown
+1261,Rose,Child Of,1798,Clare,2,Newtown
+1262,Ignatius,Child Of,1802,Suck,2,Newtown
+1263,Abraham,Child Of,1801,James  ,2,Newtown
+1263,Abraham,Child Of,1800,Nel ,2,Newtown
+1264,Anastasia,Child Of,1804,Clem,2,Newtown
+1264,Anastasia,Child Of,1803,Judith,2,Newtown
+1265,Moises,Child Of,1805,Teresia,2,Newtown
+1265,Moises,Child Of,1806,Ben Jr.,2,Newtown
+1266,Benjamin,Child Of,1799,Ben Sr.,2,Newtown
+1266,Benjamin,Child Of,1798,Clare,2,Newtown
+1267,George,Child Of,1812,Jacob,2,Newtown
+1267,George,Child Of,1802,Suck,2,Newtown
+1268,Veronica,Child Of,1805,Teresia,2,Newtown
+1268,Veronica,Child Of,1806,Ben Jr.,2,Newtown
+1269,Mary Anne,Child Of,1804,Clem,2,Newtown
+1269,Mary Anne,Child Of,1803,Judith,2,Newtown
+1270,Agnes,Child Of,1801,James  ,2,Newtown
+1270,Agnes,Child Of,1800,Nel ,2,Newtown
+1271,Dreaden,Child Of,1807,Jim,2,Newtown
+1271,Dreaden,Child Of,1808,Jane,2,Newtown
+1272,Henry,Child Of,1799,Ben Sr.,2,Newtown
+1272,Henry,Child Of,1798,Clare,2,Newtown
+1273,Jacob,Child Of,1812,Jacob,2,Newtown
+1273,Jacob,Child Of,1802,Suck,2,Newtown
+1274,Philip Carter,Child Of,1822,James,2,Newtown
+1274,Philip Carter,Child Of,1809,Jenny,2,Newtown
+1275,Lucy,Child Of,1804,Clem,2,Newtown
+1275,Lucy,Child Of,1803,Judith,2,Newtown
+1276,Susanna,Child Of,1810,Peggy [dead],2,Newtown
+1277,Clare ,Child Of,1802,Suck,2,Newtown
+1277,Clare ,Child Of,1812,Jacob,2,Newtown
+1278,Prudence,Child Of,1801,James  ,2,Newtown
+1278,Prudence,Child Of,1800,Nel ,2,Newtown
+1279,Henrietta,Child Of,1805,Teresia,2,Newtown
+1279,Henrietta,Child Of,1806,Ben Jr.,2,Newtown
+1280,Cecilia,Child Of,1811,Betty Jacob,2,Newtown
+1281,Chedrick,Child Of,1804,Clem,2,Newtown
+1281,Chedrick,Child Of,1803,Judith,2,Newtown
+1282,Francis,Child Of,1822,James,2,Newtown
+1282,Francis,Child Of,1809,Jenny,2,Newtown
+1283,Isaac,Child Of,1802,Suck,2,Newtown
+1283,Isaac,Child Of,1812,Jacob,2,Newtown
+1284,William,Child Of,1805,Teresia,2,Newtown
+1284,William,Child Of,1806,Ben Jr.,2,Newtown
+1285,Peg ,Child Of,1825,Ruth,2,Newtown
+1285,Peg ,Child Of,1824,Clem,2,Newtown
+1286,Bernard,Child Of,1802,Suck,2,Newtown
+1286,Bernard,Child Of,1812,Jacob,2,Newtown
+1287,Henny,Child Of,1346,Mary,2,Newtown
+1287,Henny,Child Of,1836,Harry,2,Newtown
+1288,John,Child Of,1593,Dina,2,Newtown
+1288,John,Child Of,1592,Harry,2,Newtown
+1289,Bill Hill,Child Of,1847,Henry,2,Newtown
+1289,Bill Hill,Child Of,1833,Bett ,2,Newtown
+1290,Abram,Child Of,1346,Mary,2,Newtown
+1290,Abram,Child Of,1836,Harry,2,Newtown
+1291,Susan Plowden,Child Of,1348,Biby (Betsy and Bibiana) Plowden,2,Newtown
+1291,Susan Plowden,Child Of,1850,Nicholas,2,Newtown
+1292,Jarret,Child Of,1348,Biby (Betsy and Bibiana) Plowden,2,Newtown
+1292,Jarret,Child Of,1850,Nicholas,2,Newtown
+1293,Charlotte,Child Of,1850,Nicholas,2,Newtown
+1293,Charlotte,Child Of,1348,Biby (Betsy and Bibiana) Plowden,2,Newtown
+1294,Mary,Child Of,1836,Harry,2,Newtown
+1294,Mary,Child Of,1346,Mary,2,Newtown
+1295,Julian,Child Of,1850,Nicholas,2,Newtown
+1295,Julian,Child Of,1348,Biby (Betsy and Bibiana) Plowden,2,Newtown
+1296,Dick,Child Of,1348,Biby (Betsy and Bibiana) Plowden,2,Newtown
+1296,Dick,Child Of,1850,Nicholas,2,Newtown
+1297,Grinfield Greenleaf,Child Of,1349,Esther Greenleaf,2,Newtown
+1297,Grinfield Greenleaf,Child Of,1813,Joe Greenleaf,2,Newtown
+1298,Rosanne,Child Of,1593,Dina,2,Newtown
+1298,Rosanne,Child Of,1592,Harry,2,Newtown
+1299,James  ,Child Of,1820,Bennet,2,Newtown
+1299,James  ,Child Of,1342,Clare,2,Newtown
+1300,Ferdinand Hill,Child Of,1849,Henry,2,Newtown
+1300,Ferdinand Hill,Child Of,1350,Betsy,2,Newtown
+1301,Sylvester Greenleaf,Child Of,1813,Joe Greenleaf,2,Newtown
+1301,Sylvester Greenleaf,Child Of,1349,Esther Greenleaf,2,Newtown
+1302,Cristina,Child Of,1820,Bennet,2,Newtown
+1302,Cristina,Child Of,1342,Clare,2,Newtown
+1303,Harriet,Child Of,1348,Biby (Betsy and Bibiana) Plowden,2,Newtown
+1303,Harriet,Child Of,1850,Nicholas,2,Newtown
+1304,Emeline Greenleaf,Child Of,1813,Joe Greenleaf,2,Newtown
+1304,Emeline Greenleaf,Child Of,1349,Esther Greenleaf,2,Newtown
+1305,Henry,Child Of,1820,Bennet,2,Newtown
+1305,Henry,Child Of,1342,Clare,2,Newtown
+1306,Eleanor,Child Of,1820,Bennet,2,Newtown
+1306,Eleanor,Child Of,1342,Clare,2,Newtown
+1307,Mary Greenleaf,Child Of,1813,Joe Greenleaf,2,Newtown
+1307,Mary Greenleaf,Child Of,1349,Esther Greenleaf,2,Newtown
+1308,Lucrese,Child Of,1849,Henry,2,Newtown
+1308,Lucrese,Child Of,1350,Betsy,2,Newtown
+1309,Ritta,Child Of,1849,Henry,2,Newtown
+1309,Ritta,Child Of,1350,Betsy,2,Newtown
+1310,Remus,Child Of,1849,Henry,2,Newtown
+1310,Remus,Child Of,1350,Betsy,2,Newtown
+1311,Miley Greenleaf,Child Of,1813,Joe Greenleaf,2,Newtown
+1311,Miley Greenleaf,Child Of,1349,Esther Greenleaf,2,Newtown
+1312,Lucy Ann,Child Of,1820,Bennet,2,Newtown
+1312,Lucy Ann,Child Of,1342,Clare,2,Newtown
+1313,Ann ,Child Of,1848,Henry,2,Newtown
+1313,Ann ,Child Of,1287,Henny,2,Newtown
+1314,Joe,Child Of,1849,Henry,2,Newtown
+1314,Joe,Child Of,1350,Betsy,2,Newtown
+1315,Mary Jane,Child Of,1848,Henry,2,Newtown
+1315,Mary Jane,Child Of,1287,Henny,2,Newtown
+1316,Mary,Child Of,1849,Henry,2,Newtown
+1316,Mary,Child Of,1350,Betsy,2,Newtown
+1317,Alexius,Child Of,1820,Bennet,2,Newtown
+1317,Alexius,Child Of,1342,Clare,2,Newtown
+1318,Priscilla Plowden,Child Of,1291,Susan Plowden,2,Newtown
+1319,Nicholas,Child Of,1293,Charlotte,2,Newtown
+1320,Gabe,Child Of,1815,Flora,2,Newtown
+1320,Gabe,Child Of,1814,George,2,Newtown
+1321,Anna,Child Of,1817,Henrietta (Retta),2,Newtown
+1321,Anna,Child Of,1816,Tony,2,Newtown
+1322,Charles,Child Of,1819,Rebecca,2,Newtown
+1322,Charles,Child Of,1818,Michael,2,Newtown
+1323,Judith,Child Of,1817,Henrietta (Retta),2,Newtown
+1323,Judith,Child Of,1816,Tony,2,Newtown
+1324,William,Child Of,1815,Flora,2,Newtown
+1324,William,Child Of,1814,George,2,Newtown
+1325,Raphael,Child Of,1819,Rebecca,2,Newtown
+1325,Raphael,Child Of,1818,Michael,2,Newtown
+1326,Peter,Child Of,1817,Henrietta (Retta),2,Newtown
+1326,Peter,Child Of,1816,Tony,2,Newtown
+1327,Jacob,Child Of,1815,Flora,2,Newtown
+1327,Jacob,Child Of,1814,George,2,Newtown
+1328,Stephen,Child Of,1819,Rebecca,2,Newtown
+1328,Stephen,Child Of,1818,Michael,2,Newtown
+1329,Francis,Child Of,1815,Flora,2,Newtown
+1329,Francis,Child Of,1814,George,2,Newtown
+1331,Mary,Child Of,1815,Flora,2,Newtown
+1331,Mary,Child Of,1814,George,2,Newtown
+1332,Sarah,Child Of,1592,Harry,2,Newtown
+1332,Sarah,Child Of,1593,Dina,2,Newtown
+1333,Elizabeth,Child Of,1817,Henrietta (Retta),2,Newtown
+1333,Elizabeth,Child Of,1816,Tony,2,Newtown
+1335,William,Child Of,1815,Flora,2,Newtown
+1335,William,Child Of,1814,George,2,Newtown
+1336,James,Child Of,2112,Abram,2,Newtown
+1336,James,Child Of,1866,Agnes,2,Newtown
+1337,Lucy,Child Of,1815,Flora,2,Newtown
+1337,Lucy,Child Of,1814,George,2,Newtown
+1338,Catharine,Child Of,1817,Henrietta (Retta),2,Newtown
+1338,Catharine,Child Of,1816,Tony,2,Newtown
+1339,Nicholas,Child Of,1592,Harry,2,Newtown
+1339,Nicholas,Child Of,1593,Dina,2,Newtown
+1340,Ann,Child Of,1593,Dina,2,Newtown
+1340,Ann,Child Of,1592,Harry,2,Newtown
+1342,Clare,Child Of,1866,Agnes,2,Newtown
+1342,Clare,Child Of,2112,Abram,2,Newtown
+1348,Biby (Betsy and Bibiana) Plowden,Child Of,1817,Henrietta (Retta),2,Newtown
+1348,Biby (Betsy and Bibiana) Plowden,Child Of,1816,Tony,2,Newtown
+1399,Clare,Child Of,1593,Dina,2,Newtown
+1399,Clare,Child Of,1592,Harry,2,Newtown
+1658,Jery,Child Of,1346,Mary,2,Newtown
+1658,Jery,Child Of,1836,Harry,2,Newtown
+1819,Rebecca,Child Of,1805,Teresia,2,Newtown
+1820,Bennet,Child Of,1592,Harry,2,Newtown
+1820,Bennet,Child Of,1593,Dina,2,Newtown
+1867,Mary,Child Of,1866,Agnes,2,Newtown
+1936,Child,Child Of,1935,Mary,2,Newtown
+1625,Melly,Child Of,1669,Ralph,3,St. Inigoe's Manor
+2443,Abram,Child Of,2686,Robert,3,St. Inigoe's Manor
+2443,Abram,Child Of,1371,Mary,3,St. Inigoe's Manor
+2445,Alexander Campbell,Child Of,1358,Watt (Wot) Campbell,3,St. Inigoe's Manor
+2445,Alexander Campbell,Child Of,2532,Teresa Campbell,3,St. Inigoe's Manor
+2462,Bridget,Child Of,2686,Robert,3,St. Inigoe's Manor
+2462,Bridget,Child Of,1371,Mary,3,St. Inigoe's Manor
+2467,Charlotte Campbell,Child Of,1358,Watt (Wot) Campbell,3,St. Inigoe's Manor
+2467,Charlotte Campbell,Child Of,2532,Teresa Campbell,3,St. Inigoe's Manor
+2472,Eliza Barney,Child Of,2516,Nelly Barney,3,St. Inigoe's Manor
+2478,Frank Campbell,Child Of,1358,Watt (Wot) Campbell,3,St. Inigoe's Manor
+2478,Frank Campbell,Child Of,2532,Teresa Campbell,3,St. Inigoe's Manor
+2494,James,Child Of,2686,Robert,3,St. Inigoe's Manor
+2494,James,Child Of,1371,Mary,3,St. Inigoe's Manor
+2504,Mary Jane (Little Mary),Child Of,2686,Robert,3,St. Inigoe's Manor
+2504,Mary Jane (Little Mary),Child Of,1371,Mary,3,St. Inigoe's Manor
+2527,Sam Campbell,Child Of,1358,Watt (Wot) Campbell,3,St. Inigoe's Manor
+2527,Sam Campbell,Child Of,2532,Teresa Campbell,3,St. Inigoe's Manor
+2531,Susan Ann,Child Of,2686,Robert,3,St. Inigoe's Manor
+2531,Susan Ann,Child Of,1371,Mary,3,St. Inigoe's Manor
+2687,Robert,Child Of,2686,Robert,3,St. Inigoe's Manor
+2687,Robert,Child Of,1371,Mary,3,St. Inigoe's Manor
+2689,Sally Anne,Child Of,2686,Robert,3,St. Inigoe's Manor
+2689,Sally Anne,Child Of,1371,Mary,3,St. Inigoe's Manor
+2690,Nelly,Child Of,2686,Robert,3,St. Inigoe's Manor
+2690,Nelly,Child Of,1371,Mary,3,St. Inigoe's Manor
+2691,Charles,Child Of,2686,Robert,3,St. Inigoe's Manor
+2691,Charles,Child Of,1371,Mary,3,St. Inigoe's Manor
+2692,Child,Child Of,2686,Robert,3,St. Inigoe's Manor
+2692,Child,Child Of,1371,Mary,3,St. Inigoe's Manor
+2693,Arnold Jones,Child Of,2448,Anna Jones,3,St. Inigoe's Manor
+2699,Rachel Campbell,Child Of,1358,Watt (Wot) Campbell,3,St. Inigoe's Manor
+2699,Rachel Campbell,Child Of,2532,Teresa Campbell,3,St. Inigoe's Manor
+2700,Emeline Campbell,Child Of,1358,Watt (Wot) Campbell,3,St. Inigoe's Manor
+2700,Emeline Campbell,Child Of,2532,Teresa Campbell,3,St. Inigoe's Manor
+2701,"Watt Campbell, II",Child Of,1358,Watt (Wot) Campbell,3,St. Inigoe's Manor
+2701,"Watt Campbell, II",Child Of,2532,Teresa Campbell,3,St. Inigoe's Manor
+2702,Child Campbell,Child Of,1358,Watt (Wot) Campbell,3,St. Inigoe's Manor
+2702,Child Campbell,Child Of,2532,Teresa Campbell,3,St. Inigoe's Manor
+2708,Girl,Child Of,2481,Ginny,3,St. Inigoe's Manor
+1194,Mary,Child Of,1496,Frank,4,St. Joseph's Manor
+1205,Jerry,Child Of,1747,Henny,4,St. Joseph's Manor
+1911,Child,Child Of,1910,Maria,4,St. Joseph's Manor
+1912,Child,Child Of,1910,Maria,4,St. Joseph's Manor
+1913,Child,Child Of,1910,Maria,4,St. Joseph's Manor
+1181,Eliza,Child Of,1454,Cristina (Christina),5,St. Thomas's Manor
+1182,Sarah,Child Of,1741,George,5,St. Thomas's Manor
+1182,Sarah,Child Of,1740,Catherine (Kitty),5,St. Thomas's Manor
+1183,John Francis,Child Of,1649,Clement,5,St. Thomas's Manor
+1183,John Francis,Child Of,1458,Matilda,5,St. Thomas's Manor
+1184,Sarah Ann Elizabeth,Child Of,1662,Henry,5,St. Thomas's Manor
+1184,Sarah Ann Elizabeth,Child Of,1454,Cristina (Christina),5,St. Thomas's Manor
+1185,Hillen,Child Of,2036,Harriet,5,St. Thomas's Manor
+1185,Hillen,Child Of,1838,Joseph,5,St. Thomas's Manor
+1186,Henry Johnson,Child Of,1455,Dolly,5,St. Thomas's Manor
+1187,Lewis,Child Of,1839,John,5,St. Thomas's Manor
+1187,Lewis,Child Of,1742,Anna,5,St. Thomas's Manor
+1188,Judith,Child Of,1740,Catherine (Kitty),5,St. Thomas's Manor
+1188,Judith,Child Of,1741,George,5,St. Thomas's Manor
+1189,Gabriel Isaac Queen,Child Of,2035,Anny Queen,5,St. Thomas's Manor
+1189,Gabriel Isaac Queen,Child Of,1462,Len Queen,5,St. Thomas's Manor
+1190,Matilda Ann,Child Of,1649,Clement,5,St. Thomas's Manor
+1190,Matilda Ann,Child Of,1458,Matilda,5,St. Thomas's Manor
+1191,Robert,Child Of,1840,Celia,5,St. Thomas's Manor
+1191,Robert,Child Of,1745,Stephen,5,St. Thomas's Manor
+1192,Maria,Child Of,1746,Alan,5,St. Thomas's Manor
+1193,Henrietta,Child Of,1837,Winafred,5,St. Thomas's Manor
+1193,Henrietta,Child Of,1738,Benedict,5,St. Thomas's Manor
+1854,Child,Child Of,1853,Woman,5,St. Thomas's Manor
+1896,Henny,Child Of,1897,Jane,5,St. Thomas's Manor
+2720,Boy,Child Of,1454,Cristina (Christina),5,St. Thomas's Manor
+2721,Boy,Child Of,1454,Cristina (Christina),5,St. Thomas's Manor
+2722,Charles Queen,Child Of,2035,Anny Queen,5,St. Thomas's Manor
+2723,Oswald ,Child Of,1740,Catherine (Kitty),5,St. Thomas's Manor
+2724,Sam Queen,Child Of,2035,Anny Queen,5,St. Thomas's Manor
+2729,Girl,Child Of,1458,Matilda,5,St. Thomas's Manor
+2729,Girl,Child Of,1649,Clement,5,St. Thomas's Manor
+2730,Girl,Child Of,1458,Matilda,5,St. Thomas's Manor
+2731,Girl,Child Of,1460,Margaret,5,St. Thomas's Manor
+2733,Girl,Child Of,1454,Cristina (Christina),5,St. Thomas's Manor
+2734,Girl,Child Of,2743,Jinny,5,St. Thomas's Manor
+2738,Ellen Hill,Child Of,2719,Betsy Hill,5,St. Thomas's Manor
+2739,Martha Hill,Child Of,2719,Betsy Hill,5,St. Thomas's Manor
+2740,Nance Queen,Child Of,2035,Anny Queen,5,St. Thomas's Manor
+2827,Eliza Queen,Child Of,2035,Anny Queen,5,St. Thomas's Manor
+3594,Sophia,Child Of,3593,Nancy,5,St. Thomas's Manor
+1132,Nelly Hawkins Adamy,Child Of,1655,"Isaac Hawkins, I",6,White Marsh
+1206,Anna Hawkins,Child Of,1750,Cecilia,6,White Marsh
+1206,Anna Hawkins,Child Of,1749,Charles Hawkins,6,White Marsh
+1207,Lucia,Child Of,1752,Sarah,6,White Marsh
+1207,Lucia,Child Of,1751,James  ,6,White Marsh
+1208,Nantine,Child Of,1753,Ella,6,White Marsh
+1209,James  ,Child Of,1754,Jame  ,6,White Marsh
+1209,James  ,Child Of,2099,Anna,6,White Marsh
+1210,Monica,Child Of,1755,Aaron,6,White Marsh
+1210,Monica,Child Of,2100,Charity,6,White Marsh
+1211,Crise Anna Queen,Child Of,1757,Marietta,6,White Marsh
+1211,Crise Anna Queen,Child Of,1756,Jacobi,6,White Marsh
+1212,Simon,Child Of,1759,Rachel,6,White Marsh
+1212,Simon,Child Of,1758,Ned,6,White Marsh
+1213,Anna,Child Of,1761,Anna,6,White Marsh
+1213,Anna,Child Of,1760,Prouse (Protus),6,White Marsh
+1214,Joseph,Child Of,1763,Billy,6,White Marsh
+1214,Joseph,Child Of,1762,Peggy,6,White Marsh
+1215,John,Child Of,1765,Milly,6,White Marsh
+1215,John,Child Of,1764,Vechel,6,White Marsh
+1216,Sophia,Child Of,1765,Milly,6,White Marsh
+1216,Sophia,Child Of,1764,Vechel,6,White Marsh
+1217,Gabriel,Child Of,1760,Prouse (Protus),6,White Marsh
+1217,Gabriel,Child Of,1761,Anna,6,White Marsh
+1218,Marincelus Anderson,Child Of,1759,Rachel,6,White Marsh
+1218,Marincelus Anderson,Child Of,1758,Ned,6,White Marsh
+1219,Cornelius (Hawkins),Child Of,1132,Nelly Hawkins Adamy,6,White Marsh
+1220,Louisa Parker,Child Of,1767,Henry,6,White Marsh
+1220,Louisa Parker,Child Of,2103,Mary Parker,6,White Marsh
+1221,John Adison,Child Of,1769,Allen,6,White Marsh
+1221,John Adison,Child Of,1768,Sally,6,White Marsh
+1222,Harrison Thorn,Child Of,1771,Sally,6,White Marsh
+1222,Harrison Thorn,Child Of,1770,Jacks,6,White Marsh
+1223,Maria Maglida Blacklog,Child Of,1772,Letty Blacklog,6,White Marsh
+1224,Francis Hawkins,Child Of,1775,Kitty Hawkins,6,White Marsh
+1224,Francis Hawkins,Child Of,1774,Patrick Hawkins,6,White Marsh
+1225,Mary,Child Of,1759,Rachel,6,White Marsh
+1225,Mary,Child Of,1758,Ned,6,White Marsh
+1226,Richard Ignatius,Child Of,1759,Rachel,6,White Marsh
+1226,Richard Ignatius,Child Of,1758,Ned,6,White Marsh
+1227,William,Child Of,1778,James,6,White Marsh
+1227,William,Child Of,2104,Mary,6,White Marsh
+1228,Susan Hawkins,Child Of,1775,Kitty Hawkins,6,White Marsh
+1228,Susan Hawkins,Child Of,1774,Patrick Hawkins,6,White Marsh
+1229,Cecilia (Hawkins) Adamy,Child Of,1132,Nelly Hawkins Adamy,6,White Marsh
+1229,Cecilia (Hawkins) Adamy,Child Of,1845,Peter Adamy,6,White Marsh
+1230,Christopher,Child Of,1781,Waters,6,White Marsh
+1230,Christopher,Child Of,2062,Amelia,6,White Marsh
+1231,Martha A. Queen,Child Of,1782,Harriett Queen,6,White Marsh
+1231,Martha A. Queen,Child Of,2106,James Queen,6,White Marsh
+1232,Edward Harrison,Child Of,1841,Emmy West,6,White Marsh
+1232,Edward Harrison,Child Of,1783,William Harrison,6,White Marsh
+1233,John Francis Queen,Child Of,1842,Patsy Mahony,6,White Marsh
+1233,John Francis Queen,Child Of,1784,Regis Queen,6,White Marsh
+1234,John Henry,Child Of,1843,John Thomas,6,White Marsh
+1234,John Henry,Child Of,1785,Elizabeth,6,White Marsh
+1235,Moses,Child Of,1844,Willis,6,White Marsh
+1235,Moses,Child Of,1786,Maria Herbert,6,White Marsh
+1236,Thomas,Child Of,1787,Sealy,6,White Marsh
+1237,Ruth Helena (Hawkins) Adamy,Child Of,1845,Peter Adamy,6,White Marsh
+1237,Ruth Helena (Hawkins) Adamy,Child Of,1132,Nelly Hawkins Adamy,6,White Marsh
+1238,Nancy Ann Williams,Child Of,1789,Minty Queen Williams,6,White Marsh
+1238,Nancy Ann Williams,Child Of,1788,Henry Williams,6,White Marsh
+1239,Austin Hawkins,Child Of,1657,"Isaac Hawkins, II",6,White Marsh
+1239,Austin Hawkins,Child Of,2067,Catherine (Kitty) Harrison Hawkins,6,White Marsh
+1240,Martha Queen,Child Of,1790,Sally Queen,6,White Marsh
+1240,Martha Queen,Child Of,2756,Charles Queen,6,White Marsh
+1241,Mary Hawkins,Child Of,1791,Amia Hawkins,6,White Marsh
+1242,Eliza Hawkins,Child Of,1793,Archable Hawkins,6,White Marsh
+1242,Eliza Hawkins,Child Of,1792,Polly Hawkins,6,White Marsh
+1243,Richard,Child Of,1794,Richard,6,White Marsh
+1244,John Henry,Child Of,1795,Betsy,6,White Marsh
+1245,Edward Queen,Child Of,1796,James Queen,6,White Marsh
+1245,Edward Queen,Child Of,2108,Nancy Queen,6,White Marsh
+1246,Noble Moses,Child Of,1846,Moses Taylor,6,White Marsh
+1246,Noble Moses,Child Of,1797,Laisa Dorsey,6,White Marsh
+1489,Kate,Child Of,3696,Nanny,6,White Marsh
+1497,Lucy,Child Of,1496,Frank,6,White Marsh
+1498,David,Child Of,1496,Frank,6,White Marsh
+1499,Nancy,Child Of,1496,Frank,6,White Marsh
+1500,Paul,Child Of,1496,Frank,6,White Marsh
+1501,Henrietta,Child Of,1496,Frank,6,White Marsh
+1525,Monica,Child Of,1524,Charity,6,White Marsh
+1526,Ambrose,Child Of,1524,Charity,6,White Marsh
+1527,Ned,Child Of,1524,Charity,6,White Marsh
+1528,William,Child Of,1524,Charity,6,White Marsh
+1529,Nancy,Child Of,1524,Charity,6,White Marsh
+1530,Basil,Child Of,1524,Charity,6,White Marsh
+1533,Jack,Child Of,1532,Nelly,6,White Marsh
+1534,Charles,Child Of,1532,Nelly,6,White Marsh
+1535,James  ,Child Of,1532,Nelly,6,White Marsh
+1536,Patric,Child Of,1532,Nelly,6,White Marsh
+1537,Anastasia,Child Of,1532,Nelly,6,White Marsh
+1539,Harry,Child Of,1538,Henny,6,White Marsh
+1540,Mary,Child Of,1538,Henny,6,White Marsh
+1541,Lucy,Child Of,1538,Henny,6,White Marsh
+1542,Mary,Child Of,1543,Susan ,6,White Marsh
+1544,Ned,Child Of,1511,Phyllis,6,White Marsh
+1545,Fanny,Child Of,1546,Cate,6,White Marsh
+1552,Isaac,Child Of,1551,Isaac,6,White Marsh
+1554,Robert,Child Of,1553,Robert,6,White Marsh
+1555,Tom,Child Of,1553,Robert,6,White Marsh
+1556,Susanna,Child Of,1511,Phyllis,6,White Marsh
+1557,Betty,Child Of,1511,Phyllis,6,White Marsh
+1558,Gervais,Child Of,1511,Phyllis,6,White Marsh
+1559,Johnny ,Child Of,1511,Phyllis,6,White Marsh
+1560,Ralph,Child Of,1502,Nanny Cooper,6,White Marsh
+1561,Shanny,Child Of,1502,Nanny Cooper,6,White Marsh
+1562,Thomas,Child Of,1502,Nanny Cooper,6,White Marsh
+1564,Priscilla,Child Of,1502,Nanny Cooper,6,White Marsh
+1565,Andrew,Child Of,1547,John,6,White Marsh
+1565,Andrew,Child Of,1548,Nell,6,White Marsh
+1566,Sall,Child Of,1547,John,6,White Marsh
+1566,Sall,Child Of,1548,Nell,6,White Marsh
+1567,Johnny,Child Of,1547,John,6,White Marsh
+1567,Johnny,Child Of,1548,Nell,6,White Marsh
+1568,Billy,Child Of,1547,John,6,White Marsh
+1568,Billy,Child Of,1548,Nell,6,White Marsh
+1569,Regis,Child Of,1547,John,6,White Marsh
+1569,Regis,Child Of,1548,Nell,6,White Marsh
+1570,Nell,Child Of,1547,John,6,White Marsh
+1570,Nell,Child Of,1548,Nell,6,White Marsh
+1571,Nell,Child Of,1566,Sall,6,White Marsh
+1572,Doll ,Child Of,1566,Sall,6,White Marsh
+1573,Ruth,Child Of,1566,Sall,6,White Marsh
+1574,Davi ,Child Of,1566,Sall,6,White Marsh
+1575,Peter,Child Of,1566,Sall,6,White Marsh
+1657,"Isaac Hawkins, II",Child Of,1655,"Isaac Hawkins, I",6,White Marsh
+1749,Charles Hawkins,Child Of,1655,"Isaac Hawkins, I",6,White Marsh
+1758,Ned,Child Of,1678,Sally,6,White Marsh
+1763,Billy,Child Of,1678,Sally,6,White Marsh
+1770,Jacks,Child Of,1682,Nelly,6,White Marsh
+1772,Letty Blacklog,Child Of,1773,Nelly Blacklog,6,White Marsh
+1774,Patrick Hawkins,Child Of,1655,"Isaac Hawkins, I",6,White Marsh
+2053,Nelly,Child Of,1678,Sally,6,White Marsh
+2054,Nancy,Child Of,1681,Polly,6,White Marsh
+2750,Adoph,Child Of,2753,Betsy,6,White Marsh
+2751,Anderson,Child Of,1758,Ned,6,White Marsh
+2751,Anderson,Child Of,1759,Rachel,6,White Marsh
+2757,David Queen,Child Of,2756,Charles Queen,6,White Marsh
+2757,David Queen,Child Of,1790,Sally Queen,6,White Marsh
+2759,Edward,Child Of,2761,Eliza,6,White Marsh
+2760,Elias Hawkins,Child Of,1657,"Isaac Hawkins, II",6,White Marsh
+2760,Elias Hawkins,Child Of,2067,Catherine (Kitty) Harrison Hawkins,6,White Marsh
+2762,Eliza Queen,Child Of,2756,Charles Queen,6,White Marsh
+2762,Eliza Queen,Child Of,1790,Sally Queen,6,White Marsh
+2763,Elizabeth,Child Of,2822,Kitty,6,White Marsh
+2764,Elizabeth Queen,Child Of,1782,Harriett Queen,6,White Marsh
+2765,Elizabeth Hawkins,Child Of,1774,Patrick Hawkins,6,White Marsh
+2765,Elizabeth Hawkins,Child Of,2821,Letty Hawkins,6,White Marsh
+2766,Gabriel Hawkins,Child Of,1774,Patrick Hawkins,6,White Marsh
+2766,Gabriel Hawkins,Child Of,2821,Letty Hawkins,6,White Marsh
+2767,George Hawkins,Child Of,2777,James Hawkins,6,White Marsh
+2767,George Hawkins,Child Of,2758,Delia Hawkins,6,White Marsh
+2768,Hariet Ann,Child Of,2753,Betsy,6,White Marsh
+2770,Henny (Hawkins),Child Of,1132,Nelly Hawkins Adamy,6,White Marsh
+2771,Henrietta,Child Of,2753,Betsy,6,White Marsh
+2772,Henry,Child Of,2804,Sally,6,White Marsh
+2773,Iasais (Isaiah) Queen,Child Of,1782,Harriett Queen,6,White Marsh
+2774,"Isaac Hawkins, III",Child Of,1657,"Isaac Hawkins, II",6,White Marsh
+2774,"Isaac Hawkins, III",Child Of,2067,Catherine (Kitty) Harrison Hawkins,6,White Marsh
+2775,Jackson Hawkins,Child Of,1774,Patrick Hawkins,6,White Marsh
+2775,Jackson Hawkins,Child Of,2821,Letty Hawkins,6,White Marsh
+2777,James Hawkins,Child Of,1655,"Isaac Hawkins, I",6,White Marsh
+2778,Jemmy Queen,Child Of,1782,Harriett Queen,6,White Marsh
+2780,John Harrison,Child Of,2797,Nelly Harrison,6,White Marsh
+2781,Joseph,Child Of,2795,Nelly,6,White Marsh
+2782,Len,Child Of,2784,Margery,6,White Marsh
+2783,Margaret Queen,Child Of,2756,Charles Queen,6,White Marsh
+2783,Margaret Queen,Child Of,1790,Sally Queen,6,White Marsh
+2786,Maria,Child Of,2785,Maria,6,White Marsh
+2787,Mary Williams,Child Of,1789,Minty Queen Williams,6,White Marsh
+2787,Mary Williams,Child Of,1788,Henry Williams,6,White Marsh
+2788,Mary Anne Digges,Child Of,2804,Sally,6,White Marsh
+2789,Mary Ellen Queen,Child Of,1782,Harriett Queen,6,White Marsh
+2791,Nancy Queen,Child Of,1782,Harriett Queen,6,White Marsh
+2792,Nancy Queen,Child Of,2756,Charles Queen,6,White Marsh
+2792,Nancy Queen,Child Of,1790,Sally Queen,6,White Marsh
+2794,"Ned, II",Child Of,1758,Ned,6,White Marsh
+2794,"Ned, II",Child Of,1759,Rachel,6,White Marsh
+2796,Nelly,Child Of,2795,Nelly,6,White Marsh
+2798,Patrick ,Child Of,2779,John ,6,White Marsh
+2798,Patrick ,Child Of,2790,Nancy,6,White Marsh
+2799,Peter Hawkins,Child Of,1774,Patrick Hawkins,6,White Marsh
+2799,Peter Hawkins,Child Of,2821,Letty Hawkins,6,White Marsh
+2801,Revidy,Child Of,2761,Eliza,6,White Marsh
+2802,Robert,Child Of,2804,Sally,6,White Marsh
+2806,Sam,Child Of,2822,Kitty,6,White Marsh
+2807,Sarah Anne Queen,Child Of,2756,Charles Queen,6,White Marsh
+2807,Sarah Anne Queen,Child Of,1790,Sally Queen,6,White Marsh
+2808,Susan Hawkins,Child Of,2777,James Hawkins,6,White Marsh
+2808,Susan Hawkins,Child Of,2758,Delia Hawkins,6,White Marsh
+2810,William,Child Of,2804,Sally,6,White Marsh
+2811,William,Child Of,2761,Eliza,6,White Marsh
+2812,William,Child Of,2785,Maria,6,White Marsh
+2818,Austin,Child Of,2753,Betsy,6,White Marsh
+2819,Harriet Anne Queen,Child Of,2756,Charles Queen,6,White Marsh
+2819,Harriet Anne Queen,Child Of,1790,Sally Queen,6,White Marsh
+2822,Kitty,Child Of,2795,Nelly,6,White Marsh
+2823,Mary,Child Of,2822,Kitty,6,White Marsh
+2824,Noble,Child Of,2761,Eliza,6,White Marsh
+1608,Molly Proctor,Child Of,1607,Nancy Proctor,7,Georgetown College
+1136,Charity,Child Of,1715,Ceasar,1024,Port Tobacco
+1136,Charity,Child Of,1716,Dina,1024,Port Tobacco
+1137,Ignatius,Child Of,1717,Dick ,1024,Port Tobacco
+1137,Ignatius,Child Of,1718,Mary,1024,Port Tobacco
+1138,Winnifred,Child Of,1715,Ceasar,1024,Port Tobacco
+1138,Winnifred,Child Of,1716,Dina,1024,Port Tobacco
+1139,Michael ,Child Of,1718,Mary,1024,Port Tobacco
+1140,John,Child Of,1719,Jenny,1024,Port Tobacco
+1140,John,Child Of,1720,Jos' ,1024,Port Tobacco
+1141,Sarah,Child Of,1724,Sue,1024,Port Tobacco
+1141,Sarah,Child Of,1725,Robin,1024,Port Tobacco
+1142,Robert,Child Of,1721,Jenny,1024,Port Tobacco
+1142,Robert,Child Of,1717,Dick ,1024,Port Tobacco
+1143,Dicky,Child Of,1736,Joseph,1024,Port Tobacco
+1143,Dicky,Child Of,1735,Mary,1024,Port Tobacco
+1144,Bob,Child Of,1721,Jenny,1024,Port Tobacco
+1144,Bob,Child Of,1717,Dick ,1024,Port Tobacco
+1145,Dina,Child Of,1716,Dina,1024,Port Tobacco
+1145,Dina,Child Of,1715,Ceasar,1024,Port Tobacco
+1146,Peter,Child Of,1720,Jos' ,1024,Port Tobacco
+1146,Peter,Child Of,1719,Jenny,1024,Port Tobacco
+1147,Sarah,Child Of,1720,Jos' ,1024,Port Tobacco
+1147,Sarah,Child Of,1719,Jenny,1024,Port Tobacco
+1148,Margaret,Child Of,1725,Robin,1024,Port Tobacco
+1148,Margaret,Child Of,1724,Sue,1024,Port Tobacco
+1149,Eleanor,Child Of,1723,Billy,1024,Port Tobacco
+1149,Eleanor,Child Of,1722,Henny,1024,Port Tobacco
+1150,Eleanor,Child Of,1723,Billy,1024,Port Tobacco
+1150,Eleanor,Child Of,1722,Henny,1024,Port Tobacco
+1151,George,Child Of,1721,Jenny,1024,Port Tobacco
+1151,George,Child Of,1717,Dick ,1024,Port Tobacco
+1152,Mary,Child Of,1715,Ceasar,1024,Port Tobacco
+1152,Mary,Child Of,1716,Dina,1024,Port Tobacco
+1153,Statia,Child Of,1715,Ceasar,1024,Port Tobacco
+1153,Statia,Child Of,1716,Dina,1024,Port Tobacco
+1154,Benjamin,Child Of,1721,Jenny,1024,Port Tobacco
+1154,Benjamin,Child Of,1717,Dick ,1024,Port Tobacco
+1155,Catherine,Child Of,1720,Jos' ,1024,Port Tobacco
+1155,Catherine,Child Of,1719,Jenny,1024,Port Tobacco
+1156,Nell,Child Of,1723,Billy,1024,Port Tobacco
+1156,Nell,Child Of,1722,Henny,1024,Port Tobacco
+1157,Elizabeth,Child Of,1723,Billy,1024,Port Tobacco
+1157,Elizabeth,Child Of,1722,Henny,1024,Port Tobacco
+1158,Margaret,Child Of,1721,Jenny,1024,Port Tobacco
+1158,Margaret,Child Of,1717,Dick ,1024,Port Tobacco
+1159,Harry,Child Of,1720,Jos' ,1024,Port Tobacco
+1159,Harry,Child Of,1719,Jenny,1024,Port Tobacco
+1160,Lucy,Child Of,1715,Ceasar,1024,Port Tobacco
+1160,Lucy,Child Of,1716,Dina,1024,Port Tobacco
+1161,Jeremiah,Child Of,1720,Jos' ,1024,Port Tobacco
+1161,Jeremiah,Child Of,1719,Jenny,1024,Port Tobacco
+1162,Monica,Child Of,1723,Billy,1024,Port Tobacco
+1162,Monica,Child Of,1722,Henny,1024,Port Tobacco
+1163,John,Child Of,1733,Harry,1024,Port Tobacco
+1163,John,Child Of,1728,Pegg,1024,Port Tobacco
+1165,Billy,Child Of,1723,Billy,1024,Port Tobacco
+1165,Billy,Child Of,1722,Henny,1024,Port Tobacco
+1166,Henry,Child Of,1734,James Locus,1024,Port Tobacco
+1166,Henry,Child Of,1716,Dina,1024,Port Tobacco
+1167,Ignatius,Child Of,1723,Billy,1024,Port Tobacco
+1167,Ignatius,Child Of,1722,Henny,1024,Port Tobacco
+1168,Edward,Child Of,1734,James Locus,1024,Port Tobacco
+1168,Edward,Child Of,1716,Dina,1024,Port Tobacco
+1169,Theresa,Child Of,1727,Sam,1024,Port Tobacco
+1169,Theresa,Child Of,1726,Kate,1024,Port Tobacco
+1170,Charles,Child Of,1723,Billy,1024,Port Tobacco
+1170,Charles,Child Of,1722,Henny,1024,Port Tobacco
+1171,Joseph,Child Of,1723,Billy,1024,Port Tobacco
+1171,Joseph,Child Of,1722,Henny,1024,Port Tobacco
+1172,Mary Ann,Child Of,1727,Sam,1024,Port Tobacco
+1172,Mary Ann,Child Of,1726,Kate,1024,Port Tobacco
+1173,Jane,Child Of,1722,Henny,1024,Port Tobacco
+1174,Jacob,Child Of,1728,Pegg,1024,Port Tobacco
+1175,Thomas,Child Of,1729,Nell,1024,Port Tobacco
+1175,Thomas,Child Of,1730,Mahoney,1024,Port Tobacco
+1176,Leonard,Child Of,1156,Nell,1024,Port Tobacco
+1177,Isaac,Child Of,1727,Sam,1024,Port Tobacco
+1177,Isaac,Child Of,1726,Kate,1024,Port Tobacco
+1178,Charity,Child Of,1731,Nan,1024,Port Tobacco
+1178,Charity,Child Of,1144,Bob,1024,Port Tobacco
+1179,Daniel,Child Of,1729,Nell,1024,Port Tobacco
+1179,Daniel,Child Of,1730,Mahoney,1024,Port Tobacco
+1180,Alexius,Child Of,1723,Billy,1024,Port Tobacco
+1180,Alexius,Child Of,1722,Henny,1024,Port Tobacco
+1503,Mina,Child Of,1502,Nanny Cooper,1119,Fingale
+1504,Simon,Child Of,1502,Nanny Cooper,1119,Fingale
+1505,Henny,Child Of,1502,Nanny Cooper,1119,Fingale
+1507,Doll ,Child Of,1506,Sarah,1119,Fingale
+1508,Dick ,Child Of,1506,Sarah,1119,Fingale
+1509,Peter,Child Of,1506,Sarah,1119,Fingale
+1510,James  ,Child Of,1506,Sarah,1119,Fingale
+1512,Mary,Child Of,1511,Phyllis,1119,Fingale
+1513,Peggy,Child Of,1511,Phyllis,1119,Fingale
+1514,Sall,Child Of,1511,Phyllis,1119,Fingale
+1515,Winifred,Child Of,1511,Phyllis,1119,Fingale
+1516,Mary,Child Of,1502,Nanny Cooper,1119,Fingale
+1517,Nancy,Child Of,1516,Mary,1119,Fingale
+1518,Cate,Child Of,1516,Mary,1119,Fingale
+1519,Rachel,Child Of,1516,Mary,1119,Fingale
+1520,Priscilla,Child Of,1516,Mary,1119,Fingale
+2019,Mary’s children,Child Of,2017,Mary,1120,Abroad
+2019,Mary’s children,Child Of,2018,Joe,1120,Abroad
+2022,Nell,Child Of,2021,Sylvia,1120,Abroad
+2022,Nell,Child Of,2020,Ralph,1120,Abroad
+2023,Bob,Child Of,2021,Sylvia,1120,Abroad
+2023,Bob,Child Of,2020,Ralph,1120,Abroad
+2024,Joe,Child Of,2021,Sylvia,1120,Abroad
+2024,Joe,Child Of,2020,Ralph,1120,Abroad
+2025,Eliza,Child Of,2021,Sylvia,1120,Abroad
+2025,Eliza,Child Of,2020,Ralph,1120,Abroad
+2026,Henry,Child Of,2022,Nell,1120,Abroad
+2111,Sarah,Child Of,,,1120,Abroad
+1135,Sarah's Children,Child Of,1871,Sarah ,,
+1343,Ann Tebesca,Child Of,1834,Deb,,
+1343,Ann Tebesca,Child Of,1835,Solomon,,
+2029,Grace’s children,Child Of,2027,Baptist,,
+2029,Grace’s children,Child Of,2028,Grace,,
+2031,Davis,Child Of,2030,Moll,,
+2032,James,Child Of,2030,Moll,,

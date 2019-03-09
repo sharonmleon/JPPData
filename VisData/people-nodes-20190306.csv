@@ -1,0 +1,1202 @@
+@id,o:id,dcterms:title/0/@value,dcterms:identifier/0/@value,schema:foundingDate/0/@value,schema:homeLocation/0/value_resource_id,schema:homeLocation/0/display_title
+http://jesuitplantationproject.org/api/items/1128,1128,Betsy,3008,1830-06-30,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1129,1129,Person,4088,1813-09-14,6,White Marsh
+http://jesuitplantationproject.org/api/items/1130,1130,Person,4089,1813-09-14,6,White Marsh
+http://jesuitplantationproject.org/api/items/1131,1131,Women,4090,1813-09-14,6,White Marsh
+http://jesuitplantationproject.org/api/items/1132,1132,Nelly Hawkins Adamy,4091,1824-09-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/1133,1133,Boy,4092,1824-09-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/1134,1134,Girl,4093,1824-09-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/1135,1135,Sarah's Children,7002,1809-06-26,,
+http://jesuitplantationproject.org/api/items/1136,1136,Charity,1001,1749,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1137,1137,Ignatius,1002,1749,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1138,1138,Winnifred,1003,1749,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1139,1139,Michael ,1004,1749,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1140,1140,John,1005,1755-02-22,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1141,1141,Sarah,1006,1755-02-17,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1142,1142,Robert,1007,1755-06-15,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1143,1143,Dicky,1008,1755-10,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1144,1144,Bob,1009,1756-02,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1145,1145,Dina,1010,1759-10-29,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1146,1146,Peter,1011,1759-05,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1147,1147,Sarah,1012,1759-05,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1148,1148,Margaret,1013,1758-02,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1149,1149,Eleanor,1014,1759-12-20,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1150,1150,Eleanor,1015,1754,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1151,1151,George,1016,1755,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1152,1152,Mary,1017,1756-11-29,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1153,1153,Statia,1018,1763-03-11,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1154,1154,Benjamin,1019,1761-04-19,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1155,1155,Catherine,1020,1761-04-05,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1156,1156,Nell,1021,1759-12-27,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1157,1157,Elizabeth,1023,1762-09-10,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1158,1158,Margaret,1024,1762-11-02,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1159,1159,Harry,1025,1764-08-06,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1160,1160,Lucy,1026,1765-06-02,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1161,1161,Jeremiah,1027,1765-09-16,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1162,1162,Monica,1028,1765-09-25,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1163,1163,John,1029,1766-10,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1164,1164,Clara ,1030,1767-08-26,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1165,1165,Billy,1031,1767-10-12,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1166,1166,Henry,1032,1768-03-25,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1167,1167,Ignatius,1033,1770-08-07,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1168,1168,Edward,1034,1773-04-05,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1169,1169,Theresa,1035,1773-09-30,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1170,1170,Charles,1036,1773-10-05,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1171,1171,Joseph,1037,1775-01-05,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1172,1172,Mary Ann,1038,1775-05-11,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1173,1173,Jane,1039,1776-12-24,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1174,1174,Jacob,1040,1776-12-27,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1175,1175,Thomas,1041,1777-03-15,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1176,1176,Leonard,1042,1777-05-04,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1177,1177,Isaac,1043,1777-09-25,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1178,1178,Charity,1044,1778-01-22,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1179,1179,Daniel,1045,1778-01-29,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1180,1180,Alexius,1046,1778-04-02,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1181,1181,Eliza,1117,1827-07-06,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1182,1182,Sarah,1120,1828-10-12,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1183,1183,John Francis,1124,1829-05-17,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1184,1184,Sarah Ann Elizabeth,1128,1829-08-07,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1185,1185,Hillen,1130,1829-11-12,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1186,1186,Henry Johnson,1132,1829-11-22,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1187,1187,Lewis,1134,1830-01-24,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1188,1188,Judith,1136,1830-04-02,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1189,1189,Gabriel Isaac Queen,1139,1830-09-05,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1190,1190,Matilda Ann,1141,1831-09-09,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1191,1191,Robert,1142,1832-07-29,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1192,1192,Maria,1145,1828-11-19,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1193,1193,Henrietta,1156,1828-04-09,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1194,1194,Mary,3000,1765-12-27,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1195,1195,Matthew,3028,1771-10-16,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1196,1196,Thom,3030,1773-04-04,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1197,1197,Samuel,3032,1773-09-04,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1198,1198,Frances,3034,1775-02-07,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1199,1199,Margaret,3035,1777-08-24,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1200,1200,Thomas,3036,1778-10-10,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1201,1201,Henrietta,3038,1780-04-09,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1202,1202,John Baptist,3040,1781-09-01,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1203,1203,Gleotilda,3041,1782-10-12,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1204,1204,Jane,3043,1786-03-04,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1205,1205,Jerry,3045,1799-03-16,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1206,1206,Anna Hawkins,4095,1819-11-25,6,White Marsh
+http://jesuitplantationproject.org/api/items/1207,1207,Lucia,4099,1819-12,6,White Marsh
+http://jesuitplantationproject.org/api/items/1208,1208,Nantine,4102,1820-02-08,6,White Marsh
+http://jesuitplantationproject.org/api/items/1209,1209,James  ,4105,1820-07,6,White Marsh
+http://jesuitplantationproject.org/api/items/1210,1210,Monica,4107,1820-06-28,6,White Marsh
+http://jesuitplantationproject.org/api/items/1211,1211,Crise Anna Queen,4109,1821-05-06,6,White Marsh
+http://jesuitplantationproject.org/api/items/1212,1212,Simon,4112,1820-07-18,6,White Marsh
+http://jesuitplantationproject.org/api/items/1213,1213,Anna,4115,1821-07-13,6,White Marsh
+http://jesuitplantationproject.org/api/items/1214,1214,Joseph,4118,1821-08-20,6,White Marsh
+http://jesuitplantationproject.org/api/items/1215,1215,John,4125,1822-07-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/1216,1216,Sophia,4126,1822-07-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/1217,1217,Gabriel,4129,1822-07-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/1218,1218,Marincelus Anderson,4131,1822-08-31,6,White Marsh
+http://jesuitplantationproject.org/api/items/1219,1219,Cornelius (Hawkins),4133,1822-10-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1220,1220,Louisa Parker,4137,1822-11-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1221,1221,John Adison,4140,1822-12-10,6,White Marsh
+http://jesuitplantationproject.org/api/items/1222,1222,Harrison Thorn,4143,1821-09-22,6,White Marsh
+http://jesuitplantationproject.org/api/items/1223,1223,Maria Maglida Blacklog,4150,1823-01-14,6,White Marsh
+http://jesuitplantationproject.org/api/items/1224,1224,Francis Hawkins,4158,1827-05-03,6,White Marsh
+http://jesuitplantationproject.org/api/items/1225,1225,Mary,4161,1827-09-16,6,White Marsh
+http://jesuitplantationproject.org/api/items/1226,1226,Richard Ignatius,4163,1828-04-24,6,White Marsh
+http://jesuitplantationproject.org/api/items/1227,1227,William,4166,1828-05-02,6,White Marsh
+http://jesuitplantationproject.org/api/items/1228,1228,Susan Hawkins,4168,1829-02-08,6,White Marsh
+http://jesuitplantationproject.org/api/items/1229,1229,Cecilia (Hawkins) Adamy,4172,1829-02-08,6,White Marsh
+http://jesuitplantationproject.org/api/items/1230,1230,Christopher,4176,1829-04-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/1231,1231,Martha A. Queen,4179,1829-11-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/1232,1232,Edward Harrison,4181,1831-03-13,6,White Marsh
+http://jesuitplantationproject.org/api/items/1233,1233,John Francis Queen,4184,1831-04-03,6,White Marsh
+http://jesuitplantationproject.org/api/items/1234,1234,John Henry,4186,1831-08-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1235,1235,Moses,4189,1831-08-28,6,White Marsh
+http://jesuitplantationproject.org/api/items/1236,1236,Thomas,4195,1832-01-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1237,1237,Ruth Helena (Hawkins) Adamy,4197,1832-01-15,6,White Marsh
+http://jesuitplantationproject.org/api/items/1238,1238,Nancy Ann Williams,4198,1832-01-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/1239,1239,Austin Hawkins,4202,1832-03-23,6,White Marsh
+http://jesuitplantationproject.org/api/items/1240,1240,Martha Queen,4204,1832-03-23,6,White Marsh
+http://jesuitplantationproject.org/api/items/1241,1241,Mary Hawkins,4207,1832-04-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1242,1242,Eliza Hawkins,4209,1832-04-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1243,1243,Richard,4212,1832-04-23,6,White Marsh
+http://jesuitplantationproject.org/api/items/1244,1244,John Henry,4214,1832-07-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1245,1245,Edward Queen,4216,1832-10-21,6,White Marsh
+http://jesuitplantationproject.org/api/items/1246,1246,Noble Moses,4218,1832-11-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/1247,1247,John Leonard Ferdinand,6178,1819-06-04,2,Newtown
+http://jesuitplantationproject.org/api/items/1248,1248,Henry Rea,6179,1821-09-20,2,Newtown
+http://jesuitplantationproject.org/api/items/1249,1249,Robert James,6180,1830-09-25,2,Newtown
+http://jesuitplantationproject.org/api/items/1250,1250,Jane,6183,1831-04-03,2,Newtown
+http://jesuitplantationproject.org/api/items/1251,1251,Mary Ann,6185,1831-07-31,2,Newtown
+http://jesuitplantationproject.org/api/items/1252,1252,John Henry,6189,1832-02-19,2,Newtown
+http://jesuitplantationproject.org/api/items/1253,1253,Louisa,6191,1832-09,2,Newtown
+http://jesuitplantationproject.org/api/items/1254,1254,James Henry,6193,1832-11-15,2,Newtown
+http://jesuitplantationproject.org/api/items/1255,1255,Elizabeth,6195,1833-02-28,2,Newtown
+http://jesuitplantationproject.org/api/items/1256,1256,Mary,6000,1752-05,2,Newtown
+http://jesuitplantationproject.org/api/items/1257,1257,Monica,6001,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1259,1259,John,6003,1754,2,Newtown
+http://jesuitplantationproject.org/api/items/1260,1260,Jaen,6004,1756,2,Newtown
+http://jesuitplantationproject.org/api/items/1261,1261,Rose,6005,1758,2,Newtown
+http://jesuitplantationproject.org/api/items/1262,1262,Ignatius,6006,1758,2,Newtown
+http://jesuitplantationproject.org/api/items/1263,1263,Abraham,6007,1759,2,Newtown
+http://jesuitplantationproject.org/api/items/1264,1264,Anastasia,6008,1759,2,Newtown
+http://jesuitplantationproject.org/api/items/1265,1265,Moises,6009,1759,2,Newtown
+http://jesuitplantationproject.org/api/items/1266,1266,Benjamin,6010,1760,2,Newtown
+http://jesuitplantationproject.org/api/items/1267,1267,George,6011,1761,2,Newtown
+http://jesuitplantationproject.org/api/items/1268,1268,Veronica,6012,1761,2,Newtown
+http://jesuitplantationproject.org/api/items/1269,1269,Mary Anne,6013,1761,2,Newtown
+http://jesuitplantationproject.org/api/items/1270,1270,Agnes,6014,1762,2,Newtown
+http://jesuitplantationproject.org/api/items/1271,1271,Dreaden,6015,1762,2,Newtown
+http://jesuitplantationproject.org/api/items/1272,1272,Henry,6016,1762,2,Newtown
+http://jesuitplantationproject.org/api/items/1273,1273,Jacob,6017,1763,2,Newtown
+http://jesuitplantationproject.org/api/items/1274,1274,Philip Carter,6018,1764,2,Newtown
+http://jesuitplantationproject.org/api/items/1275,1275,Lucy,6019,1765,2,Newtown
+http://jesuitplantationproject.org/api/items/1276,1276,Susanna,6020,1765,2,Newtown
+http://jesuitplantationproject.org/api/items/1277,1277,Clare ,6021,1765,2,Newtown
+http://jesuitplantationproject.org/api/items/1278,1278,Prudence,6022,1765-07-28,2,Newtown
+http://jesuitplantationproject.org/api/items/1279,1279,Henrietta,6023,1765-09-15,2,Newtown
+http://jesuitplantationproject.org/api/items/1280,1280,Cecilia,6024,1765,2,Newtown
+http://jesuitplantationproject.org/api/items/1281,1281,Chedrick,6025,1766-06-14,2,Newtown
+http://jesuitplantationproject.org/api/items/1282,1282,Francis,6026,1766-12-04,2,Newtown
+http://jesuitplantationproject.org/api/items/1283,1283,Isaac,6027,1767-05-08,2,Newtown
+http://jesuitplantationproject.org/api/items/1284,1284,William,6028,1768,2,Newtown
+http://jesuitplantationproject.org/api/items/1285,1285,Peg ,6029,1769,2,Newtown
+http://jesuitplantationproject.org/api/items/1286,1286,Bernard,6030,1769,2,Newtown
+http://jesuitplantationproject.org/api/items/1287,1287,Henny,6068,1806-04-05,2,Newtown
+http://jesuitplantationproject.org/api/items/1288,1288,John,6070,1807-11-07,2,Newtown
+http://jesuitplantationproject.org/api/items/1289,1289,Bill Hill,6073,1809-08-16,2,Newtown
+http://jesuitplantationproject.org/api/items/1290,1290,Abram,6075,1811-11-02,2,Newtown
+http://jesuitplantationproject.org/api/items/1291,1291,Susan Plowden,6076,1812-02-23,2,Newtown
+http://jesuitplantationproject.org/api/items/1292,1292,Jarret,6079,1814-07-01,2,Newtown
+http://jesuitplantationproject.org/api/items/1293,1293,Charlotte,6080,1815-09,2,Newtown
+http://jesuitplantationproject.org/api/items/1294,1294,Mary,6081,1815-12-25,2,Newtown
+http://jesuitplantationproject.org/api/items/1295,1295,Julian,6082,1816-10-06,2,Newtown
+http://jesuitplantationproject.org/api/items/1296,1296,Dick,6083,1811-02-24,2,Newtown
+http://jesuitplantationproject.org/api/items/1297,1297,Grinfield Greenleaf,6084,1813,2,Newtown
+http://jesuitplantationproject.org/api/items/1298,1298,Rosanne,6087,1814-06-09,2,Newtown
+http://jesuitplantationproject.org/api/items/1299,1299,James  ,6088,1817,2,Newtown
+http://jesuitplantationproject.org/api/items/1300,1300,Ferdinand Hill,6091,1819-05-03,2,Newtown
+http://jesuitplantationproject.org/api/items/1301,1301,Sylvester Greenleaf,6092,1819-02-12,2,Newtown
+http://jesuitplantationproject.org/api/items/1302,1302,Cristina,6093,1820-10-30,2,Newtown
+http://jesuitplantationproject.org/api/items/1303,1303,Harriet,6094,1821-08-12,2,Newtown
+http://jesuitplantationproject.org/api/items/1304,1304,Emeline Greenleaf,6095,1822-04-05,2,Newtown
+http://jesuitplantationproject.org/api/items/1305,1305,Henry,6096,1823,2,Newtown
+http://jesuitplantationproject.org/api/items/1306,1306,Eleanor,6097,1823,2,Newtown
+http://jesuitplantationproject.org/api/items/1307,1307,Mary Greenleaf,6098,1826,2,Newtown
+http://jesuitplantationproject.org/api/items/1308,1308,Lucrese,6099,1824-02-22,2,Newtown
+http://jesuitplantationproject.org/api/items/1309,1309,Ritta,6100,1825-04-10,2,Newtown
+http://jesuitplantationproject.org/api/items/1310,1310,Remus,6101,1821-09-19,2,Newtown
+http://jesuitplantationproject.org/api/items/1311,1311,Miley Greenleaf,6102,1825,2,Newtown
+http://jesuitplantationproject.org/api/items/1312,1312,Lucy Ann,6103,1827,2,Newtown
+http://jesuitplantationproject.org/api/items/1313,1313,Ann ,6104,1827,2,Newtown
+http://jesuitplantationproject.org/api/items/1314,1314,Joe,6105,1828-10-17,2,Newtown
+http://jesuitplantationproject.org/api/items/1315,1315,Mary Jane,6106,1830-10-09,2,Newtown
+http://jesuitplantationproject.org/api/items/1316,1316,Mary,6107,1831-03-03,2,Newtown
+http://jesuitplantationproject.org/api/items/1317,1317,Alexius,6108,1825,2,Newtown
+http://jesuitplantationproject.org/api/items/1318,1318,Priscilla Plowden,6109,1831-11-03,2,Newtown
+http://jesuitplantationproject.org/api/items/1319,1319,Nicholas,6110,1831-12-12,2,Newtown
+http://jesuitplantationproject.org/api/items/1320,1320,Gabe,6121,1783,2,Newtown
+http://jesuitplantationproject.org/api/items/1321,1321,Anna,6124,1783,2,Newtown
+http://jesuitplantationproject.org/api/items/1322,1322,Charles,6127,1784,2,Newtown
+http://jesuitplantationproject.org/api/items/1323,1323,Judith,6130,1784,2,Newtown
+http://jesuitplantationproject.org/api/items/1324,1324,William,6131,1786,2,Newtown
+http://jesuitplantationproject.org/api/items/1325,1325,Raphael,6132,1786-07-09,2,Newtown
+http://jesuitplantationproject.org/api/items/1326,1326,Peter,6133,1787-09-06,2,Newtown
+http://jesuitplantationproject.org/api/items/1327,1327,Jacob,6134,1787-06,2,Newtown
+http://jesuitplantationproject.org/api/items/1328,1328,Stephen,6135,1789-03-10,2,Newtown
+http://jesuitplantationproject.org/api/items/1329,1329,Francis,6136,1789-08-10,2,Newtown
+http://jesuitplantationproject.org/api/items/1331,1331,Mary,6142,1791,2,Newtown
+http://jesuitplantationproject.org/api/items/1332,1332,Sarah,6143,1791,2,Newtown
+http://jesuitplantationproject.org/api/items/1333,1333,Elizabeth,6144,1792,2,Newtown
+http://jesuitplantationproject.org/api/items/1335,1335,William,6147,1793-08-14,2,Newtown
+http://jesuitplantationproject.org/api/items/1336,1336,James,6150,1794-01-27,2,Newtown
+http://jesuitplantationproject.org/api/items/1337,1337,Lucy,6152,1795-11-04,2,Newtown
+http://jesuitplantationproject.org/api/items/1338,1338,Catharine,6153,1796-01,2,Newtown
+http://jesuitplantationproject.org/api/items/1339,1339,Nicholas,6154,1796-04-16,2,Newtown
+http://jesuitplantationproject.org/api/items/1340,1340,Ann,6155,1796-04-16,2,Newtown
+http://jesuitplantationproject.org/api/items/1342,1342,Clare,6158,1796-12-22,2,Newtown
+http://jesuitplantationproject.org/api/items/1343,1343,Ann Tebesca,7086,1765,,
+http://jesuitplantationproject.org/api/items/1344,1344,Thomas Brown,7084,1833-10-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1345,1345,Molly Brown,7085,1833-10-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1346,1346,Mary,6069,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1348,1348,Biby (Betsy and Bibiana) Plowden,6077,1789-11-02,2,Newtown
+http://jesuitplantationproject.org/api/items/1349,1349,Esther Greenleaf,6086,1813,2,Newtown
+http://jesuitplantationproject.org/api/items/1350,1350,Betsy,6165,1819-05-03,2,Newtown
+http://jesuitplantationproject.org/api/items/1351,1351,Katy,2253,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1352,1352,Bob,2254,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1353,1353,Little Charly,2256,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1354,1354,Frederick,2257,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1355,1355,Little Harry,2258,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1356,1356,Jack,2259,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1357,1357,Sam,2260,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1358,1358,Watt (Wot) Campbell,2261,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1359,1359,Betty,2262,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1361,1361,Fil,2264,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1362,1362,Suckey,2265,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1363,1363,Biby,2266,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1364,1364,Dick,2267,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1366,1366,Lee,2269,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1367,1367,Kitty Walton,2270,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1368,1368,Betty,2271,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1369,1369,Daniel,2272,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1370,1370,Little Nelly,2273,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1371,1371,Mary,2274,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1372,1372,Gabe,2275,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1373,1373,Harry,2276,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1374,1374,Frederick,2277,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1375,1375,Gran. Ann,2278,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1376,1376,Nelly Aston,2279,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1377,1377,Big Anny,2280,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1378,1378,Sally,2281,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1379,1379,Dolly,2282,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1380,1380,Moses,2283,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1381,1381,Jim,2284,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1382,1382,Nelly,2285,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1383,1383,George,2286,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1384,1384,Peter,2287,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1385,1385,Henry,2288,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1386,1386,Billy,2289,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1387,1387,Jac,2290,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1388,1388,Judy,2291,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1389,1389,Big Nelly,2292,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1390,1390,Enoch,2293,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1391,1391,Tom,2294,1818-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1393,1393,Matthew,1109,1826-11-02,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1394,1394,Billy,2224,1812,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1395,1395,Sucky,2225,1812,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1396,1396,Matthew,2226,1812,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1397,1397,Sucky,2227,1812,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1399,1399,Clare,6138,1790,2,Newtown
+http://jesuitplantationproject.org/api/items/1400,1400,Jenny,6145,,2,Newtown
+http://jesuitplantationproject.org/api/items/1402,1402,Jem,6173,1791,2,Newtown
+http://jesuitplantationproject.org/api/items/1403,1403,Alzire,7094,1826-03-08,1120,Abroad
+http://jesuitplantationproject.org/api/items/1404,1404,Larraine Venus,7004,1818-06-10,,
+http://jesuitplantationproject.org/api/items/1405,1405,Clem,7030,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1406,1406,Harrison,7031,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1407,1407,John,7032,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1408,1408,Michel,7033,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1409,1409,Ned,7034,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1410,1410,Bill,7035,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1411,1411,Isaac,7036,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1412,1412,Tagers [?],7037,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1413,1413,Basil,7038,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1414,1414,Venus,7039,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1415,1415,Nelly,7040,1816-11-11,,
+http://jesuitplantationproject.org/api/items/1416,1416,Sam,7054,1811-11-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1417,1417,Phill,7055,1811-11-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1418,1418,Nace,7056,1811-11-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1419,1419,Bill,7057,1811-11-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1420,1420,Scicily,7058,1811-11-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1421,1421,Lewis,7059,1811-11-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1422,1422,Billy,7060,1811-11-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1423,1423,Jerrard,7071,1802-11-11,1120,Abroad
+http://jesuitplantationproject.org/api/items/1424,1424,Bridget,7072,1802-11-11,1120,Abroad
+http://jesuitplantationproject.org/api/items/1425,1425,Milly,7073,1802-11-11,1120,Abroad
+http://jesuitplantationproject.org/api/items/1426,1426,Jenny,7074,1802-11-11,1120,Abroad
+http://jesuitplantationproject.org/api/items/1427,1427,Nace,7075,1802-11-11,1120,Abroad
+http://jesuitplantationproject.org/api/items/1428,1428,Baptist,7076,1802-11-11,1120,Abroad
+http://jesuitplantationproject.org/api/items/1429,1429,Ned,7067,1774-06-20,1120,Abroad
+http://jesuitplantationproject.org/api/items/1430,1430,Henry,7068,1774-06-20,1120,Abroad
+http://jesuitplantationproject.org/api/items/1431,1431,Nace,7069,1774-06-20,1120,Abroad
+http://jesuitplantationproject.org/api/items/1432,1432,Jane,7070,1774-06-20,1120,Abroad
+http://jesuitplantationproject.org/api/items/1433,1433,Man,6117,1813-02-17,2,Newtown
+http://jesuitplantationproject.org/api/items/1434,1434,Nace,2209,1807-01-10,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1435,1435,Jim,2210,1807-01-10,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1436,1436,Williamson,7205,1826-03-09,1120,Abroad
+http://jesuitplantationproject.org/api/items/1437,1437,Margaret,7029,1780,1120,Abroad
+http://jesuitplantationproject.org/api/items/1438,1438,Kate,5027,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1439,1439,James,5032,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1440,1440,Henny,5052,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1441,1441,Bill ,5056,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1442,1442,Stephen,5058,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1443,1443,Luke,5060,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1444,1444,Lucy,5063,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1445,1445,Fanny,5064,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1446,1446,Jenny,5065,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1447,1447,Dennis,5066,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1448,1448,Patrick,5068,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1449,1449,Amilia,5069,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1450,1450,Nelly,5070,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1451,1451,John,5071,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1452,1452,Joseph,5072,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1453,1453,Nathaniel,1098,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1454,1454,Cristina (Christina),1100,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1455,1455,Dolly,1101,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1456,1456,Jinny Daniel,1102,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1457,1457,Jinny Charles,1103,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1458,1458,Matilda,1110,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1459,1459,Daniel,1111,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1460,1460,Margaret,1112,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1461,1461,Nace,1113,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1462,1462,Len Queen,1114,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1463,1463,Forrest,1119,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1464,1464,Sam,1125,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1465,1465,Kenny,1129,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1466,1466,John Butler,1150,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1467,1467,Sam Harris,1157,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1468,1468,John Coyle,1158,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1469,1469,Ann Cross,1159,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1470,1470,Calista,1160,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1471,1471,Ally,1161,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1472,1472,Nancy,1162,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1473,1473,Harry,1163,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1474,1474,Tom Riley,1164,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1476,1476,Tracy,1166,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1477,1477,Nancy (Nan),3009,1803-04-28,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1482,1482,Hannah,3017,1803-04-28,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1483,1483,John,3018,1803-04-28,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1485,1485,Ned,3020,1803-04-28,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1486,1486,Tilly,3021,1803-04-28,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1487,1487,Thom,3022,1803-04-28,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1489,1489,Kate,4001,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1490,1490,Fanny,4002,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1491,1491,Samuel,4003,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1492,1492,Terry,4004,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1494,1494,Sampson,4221,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1495,1495,Jenny,4006,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1496,1496,Frank,4007,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1497,1497,Lucy,4008,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1498,1498,David,4009,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1499,1499,Nancy,4010,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1500,1500,Paul,4011,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1501,1501,Henrietta,4012,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1502,1502,Nanny Cooper,4013,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1503,1503,Mina,4014,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1504,1504,Simon,4015,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1505,1505,Henny,4016,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1506,1506,Sarah,4017,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1507,1507,Doll ,4018,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1508,1508,Dick ,4019,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1509,1509,Peter,4020,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1510,1510,James  ,4021,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1511,1511,Phyllis,4022,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1512,1512,Mary,4023,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1513,1513,Peggy,4024,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1514,1514,Sall,4025,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1515,1515,Winifred,4026,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1516,1516,Mary,4027,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1517,1517,Nancy,4028,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1518,1518,Cate,4029,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1519,1519,Rachel,4030,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1520,1520,Priscilla,4031,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1521,1521,Tom,4032,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1522,1522,Susanna,4033,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/1524,1524,Charity,4035,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1525,1525,Monica,4036,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1526,1526,Ambrose,4037,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1527,1527,Ned,4038,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1528,1528,William,4039,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1529,1529,Nancy,4040,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1530,1530,Basil,4041,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1532,1532,Nelly,4042,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1533,1533,Jack,4043,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1534,1534,Charles,4044,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1535,1535,James  ,4045,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1536,1536,Patric,4046,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1537,1537,Anastasia,4047,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1538,1538,Henny,4048,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1539,1539,Harry,4049,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1540,1540,Mary,4050,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1541,1541,Lucy,4051,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1542,1542,Mary,4052,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1543,1543,Susan ,4053,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1544,1544,Ned,4054,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1545,1545,Fanny,4056,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1546,1546,Cate,4057,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1547,1547,John,4058,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1548,1548,Nell,4059,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1549,1549,Jamson,4060,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1550,1550,Jenny,4061,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1551,1551,Isaac,4062,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1552,1552,Isaac,4063,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1553,1553,Robert,4064,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1554,1554,Robert,4065,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1555,1555,Tom,4066,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1556,1556,Susanna,4067,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1557,1557,Betty,4068,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1558,1558,Gervais,4069,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1559,1559,Johnny ,4070,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1560,1560,Ralph,4071,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1561,1561,Shanny,4072,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1562,1562,Thomas,4073,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1564,1564,Priscilla,4075,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1565,1565,Andrew,4076,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1566,1566,Sall,4077,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1567,1567,Johnny,4078,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1568,1568,Billy,4079,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1569,1569,Regis,4080,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1570,1570,Nell,4081,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1571,1571,Nell,4082,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1572,1572,Doll ,4083,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1573,1573,Ruth,4084,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1574,1574,Davi ,4085,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1575,1575,Peter,4086,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/1578,1578,Gery,6046,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1579,1579,Gim (Jim?),6047,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1580,1580,Ragis ,6049,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1581,1581,Ginne,6050,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1582,1582,Jasper,6051,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1583,1583,Hal,6052,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1584,1584,George,6055,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1585,1585,John,6057,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1586,1586,Heney,6061,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1587,1587,Hal,6062,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1590,1590,John,6066,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1591,1591,Gene,6067,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1592,1592,Harry,6071,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1593,1593,Dina,6072,1788,2,Newtown
+http://jesuitplantationproject.org/api/items/1594,1594,Rhode,6166,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1595,1595,Jack,6167,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1596,1596,Sam,6168,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1597,1597,Nace,6169,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1598,1598,Jesse,6172,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1599,1599,Liddy,7101,1810,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1600,1600,Matt,7114,1810,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1601,1601,Dick,7115,1810,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1602,1602,Isaac,7116,1810,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1603,1603,Charles,7117,1810,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1604,1604,Jenny Medley,7118,1810,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1605,1605,Jenny,7119,1810,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1606,1606,Rachael,7120,1810,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1607,1607,Nancy Proctor,7121,1810,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1608,1608,Molly Proctor,7122,1810,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1609,1609,Peter,7123,1812,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1610,1610,Priss,7124,1812,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1611,1611,Polly,7125,1812,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1612,1612,Ned,7126,1814,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1613,1613,Cassimere,7127,1814,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1614,1614,Aime,7128,1814,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1615,1615,Louisa,7129,1814,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1616,1616,Charles,1151,1816-01-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1618,1618,Arnold,2223,1837-12-16,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1619,1619,Sam,2200,1795-12-24,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1620,1620,Stephen,2201,1795-12-24,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1621,1621,Ned,2202,1795-12-24,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1622,1622,Joseph,2203,1795-12-24,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1623,1623,Poll,2204,1795-12-24,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1624,1624,Philis,2205,1795-12-24,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1625,1625,Melly,2206,1795-12-24,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1626,1626,Peter,7000,1801-05,,
+http://jesuitplantationproject.org/api/items/1627,1627,Gabe,7098,1828-03-01,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1629,1629,Regis,5002,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1630,1630,Jacob,5003,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1631,1631,Bill ,5004,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1632,1632,John,5006,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1633,1633,Nancy,5007,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1634,1634,Infant Child,5008,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1635,1635,Polly,5009,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1636,1636,Infant Child,5010,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1637,1637,Minty,5011,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1638,1638,Lucy,5012,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1639,1639,Barney,5013,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1640,1640,Joe,5014,1815-09-19,1,Bohemia
+http://jesuitplantationproject.org/api/items/1642,1642,Maria,5017,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1643,1643,Prue,5018,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1644,1644,James  ,5019,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1645,1645,Tom,5020,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1646,1646,Twin boy 1,5021,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1647,1647,Twin boy 2,5022,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1648,1648,David,5024,1815*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1649,1649,Clement,1126,1828-11-11,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1650,1650,Peggy,1147,1831-05-01,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1651,1651,Anne,1148,1813-12-26,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1652,1652,George,1149,1813-12-26,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1653,1653,Liddy,2238,1831-02-12,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1655,1655,"Isaac Hawkins, I",4154,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/1656,1656,Susanna (Queen) Hawkins,4155,1823-01-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/1657,1657,"Isaac Hawkins, II",4193,1831-11-20,6,White Marsh
+http://jesuitplantationproject.org/api/items/1658,1658,Jery,6174,1796-11-16,2,Newtown
+http://jesuitplantationproject.org/api/items/1659,1659,Harry,6177,1831-12-11,2,Newtown
+http://jesuitplantationproject.org/api/items/1661,1661,Louise,7090,1848-07-15,,
+http://jesuitplantationproject.org/api/items/1666,1666,Charley's wife,7096,1816-01-03,1120,Abroad
+http://jesuitplantationproject.org/api/items/1668,1668,Poll's child,2207,1795-12-24,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1669,1669,Ralph,2208,1795-12-24,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1670,1670,Nace Butler,2228,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1671,1671,Old Nacy's wife,2229,1814-11-05,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1672,1672,Tom,2230,1814-11-05,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1673,1673,Nacy,2231,1814-11-05,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1674,1674,Nacy's wife,2232,1814-11-05,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1675,1675,Stephen,2233,1805-07-15,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1676,1676,Unhappy Girl,2234,1805-07-15,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1677,1677,Woman,2239,1836-01-07,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1678,1678,Sally,4121,1821-08-20,6,White Marsh
+http://jesuitplantationproject.org/api/items/1679,1679,Elizabeth Queen,4123,1820-12-31,6,White Marsh
+http://jesuitplantationproject.org/api/items/1680,1680,Aaron,4124,1821-09-22,6,White Marsh
+http://jesuitplantationproject.org/api/items/1681,1681,Polly,4136,1822-10-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1682,1682,Nelly,4145,1821-09-22,6,White Marsh
+http://jesuitplantationproject.org/api/items/1683,1683,Aaron,4149,1821-09-22,6,White Marsh
+http://jesuitplantationproject.org/api/items/1684,1684,Catherine Blacklaw,4192,1831-10-30,6,White Marsh
+http://jesuitplantationproject.org/api/items/1685,1685,Philis,5016,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1686,1686,Moll ,5023,1799,1,Bohemia
+http://jesuitplantationproject.org/api/items/1687,1687,Barny S.,5055,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1688,1688,Barny  ,5057,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1689,1689,Dick ,5059,1791-02-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/1690,1690,Charles,5061,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1691,1691,Jack,5062,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1692,1692,Ralph,5073,1799,1,Bohemia
+http://jesuitplantationproject.org/api/items/1693,1693,Old Ralph,5074,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1694,1694,Ned,5075,1799,1,Bohemia
+http://jesuitplantationproject.org/api/items/1695,1695,Rachel,5076,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1696,1696,Davy,5079,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1697,1697,Suky,5080,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1698,1698,Jacky,5083,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1699,1699,Poll ,5085,1795-03-10,1,Bohemia
+http://jesuitplantationproject.org/api/items/1700,1700,Sarah,5086,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1701,1701,Jus,5087,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1702,1702,Jake's Wife,5088,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1703,1703,Diana,5089,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1704,1704,Bitty,5090,1798,1,Bohemia
+http://jesuitplantationproject.org/api/items/1705,1705,Tom,5092,1799,1,Bohemia
+http://jesuitplantationproject.org/api/items/1706,1706,Abigail,5093,1795-03-10,1,Bohemia
+http://jesuitplantationproject.org/api/items/1707,1707,Betty (Charles’ wife),5094,1799,1,Bohemia
+http://jesuitplantationproject.org/api/items/1708,1708,Betty,5095,1799,1,Bohemia
+http://jesuitplantationproject.org/api/items/1709,1709,Bid,5096,1799,1,Bohemia
+http://jesuitplantationproject.org/api/items/1710,1710,Theresia,5100,1799,1,Bohemia
+http://jesuitplantationproject.org/api/items/1711,1711,Prisca,5101,1799,1,Bohemia
+http://jesuitplantationproject.org/api/items/1712,1712,Jake ,5102,1799,1,Bohemia
+http://jesuitplantationproject.org/api/items/1714,1714,George,7082,1808,1120,Abroad
+http://jesuitplantationproject.org/api/items/1715,1715,Ceasar,1050,1749-1753,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1716,1716,Dina,1051,1749-1753,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1717,1717,Dick ,1052,1755,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1718,1718,Mary,1053,1749-1753,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1719,1719,Jenny,1054,1755-02-22,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1720,1720,Jos' ,1055,1755-02-22,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1721,1721,Jenny,1056,1755,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1722,1722,Henny,1057,1754,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1723,1723,Billy,1058,1754,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1724,1724,Sue,1059,1755-02-17,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1725,1725,Robin,1060,1755-02-17,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1726,1726,Kate,1061,1773-09-30,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1727,1727,Sam,1062,1773-09-30,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1728,1728,Pegg,1063,1766-10,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1729,1729,Nell,1064,1777-03-15,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1730,1730,Mahoney,1065,1777-03-15,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1731,1731,Nan,1066,1778-01-22,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1733,1733,Harry,1068,1766-10,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1734,1734,James Locus,1069,1768-03-25,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1735,1735,Mary,1070,1755-10,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1736,1736,Joseph,1071,1755-10,1024,Port Tobacco
+http://jesuitplantationproject.org/api/items/1738,1738,Benedict,1116,1828-04-09,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1740,1740,Catherine (Kitty),1121,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1741,1741,George,1122,1828-10-12,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1742,1742,Anna,1135,1830-01-24,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1745,1745,Stephen,1143,1832-07-29,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1746,1746,Alan,1146,1828-11-19,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1747,1747,Henny,3046,1799-03-16,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1749,1749,Charles Hawkins,4096,1819-11-25,6,White Marsh
+http://jesuitplantationproject.org/api/items/1750,1750,Cecilia,4097,1819-11-25,6,White Marsh
+http://jesuitplantationproject.org/api/items/1751,1751,James  ,4100,1819-12,6,White Marsh
+http://jesuitplantationproject.org/api/items/1752,1752,Sarah,4101,1819-12,6,White Marsh
+http://jesuitplantationproject.org/api/items/1753,1753,Ella,4103,1820-02-08,6,White Marsh
+http://jesuitplantationproject.org/api/items/1754,1754,Jame  ,4106,1820-07,6,White Marsh
+http://jesuitplantationproject.org/api/items/1755,1755,Aaron,4108,1820-06-28,6,White Marsh
+http://jesuitplantationproject.org/api/items/1756,1756,Jacobi,4110,1821-05-06,6,White Marsh
+http://jesuitplantationproject.org/api/items/1757,1757,Marietta,4111,1821-05-06,6,White Marsh
+http://jesuitplantationproject.org/api/items/1758,1758,Ned,4113,1820-07-18,6,White Marsh
+http://jesuitplantationproject.org/api/items/1760,1760,Prouse (Protus),4116,1821-07-13,6,White Marsh
+http://jesuitplantationproject.org/api/items/1761,1761,Anna,4117,1821-07-13,6,White Marsh
+http://jesuitplantationproject.org/api/items/1762,1762,Peggy,4119,1821-08-20,6,White Marsh
+http://jesuitplantationproject.org/api/items/1763,1763,Billy,4120,1821-08-20,6,White Marsh
+http://jesuitplantationproject.org/api/items/1764,1764,Vechel,4127,1822-07-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/1765,1765,Milly,4128,1822-07-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/1767,1767,Henry,4138,1822-11-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1768,1768,Sally,4139,1822-12-10,6,White Marsh
+http://jesuitplantationproject.org/api/items/1769,1769,Allen,4141,1822-12-10,6,White Marsh
+http://jesuitplantationproject.org/api/items/1770,1770,Jacks,4144,1821-09-22,6,White Marsh
+http://jesuitplantationproject.org/api/items/1771,1771,Sally,4146,1821-09-22,6,White Marsh
+http://jesuitplantationproject.org/api/items/1772,1772,Letty Blacklog,4151,1823-01-14,6,White Marsh
+http://jesuitplantationproject.org/api/items/1773,1773,Nelly Blacklog,4152,1823-01-14,6,White Marsh
+http://jesuitplantationproject.org/api/items/1774,1774,Patrick Hawkins,4159,1827-05-03,6,White Marsh
+http://jesuitplantationproject.org/api/items/1775,1775,Kitty Hawkins,4160,1827-05-03,6,White Marsh
+http://jesuitplantationproject.org/api/items/1778,1778,James,4167,1828-05-02,6,White Marsh
+http://jesuitplantationproject.org/api/items/1781,1781,Waters,4177,1829-04-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/1782,1782,Harriett Queen,4180,1829-11-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/1783,1783,William Harrison,4182,1831-03-13,6,White Marsh
+http://jesuitplantationproject.org/api/items/1784,1784,Regis Queen,4185,1831-04-03,6,White Marsh
+http://jesuitplantationproject.org/api/items/1785,1785,Elizabeth,4187,1831-08-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1786,1786,Maria Herbert,4190,1831-08-28,6,White Marsh
+http://jesuitplantationproject.org/api/items/1787,1787,Sealy,4196,1832-01-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1788,1788,Henry Williams,4199,1832-01-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/1789,1789,Minty Queen Williams,4200,1832-01-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/1790,1790,Sally Queen,4205,1832-03-23,6,White Marsh
+http://jesuitplantationproject.org/api/items/1791,1791,Amia Hawkins,4208,1832-04-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1792,1792,Polly Hawkins,4210,1832-04-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1793,1793,Archable Hawkins,4211,1832-04-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1794,1794,Richard,4213,1832-04-23,6,White Marsh
+http://jesuitplantationproject.org/api/items/1795,1795,Betsy,4215,1832-07-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/1796,1796,James Queen,4217,1832-10-21,6,White Marsh
+http://jesuitplantationproject.org/api/items/1797,1797,Laisa Dorsey,4219,1832-11-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/1798,1798,Clare,6031,1754,2,Newtown
+http://jesuitplantationproject.org/api/items/1799,1799,Ben Sr.,6032,1754,2,Newtown
+http://jesuitplantationproject.org/api/items/1800,1800,Nel ,6033,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1801,1801,James  ,6034,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1802,1802,Suck,6035,1758,2,Newtown
+http://jesuitplantationproject.org/api/items/1803,1803,Judith,6036,1759,2,Newtown
+http://jesuitplantationproject.org/api/items/1804,1804,Clem,6037,1759,2,Newtown
+http://jesuitplantationproject.org/api/items/1805,1805,Teresia,6038,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1806,1806,Ben Jr.,6039,1759,2,Newtown
+http://jesuitplantationproject.org/api/items/1807,1807,Jim,6040,1762,2,Newtown
+http://jesuitplantationproject.org/api/items/1808,1808,Jane,6041,1762,2,Newtown
+http://jesuitplantationproject.org/api/items/1809,1809,Jenny,6042,1764,2,Newtown
+http://jesuitplantationproject.org/api/items/1810,1810,Peggy [dead],6043,1765,2,Newtown
+http://jesuitplantationproject.org/api/items/1811,1811,Betty Jacob,6044,1765,2,Newtown
+http://jesuitplantationproject.org/api/items/1812,1812,Jacob,6045,1761,2,Newtown
+http://jesuitplantationproject.org/api/items/1813,1813,Joe Greenleaf,6085,1800,2,Newtown
+http://jesuitplantationproject.org/api/items/1814,1814,George,6122,1783,2,Newtown
+http://jesuitplantationproject.org/api/items/1815,1815,Flora,6123,1783,2,Newtown
+http://jesuitplantationproject.org/api/items/1816,1816,Tony,6125,1783,2,Newtown
+http://jesuitplantationproject.org/api/items/1817,1817,Henrietta (Retta),6126,1783,2,Newtown
+http://jesuitplantationproject.org/api/items/1818,1818,Michael,6128,1784,2,Newtown
+http://jesuitplantationproject.org/api/items/1819,1819,Rebecca,6129,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/1820,1820,Bennet,6141,1793-07-11,2,Newtown
+http://jesuitplantationproject.org/api/items/1822,1822,James,6162,1764,2,Newtown
+http://jesuitplantationproject.org/api/items/1824,1824,Clem,6163,1769,2,Newtown
+http://jesuitplantationproject.org/api/items/1825,1825,Ruth,6164,1769,2,Newtown
+http://jesuitplantationproject.org/api/items/1826,1826,Nelly,6181,1830-09-25,2,Newtown
+http://jesuitplantationproject.org/api/items/1827,1827,William,6182,1830-09-25,2,Newtown
+http://jesuitplantationproject.org/api/items/1829,1829,Henry,6186,1831-07-31,2,Newtown
+http://jesuitplantationproject.org/api/items/1831,1831,Thomas,6192,1832-09-25,2,Newtown
+http://jesuitplantationproject.org/api/items/1832,1832,Harry,6194,1832-11-15,2,Newtown
+http://jesuitplantationproject.org/api/items/1833,1833,Bett ,6196,1821-09-20,2,Newtown
+http://jesuitplantationproject.org/api/items/1834,1834,Deb,7087,1765,,
+http://jesuitplantationproject.org/api/items/1835,1835,Solomon,7088,1765,6,White Marsh
+http://jesuitplantationproject.org/api/items/1836,1836,Harry,7097,1816-11-16,1120,Abroad
+http://jesuitplantationproject.org/api/items/1853,1853,Woman,1154,1829-01-12,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1854,1854,Child,1155,1829-01-12,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1855,1855,Man,1152,1826-01-11,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1856,1856,Boy,2001,1817-12-01,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1857,1857,Davy,4094,1818-02-23,6,White Marsh
+http://jesuitplantationproject.org/api/items/1858,1858,Mary,5048,1792-02-10,1,Bohemia
+http://jesuitplantationproject.org/api/items/1859,1859,Hannah,5049,1792-02-10,1,Bohemia
+http://jesuitplantationproject.org/api/items/1860,1860,Isaac,5050,1792-02-10,1,Bohemia
+http://jesuitplantationproject.org/api/items/1861,1861,Pat,5051,1793-04-04,1,Bohemia
+http://jesuitplantationproject.org/api/items/1862,1862,David,5099,1795-03-10,1,Bohemia
+http://jesuitplantationproject.org/api/items/1863,1863,Perry,6078,1812,2,Newtown
+http://jesuitplantationproject.org/api/items/1864,1864,Sarah,6111,1835,2,Newtown
+http://jesuitplantationproject.org/api/items/1865,1865,Woman,6113,1812-04-02,2,Newtown
+http://jesuitplantationproject.org/api/items/1866,1866,Agnes,6148,1794-01-25,2,Newtown
+http://jesuitplantationproject.org/api/items/1867,1867,Mary,6149,1794-01-25,2,Newtown
+http://jesuitplantationproject.org/api/items/1868,1868,William,6171,1784,2,Newtown
+http://jesuitplantationproject.org/api/items/1869,1869,Woman,7099,1808-02,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1870,1870,Isaac,7100,1807-03-10,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1871,1871,Sarah ,7001,1809-06-26,,
+http://jesuitplantationproject.org/api/items/1872,1872,Person,2109,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1873,1873,Person,2110,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1874,1874,Person,2111,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1875,1875,Person,2112,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1876,1876,Person,2113,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1877,1877,Tom,4087,1809-06-26,6,White Marsh
+http://jesuitplantationproject.org/api/items/1878,1878,George,1072,1809-06-26,,
+http://jesuitplantationproject.org/api/items/1879,1879,Person,2100,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1880,1880,Person,2101,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1881,1881,Person,2102,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1882,1882,Person,2103,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1883,1883,Person,2104,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1884,1884,Person,2105,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1885,1885,Person,2106,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1886,1886,Person,2107,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1887,1887,Person,2108,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1888,1888,Husband,2114,1809-06-26,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1889,1889,Wife,2115,1809-06-26,,
+http://jesuitplantationproject.org/api/items/1890,1890,Gervase,7003,1809-06-26,,
+http://jesuitplantationproject.org/api/items/1891,1891,Steven,1153,1829-01-12,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1892,1892,Abraham,2000,1767-11-16,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1893,1893,Reg,7011,1782-03-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/1894,1894,Spalding,7092,1805-07-15,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1895,1895,Moses,7093,1821-05-02,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1896,1896,Henny,1099,1803-04-09,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1897,1897,Jane,1170,1803-04-09,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/1898,1898,Ned,2211,1825-07-27,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1910,1910,Maria,3003,1803-04-28,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1911,1911,Child,3004,1830-04-27,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1912,1912,Child,3005,1830-04-27,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1913,1913,Child,3006,1830-04-27,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/1914,1914,Esther,5039,1790-07-01,1,Bohemia
+http://jesuitplantationproject.org/api/items/1915,1915,Kate,5040,1790-07-02,1,Bohemia
+http://jesuitplantationproject.org/api/items/1916,1916,Jonathan,5041,1790-07-02,1,Bohemia
+http://jesuitplantationproject.org/api/items/1917,1917,Bob,5042,1790-07-02,1,Bohemia
+http://jesuitplantationproject.org/api/items/1918,1918,Nell,5043,1790-07-6,1,Bohemia
+http://jesuitplantationproject.org/api/items/1919,1919,Perry,5044,1790-07-6,1,Bohemia
+http://jesuitplantationproject.org/api/items/1920,1920,Martha,5045,1790-09-9,1,Bohemia
+http://jesuitplantationproject.org/api/items/1921,1921,Sarah,5046,1791-01-14,1,Bohemia
+http://jesuitplantationproject.org/api/items/1922,1922,Jerry,5047,1791-01-14,1,Bohemia
+http://jesuitplantationproject.org/api/items/1924,1924,Dina,5500,1792-02-27,1,Bohemia
+http://jesuitplantationproject.org/api/items/1925,1925,Jemima,5053,1792-02-27,1,Bohemia
+http://jesuitplantationproject.org/api/items/1926,1926,William,5054,1792-03-17,1,Bohemia
+http://jesuitplantationproject.org/api/items/1927,1927,Man,5081,1797-12,1,Bohemia
+http://jesuitplantationproject.org/api/items/1928,1928,Man,5082,1797-12,1,Bohemia
+http://jesuitplantationproject.org/api/items/1929,1929,Nell,5091,1794-01-08,1,Bohemia
+http://jesuitplantationproject.org/api/items/1930,1930,Bob,5097,1795-02-13,1,Bohemia
+http://jesuitplantationproject.org/api/items/1931,1931,Clara,5098,1795-02-11,1,Bohemia
+http://jesuitplantationproject.org/api/items/1932,1932,Jany,5103,1795-02-28,1,Bohemia
+http://jesuitplantationproject.org/api/items/1933,1933,Philis,5104,1794-01-08,1,Bohemia
+http://jesuitplantationproject.org/api/items/1934,1934,Jacob,5105,1792-02-27,1,Bohemia
+http://jesuitplantationproject.org/api/items/1935,1935,Mary,6114,1814-03-10,2,Newtown
+http://jesuitplantationproject.org/api/items/1936,1936,Child,6115,1814-03-10,2,Newtown
+http://jesuitplantationproject.org/api/items/1938,1938,Jim,6118,1811-02-11,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1939,1939,Person,6119,1823-01-08,2,Newtown
+http://jesuitplantationproject.org/api/items/1940,1940,Person,6120,1823-01-08,2,Newtown
+http://jesuitplantationproject.org/api/items/1941,1941,Jane,6160,1784,2,Newtown
+http://jesuitplantationproject.org/api/items/1942,1942,Rachel,6161,1784,2,Newtown
+http://jesuitplantationproject.org/api/items/1943,1943,Nann,7041,1803-05-07,1120,Abroad
+http://jesuitplantationproject.org/api/items/1944,1944,Person,7042,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1945,1945,Person,7043,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1946,1946,Person,7044,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1947,1947,Person,7045,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1948,1948,Person,7046,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1949,1949,Person,7047,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1950,1950,Person,7048,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1951,1951,Person,7049,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1952,1952,Person,7050,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1953,1953,Person,7051,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1954,1954,Person,7052,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1955,1955,Person,7053,1727-10-02,1120,Abroad
+http://jesuitplantationproject.org/api/items/1956,1956,Mary,7061,1813-08-10,1120,Abroad
+http://jesuitplantationproject.org/api/items/1957,1957,Hillary,7062,1813-08-10,1120,Abroad
+http://jesuitplantationproject.org/api/items/1958,1958,Basila,7063,1813-08-10,1120,Abroad
+http://jesuitplantationproject.org/api/items/1959,1959,Matilda,7064,1813-08-10,1120,Abroad
+http://jesuitplantationproject.org/api/items/1960,1960,Ann,7065,1813-08-10,1120,Abroad
+http://jesuitplantationproject.org/api/items/1961,1961,Harriot,7066,1830-10-15,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1962,1962,Jerry,7077,1790-02-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1963,1963,George,7078,1790-02-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1964,1964,Nanny,7079,1790-02-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1965,1965,Baptist,7080,1790-02-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1966,1966,Frank,7081,1790-02-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/1967,1967,Michael,7083,1817-01-21,1120,Abroad
+http://jesuitplantationproject.org/api/items/1968,1968,Man,7200,1831-12-08,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1969,1969,Mat ,7201,1835-12-31,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1970,1970,Wat,7202,1806-05-20,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1971,1971,Kate's child 1,5028,1799-10-09,1,Bohemia
+http://jesuitplantationproject.org/api/items/1972,1972,Kate's child 2,5029,1799-10-09,1,Bohemia
+http://jesuitplantationproject.org/api/items/1973,1973,Woman,5030,1813-09-14,1,Bohemia
+http://jesuitplantationproject.org/api/items/1974,1974,Child,5031,1813-09-14,1,Bohemia
+http://jesuitplantationproject.org/api/items/1976,1976,Jim,5034,1832*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1978,1978,Jerry,5036,1832*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1979,1979,Bill ,5037,1832*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1980,1980,Little Girl,5038,1832*,1,Bohemia
+http://jesuitplantationproject.org/api/items/1981,1981,Harrison,2240,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1982,1982,Clem,2241,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1983,1983,John Brown,2243,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1984,1984,Michael,2244,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1985,1985,Ned,2245,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1986,1986,Isaac,2246,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1987,1987,Bill,2247,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1988,1988,Regis,2248,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1989,1989,Basil,2249,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1990,1990,Venus,2250,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1991,1991,Nelly Merrick,2251,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1992,1992,Ned,7028,1817-12-01,,
+http://jesuitplantationproject.org/api/items/1993,1993,Lewis,2235,1831-01-19,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1994,1994,Sam,2236,1831-01-19,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1995,1995,Hilary,2237,1831-01-19,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/1996,1996,Davis,5077,1796-07-01,1,Bohemia
+http://jesuitplantationproject.org/api/items/1997,1997,Pady,5078,1796-07-01,1,Bohemia
+http://jesuitplantationproject.org/api/items/1998,1998,Bill,7091,1814-10-19,7,Georgetown College
+http://jesuitplantationproject.org/api/items/1999,1999,Michael,3007,1831,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2001,2001,Sam,3010,1831,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2004,2004,Lucy,3026,1831-06-29,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2005,2005,Belle,3027,1831-06-29,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2006,2006,Charles,1104,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2007,2007,Tracy,1105,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2008,2008,Clair,1106,1820*,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2009,2009,Mary,1107,1820*,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2010,2010,Henny,1108,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2011,2011,Matthew,7006,1850,1120,Abroad
+http://jesuitplantationproject.org/api/items/2012,2012,Lewis,7007,1807-05-08,1120,Abroad
+http://jesuitplantationproject.org/api/items/2013,2013,Michael,7008,1807-05-08,1120,Abroad
+http://jesuitplantationproject.org/api/items/2014,2014,Phill,7009,1782-03-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2015,2015,Mary,7010,1782-03-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2017,2017,Mary,7012,1813-01-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2018,2018,Joe,7013,1813-01-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2019,2019,Mary’s children,7014,1813-01-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2027,2027,Baptist,7022,1806-08-15,,
+http://jesuitplantationproject.org/api/items/2028,2028,Grace,7023,1806-08-15,,
+http://jesuitplantationproject.org/api/items/2029,2029,Grace’s children,7024,1806-08-15,,
+http://jesuitplantationproject.org/api/items/2030,2030,Moll,7025,1806-08-15,,
+http://jesuitplantationproject.org/api/items/2031,2031,Davis,7026,1806-08-15,,
+http://jesuitplantationproject.org/api/items/2032,2032,James,7027,1806-08-15,,
+http://jesuitplantationproject.org/api/items/2033,2033,Charles,7005,1815-11-22,1120,Abroad
+http://jesuitplantationproject.org/api/items/2034,2034,Jane,1123,1828-04-09,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2035,2035,Anny Queen,1127,1829-05-17,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2036,2036,Harriet,1131,1828-10-12,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2037,2037,Katey,1133,1829-11-22,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2038,2038,Theresia,1140,1830-09-05,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2039,2039,Mary,1144,1832-07-29,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2040,2040,Davy,3001,1765-12-27,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2041,2041,Lucy,3002,1765-12-27,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2042,2042,Thom,3029,1771-10-16,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2043,2043,Paul,3031,1773-04-04,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2044,2044,David,3033,1773-09-04,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2045,2045,Jinny,3037,1779-11-14,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2047,2047,Jerry,3042,1783-02-17,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2048,2048,Fanny,3044,1786-03-04,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2049,2049,Herriot,4098,1819-11-25,6,White Marsh
+http://jesuitplantationproject.org/api/items/2050,2050,Cornelius,4104,1820-02-08,6,White Marsh
+http://jesuitplantationproject.org/api/items/2051,2051,Crissy,4122,1821-08-20,6,White Marsh
+http://jesuitplantationproject.org/api/items/2052,2052,Mary,4130,1822-07-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/2053,2053,Nelly,4132,1822-08-31,6,White Marsh
+http://jesuitplantationproject.org/api/items/2054,2054,Nancy,4135,1822-10-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/2056,2056,Maria,4142,1822-12-10,6,White Marsh
+http://jesuitplantationproject.org/api/items/2057,2057,Robert,4147,1821-09-22,6,White Marsh
+http://jesuitplantationproject.org/api/items/2058,2058,Sally,4148,1821-09-22,6,White Marsh
+http://jesuitplantationproject.org/api/items/2059,2059,Milly Blacklog,4153,1823-01-14,6,White Marsh
+http://jesuitplantationproject.org/api/items/2060,2060,Ned Harrison,4156,1823-01-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/2061,2061,Nancy Griffin,4157,1823-01-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/2062,2062,Amelia,4171,1829-02-08,6,White Marsh
+http://jesuitplantationproject.org/api/items/2063,2063,Amyita,4175,1829-02-08,6,White Marsh
+http://jesuitplantationproject.org/api/items/2066,2066,Mildred,4188,1831-08-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/2067,2067,Catherine (Kitty) Harrison Hawkins,4191,1829-04-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/2069,2069,Elizabeth West,4201,1832-01-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/2070,2070,Nancy Harrison,4203,1832-03-23,6,White Marsh
+http://jesuitplantationproject.org/api/items/2072,2072,Milly,4206,1832-03-23,6,White Marsh
+http://jesuitplantationproject.org/api/items/2074,2074,Charles,6175,1822-02-03,2,Newtown
+http://jesuitplantationproject.org/api/items/2075,2075,Nelly,6176,1822-02-03,2,Newtown
+http://jesuitplantationproject.org/api/items/2077,2077,Harriet,6188,1831-12-26,2,Newtown
+http://jesuitplantationproject.org/api/items/2078,2078,Peg,5026,1799-10-09,1,Bohemia
+http://jesuitplantationproject.org/api/items/2113,2113,Len Sweetum,1115,1820,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2114,2114,Mary,4162,1827-09-16,6,White Marsh
+http://jesuitplantationproject.org/api/items/2443,2443,Abram,2400,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2444,2444,Adelene Campbell,2401,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2445,2445,Alexander Campbell,2402,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2446,2446,Ann,2403,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2447,2447,Anna,2406,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2448,2448,Anna Jones,2407,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2449,2449,Augustin,2408,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2450,2450,Basil,2410,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2451,2451,Benedict,2411,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2452,2452,Bernard,2412,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2455,2455,Betty,2415,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2457,2457,Biba,2417,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2458,2458,Bill,2418,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2459,2459,Bill Cush,2419,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2461,2461,Bridget,2421,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2462,2462,Bridget,2422,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2463,2463,Caroline,2423,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2464,2464,Charles,2424,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2465,2465,Charles,2425,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2466,2466,Charlotte,2426,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2467,2467,Charlotte Campbell,2427,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2468,2468,Dick,2429,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2470,2470,Dorsey,2431,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2471,2471,Eliza,2432,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2472,2472,Eliza Barney,2433,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2473,2473,Ellen Amanda,2434,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2474,2474,Emeline Brown,2435,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2475,2475,Emily,2436,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2477,2477,Ezekial,2438,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2478,2478,Frank Campbell,2439,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2481,2481,Ginny,2444,1821-03-03,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2482,2482,Gusty,2445,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2483,2483,Harry,2446,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2484,2484,Harry,2447,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2485,2485,Harry,2448,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2486,2486,Henny,2449,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2487,2487,Henny,2450,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2489,2489,Ignatius,2452,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2490,2490,Ignatius,2453,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2491,2491,Infant,2454,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2492,2492,Infant,2455,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2494,2494,James,2457,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2495,2495,Jenny,2458,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2498,2498,Judah,2462,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2499,2499,Judd,2463,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2500,2500,Juezar [?],2464,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2501,2501,Leonard,2465,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2502,2502,Lewis,2466,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2503,2503,Bob,2467,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2504,2504,Mary Jane (Little Mary),2468,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2505,2505,Nace (Butler),2469,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2506,2506,Louisa,2501,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2507,2507,Lucinda,2470,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2508,2508,Luck,2471,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2509,2509,Lydia,2472,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2510,2510,Maria,2473,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2511,2511,Martha,2474,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2512,2512,Mary,2475,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2513,2513,Mary,2476,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2514,2514,Matthew,2477,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2515,2515,Nathan,2479,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2516,2516,Nelly Barney,2480,1817-02-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2517,2517,Nelly,2481,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2518,2518,Caty,2482,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2520,2520,Paul,2484,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2521,2521,Peter,2486,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2522,2522,Philip,2487,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2523,2523,Phil Merrick,2488,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2525,2525,Regis Gough,2490,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2526,2526,Sally,2491,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2527,2527,Sam Campbell,2492,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2528,2528,Saml,2493,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2529,2529,Sookey,2494,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2530,2530,Sookey,2495,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2531,2531,Susan Ann,2496,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2532,2532,Teresa Campbell,2497,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2533,2533,Trecy,2498,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2534,2534,Will,2499,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2535,2535,Harry,2500,1831,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2676,2676,Gabe,8176,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2677,2677,Henry,8178,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2678,2678,Thomas,8179,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2679,2679,Mary ,8180,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2680,2680,John Lewis,8181,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2681,2681,Amanda,8184,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2682,2682,Elizabeth,8185,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2683,2683,Billy,8186,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2684,2684,Biby,8187,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2685,2685,Hariet Eagline,8188,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2686,2686,Robert,8189,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2687,2687,Robert,8192,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2689,2689,Sally Anne,8197,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2690,2690,Nelly,8198,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2691,2691,Charles,8199,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2692,2692,Child,8200,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2693,2693,Arnold Jones,8218,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2694,2694,Louisa,8219,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2695,2695,Betsy Dorsey,8220,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2696,2696,Baney (Bernard),8221,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2697,2697,Greenfield,8223,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2698,2698,Daniel,8224,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2699,2699,Rachel Campbell,8230,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2700,2700,Emeline Campbell,8233,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2701,2701,"Watt Campbell, II",8234,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2702,2702,Child Campbell,8235,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2704,2704,Ginny,8239,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2705,2705,Catherine,8240,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2706,2706,Maria ,8241,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2707,2707,Alexius,8251,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2708,2708,Girl,8255,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2709,2709,Henny [dead],8258,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2711,2711,Betty,8132,1838,2,Newtown
+http://jesuitplantationproject.org/api/items/2712,2712,Susanna,8155,1838,2,Newtown
+http://jesuitplantationproject.org/api/items/2713,2713,Luncina ,8160,1838,2,Newtown
+http://jesuitplantationproject.org/api/items/2714,2714,Dina,8161,1838,2,Newtown
+http://jesuitplantationproject.org/api/items/2715,2715,Peg,8162,1838,2,Newtown
+http://jesuitplantationproject.org/api/items/2716,2716,Child of 1,8164,1838,2,Newtown
+http://jesuitplantationproject.org/api/items/2717,2717,Child of 2 years old,8165,1838,2,Newtown
+http://jesuitplantationproject.org/api/items/2718,2718,Bernard Butler,8102,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2719,2719,Betsy Hill,8110,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2720,2720,Boy,8312,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2721,2721,Boy,8313,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2722,2722,Charles Queen,8300,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2723,2723,Oswald ,8309,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2724,2724,Sam Queen,8301,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2725,2725,Celestia,8115,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2726,2726,Francis,8107,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2727,2727,George Harris,8098,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2729,2729,Girl,8307,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2730,2730,Girl,8308,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2731,2731,Girl,8311,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2733,2733,Girl,8315,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2734,2734,Girl,8316,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2738,2738,Ellen Hill,8304,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2739,2739,Martha Hill,8305,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2740,2740,Nance Queen,8302,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2742,2742,Jim Blair,8105,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2743,2743,Jinny,8121,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2745,2745,John Coyle,8097,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2746,2746,Louisa,8117,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2747,2747,Mary,8119,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2748,2748,Mary ,8120,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2749,2749,William,8103,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2750,2750,Adoph,8069,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2751,2751,Anderson,8029,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2753,2753,Betsy,8067,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2754,2754,Bill,8082,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2756,2756,Charles Queen,8038,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2757,2757,David Queen,8042,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2758,2758,Delia Hawkins,8017,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2759,2759,Edward,8086,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2760,2760,Elias Hawkins,8024,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2761,2761,Eliza,8083,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2762,2762,Eliza Queen,8043,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2763,2763,Elizabeth,8053,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2764,2764,Elizabeth Queen,8061,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2765,2765,Elizabeth Hawkins,8015,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2766,2766,Gabriel Hawkins,8012,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2767,2767,George Hawkins,8019,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2768,2768,Hariet Ann,8071,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2770,2770,Henny (Hawkins),8004,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2771,2771,Henrietta,8070,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2772,2772,Henry,8059,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2773,2773,Iasais (Isaiah) Queen,8062,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2774,2774,"Isaac Hawkins, III",8023,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2775,2775,Jackson Hawkins,8014,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2777,2777,James Hawkins,8016,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2778,2778,Jemmy Queen,8066,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2779,2779,John ,8035,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2780,2780,John Harrison,8034,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2781,2781,Joseph,8048,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2782,2782,Len,8075,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2783,2783,Margaret Queen,8041,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2784,2784,Margery,8074,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2785,2785,Maria,8089,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2786,2786,Maria,8090,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2787,2787,Mary Williams,8078,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2788,2788,Mary Anne Digges,8057,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2789,2789,Mary Ellen Queen,8063,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2790,2790,Nancy,8036,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2791,2791,Nancy Queen,8064,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2792,2792,Nancy Queen,8040,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2793,2793,Nancy [dead],8073,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2794,2794,"Ned, II",8031,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2795,2795,Nelly,8047,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2796,2796,Nelly,8049,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2797,2797,Nelly Harrison,8033,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2798,2798,Patrick ,8037,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2799,2799,Peter Hawkins,8013,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2800,2800,Polly,8054,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2801,2801,Revidy,8084,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2802,2802,Robert,8058,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2804,2804,Sally,8055,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2806,2806,Sam,8052,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2807,2807,Sarah Anne Queen,8046,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2808,2808,Susan Hawkins,8018,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2809,2809,Tom,8081,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2810,2810,William,8056,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2811,2811,William,8087,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2812,2812,William,8091,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2813,2813,Dick,5110,1815,1,Bohemia
+http://jesuitplantationproject.org/api/items/2814,2814,Stephen,5111,1795-03-10,1,Bohemia
+http://jesuitplantationproject.org/api/items/2815,2815,Joe,2416,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2816,2816,Anna,2404,1821-03-21,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2817,2817,Tom,3023,1830-06-29,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/2818,2818,Austin,8068,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2819,2819,Harriet Anne Queen,8045,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2820,2820,James,8080,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2821,2821,Letty Hawkins,8008,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2822,2822,Kitty,8050,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2823,2823,Mary,8051,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2824,2824,Noble,8085,1838,6,White Marsh
+http://jesuitplantationproject.org/api/items/2826,2826,Charles,8092,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2827,2827,Eliza Queen,8303,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/3548,3548,Nelly,5501,1795-02-28,1,Bohemia
+http://jesuitplantationproject.org/api/items/3556,3556,Isaac Hawkins,4230,1823-01-11,6,White Marsh
+http://jesuitplantationproject.org/api/items/3589,3589,Woman,1180,1798-05-18,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/3590,3590,John,1181,1798-09-17,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/3591,3591,Charles,1182,1788-07-17,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/3592,3592,Jess,1183,1796-01-01,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/3593,3593,Nancy,1185,1803-09-19,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/3594,3594,Sophia,1184,1803-09-19,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/3595,3595,Alexis,2521,1839-06-20,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3596,3596,Bets,2522,1839-06-20,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3597,3597,Gabe,2523,1839-06-20,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3598,3598,Joe,2524,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3599,3599,Michael,2526,1839-06-20,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3600,3600,Ragis,2527,1839-06-20,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3601,3601,Regis,2528,1839-06-20,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3602,3602,Young Harry,2529,1839-06-20,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3603,3603,Zekiel,2529,1839-06-20,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3604,3604,Ann,2510,1836-05-18,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3605,3605,Gilbert,2511,1836-05-18,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3606,3606,Henry,2512,1836-05-18,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3607,3607,Isaac,2513,1836-05-18,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3608,3608,Emely,2514,1836-05-27,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3609,3609,Henry,2515,1836-05-27,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3610,3610,John,2516,1836-05-27,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3611,3611,Margaret,2517,1836-05-27,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3612,3612,Mary ann,2518,1836-05-27,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3613,3613,Thomas,2519,1836-05-27,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3614,3614,Hamilton,2520,1837-06-20,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3615,3615,Suckey,7210,1806-10-01,7,Georgetown College
+http://jesuitplantationproject.org/api/items/3616,3616,Len,7211,1808-10-18,7,Georgetown College
+http://jesuitplantationproject.org/api/items/3617,3617,George,7212,1801-03-14,7,Georgetown College
+http://jesuitplantationproject.org/api/items/3618,3618,Archy,7213,1832-11-03,7,Georgetown College
+http://jesuitplantationproject.org/api/items/3619,3619,Gabe,7214,1833-03-20,7,Georgetown College
+http://jesuitplantationproject.org/api/items/3622,3622,Nell (Elinora),,1766-12-15,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/3623,3623,David,3110,1767-01-10,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/3624,3624,Jerry,3111,1767-11-14,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/3625,3625,Jinny,3112,1770-11-04,4,St. Joseph's Manor
+http://jesuitplantationproject.org/api/items/3630,3630,Will,6200,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3631,3631,Jack,6201,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3632,3632,Kill,6203,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3633,3633,Peter,6204,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3634,3634,Mary,6205,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3635,3635,Tesesa,6206,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3636,3636,Clare,6207,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3637,3637,Pegg,6208,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3638,3638,Jack,6209,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3639,3639,Clemm,6210,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3640,3640,Tomm,6211,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3641,3641,James,6212,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3642,3642,Betty,6213,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3643,3643,Cate,6214,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3644,3644,Susan,6215,1717-01-30,2,Newtown
+http://jesuitplantationproject.org/api/items/3660,3660,Girl,5200,1754-11-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/3661,3661,John,5201,1755-11-09,1,Bohemia
+http://jesuitplantationproject.org/api/items/3662,3662,Prudens,5202,1756-11-09,1,Bohemia
+http://jesuitplantationproject.org/api/items/3663,3663,John,5203,1758-10-18,1,Bohemia
+http://jesuitplantationproject.org/api/items/3664,3664,Robert,5204,1756,1,Bohemia
+http://jesuitplantationproject.org/api/items/3665,3665,Sara,5205,1760-12,1,Bohemia
+http://jesuitplantationproject.org/api/items/3666,3666,Dick,5206,1750-05,1,Bohemia
+http://jesuitplantationproject.org/api/items/3667,3667,Nell,5207,1750-06,1,Bohemia
+http://jesuitplantationproject.org/api/items/3668,3668,Ralph,5208,1752-04-02,1,Bohemia
+http://jesuitplantationproject.org/api/items/3669,3669,Betty,5209,1754-11-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/3670,3670,Davi,5210,1754-11-22,1,Bohemia
+http://jesuitplantationproject.org/api/items/3671,3671,Nanny,5211,1755-11-09,1,Bohemia
+http://jesuitplantationproject.org/api/items/3672,3672,Isaac,5212,1755-11-09,1,Bohemia
+http://jesuitplantationproject.org/api/items/3673,3673,Molly,5213,1756-12-05,1,Bohemia
+http://jesuitplantationproject.org/api/items/3674,3674,Mary,5214,1760-12,1,Bohemia
+http://jesuitplantationproject.org/api/items/3675,3675,Ralph,5215,1752,1,Bohemia
+http://jesuitplantationproject.org/api/items/3692,3692,Henny,6220,1752,2,Newtown
+http://jesuitplantationproject.org/api/items/3693,3693,Matt,8238,1838,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3694,3694,Doll,4231,1763,1119,Fingale
+http://jesuitplantationproject.org/api/items/3696,3696,Nanny,4000,1763,6,White Marsh
+http://jesuitplantationproject.org/api/items/3698,3698,Nacy,2530,1814-11-05,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/3701,3701,Girl,8317,1838,5,St. Thomas's Manor
+http://jesuitplantationproject.org/api/items/2080,2080,Patrick Barnes,PC001,1797-08-15,1120,Abroad
+http://jesuitplantationproject.org/api/items/2081,2081,Old Free Abraham,PC002,1810-04-06,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2082,2082,Free Nacy,PC003,1810-05-10,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2083,2083,Dick,PC004,1810-06-05,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2084,2084,Gabe,PC005,1810-06-05,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2085,2085,Free Charles,PC006,1813,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2086,2086,George,PC007,1812-01-01,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2087,2087,Phillip,PC008,1812-01-01,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2088,2088,Ignatius,PC009,1812-01-01,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2089,2089,Bill,PC010,1812-01-01,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2090,2090,Stephen,PC011,1813,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2091,2091,Bob,PC012,1813,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2092,2092,Robert,PC014,1813-05-01,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2093,2093,Mickel,PC015,1813-05-01,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2094,2094,William,PC016,1813-05-01,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2095,2095,Curtis,PC017,1813-05-01,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2096,2096,Joseph,PC018,1826-07,3,St. Inigoe's Manor
+http://jesuitplantationproject.org/api/items/2097,2097,Lewis,PC019,1814-01-27,2,Newtown
+http://jesuitplantationproject.org/api/items/2098,2098,Peter,PC020,1816-03-05,2,Newtown
+http://jesuitplantationproject.org/api/items/2099,2099,Anna,PC021,1820-07,6,White Marsh
+http://jesuitplantationproject.org/api/items/2100,2100,Charity,PC022,1820-06-27,6,White Marsh
+http://jesuitplantationproject.org/api/items/2101,2101,Elizabeth,PC023,1820-06-28,6,White Marsh
+http://jesuitplantationproject.org/api/items/2102,2102,Crise Anna Griffen,PC024,1821-05-06,6,White Marsh
+http://jesuitplantationproject.org/api/items/2103,2103,Mary Parker,PC025,1822-11-01,6,White Marsh
+http://jesuitplantationproject.org/api/items/2104,2104,Mary,PC026,1828-05-02,6,White Marsh
+http://jesuitplantationproject.org/api/items/2105,2105,Lysa,PC027,1828-05-02,6,White Marsh
+http://jesuitplantationproject.org/api/items/2106,2106,James Queen,PC028,1829-11-29,6,White Marsh
+http://jesuitplantationproject.org/api/items/2107,2107,Bill,PC029,1810-07-06,7,Georgetown College
+http://jesuitplantationproject.org/api/items/2108,2108,Nancy Queen,PC030,1832-10-21,6,White Marsh
+http://jesuitplantationproject.org/api/items/2109,2109,Sally,PC031,1831-12-11,1120,Abroad
+http://jesuitplantationproject.org/api/items/2110,2110,Cecilia Adams,PC032,1831-07-31,1120,Abroad
+http://jesuitplantationproject.org/api/items/2111,2111,Sarah,PC033,1832-11-15,1120,Abroad
+http://jesuitplantationproject.org/api/items/1660,1660,George Mills,7089,1848-07-15,1120,Abroad
+http://jesuitplantationproject.org/api/items/1662,1662,Henry,7103,1829-07-18,1120,Abroad
+http://jesuitplantationproject.org/api/items/1663,1663,John,7107,1831-05-01,1120,Abroad
+http://jesuitplantationproject.org/api/items/1664,1664,Synthia,7130,1822-02-03,1120,Abroad
+http://jesuitplantationproject.org/api/items/1665,1665,Eliza,7131,1831-04-30,1120,Abroad
+http://jesuitplantationproject.org/api/items/1667,1667,Clem's wife,7095,1817-02-06,1120,Abroad
+http://jesuitplantationproject.org/api/items/1759,1759,Rachel,4114,1820-07-18,6,White Marsh
+http://jesuitplantationproject.org/api/items/1837,1837,Winafred,7102,1282-04-09,1120,Abroad
+http://jesuitplantationproject.org/api/items/1838,1838,Joseph,7104,1829-11-12,1120,Abroad
+http://jesuitplantationproject.org/api/items/1839,1839,John,7105,1830-01-24,1120,Abroad
+http://jesuitplantationproject.org/api/items/1840,1840,Celia,7106,1832-07-29,1120,Abroad
+http://jesuitplantationproject.org/api/items/1841,1841,Emmy West,7108,1831-03-13,1120,Abroad
+http://jesuitplantationproject.org/api/items/1842,1842,Patsy Mahony,7109,1831-04-03,1120,Abroad
+http://jesuitplantationproject.org/api/items/1843,1843,John Thomas,7110,1831-08-01,1120,Abroad
+http://jesuitplantationproject.org/api/items/1844,1844,Willis,7111,1831-08-28,1120,Abroad
+http://jesuitplantationproject.org/api/items/1845,1845,Peter Adamy,7112,1832-01-15,1120,Abroad
+http://jesuitplantationproject.org/api/items/1846,1846,Moses Taylor,7113,1832-11-11,1120,Abroad
+http://jesuitplantationproject.org/api/items/1847,1847,Henry,7132,1821-09-20,1120,Abroad
+http://jesuitplantationproject.org/api/items/1848,1848,Henry,7133,1830-10-11,1120,Abroad
+http://jesuitplantationproject.org/api/items/1849,1849,Henry,7134,1819-05-03,2,Newtown
+http://jesuitplantationproject.org/api/items/1850,1850,Nicholas,7135,1811-02-24,2,Newtown
+http://jesuitplantationproject.org/api/items/1851,1851,Mary,7136,1832-09-25,1120,Abroad
+http://jesuitplantationproject.org/api/items/1852,1852,Mary,7137,1831-04-03,1120,Abroad
+http://jesuitplantationproject.org/api/items/2020,2020,Ralph,7015,1813-01-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2021,2021,Sylvia,7016,1813-01-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2022,2022,Nell,7017,1813-01-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2023,2023,Bob,7018,1813-01-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2024,2024,Joe,7019,1813-01-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2025,2025,Eliza,7020,1813-01-05,1120,Abroad
+http://jesuitplantationproject.org/api/items/2026,2026,Henry,7021,1813-01-05,1120,Abroad
