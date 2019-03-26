@@ -6,10 +6,10 @@
 
 
 import requests
-r = requests.get("http://jesuitplantationproject.org/api/items?=&item_set_id=2116")
+r = requests.get("http://jesuitplantationproject.org/api/items?=&item_set_id=3927")
 
 
-with open('events.txt','w') as fd:
+with open('freedom-transactions.txt','w') as fd:
     fd.write(r.text)
 
 

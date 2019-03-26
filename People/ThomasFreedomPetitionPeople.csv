@@ -1,0 +1,17 @@
+OS-ID,dcterms:identifier ,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,schema:foundingDate ,Date type,bio:birth ,bio:death ,dcterms:description ,Type,child of ,id,relationship:childOf ,schema:homeLocation ,sj,Identifier,relationship:knowsOf ,sj,Identifier,relationship:knowsOf ,dcterms:isReferencedBy 
+3934,4522,Ann (Nanny) Queen,Ann (Nanny),Queen,enslaved,1794,freedom petition,,,awarded freedom; daughter of Henny Queen (4016); Harford County,,,,1505,"Harford Cnty, MD",,,,Sylvester Boarman,J062,3933,http://earlywashingtondc.org/cases/oscys.caseid.0386
+3935,4523,David Queen,David,Queen,enslaved,1794,freedom petition,,,awarded freedom; child of Mary (4027); Herford County,,,,1516,"Harford Cnty, MD",,,,Sylvester Boarman,J062,3933,http://earlywashingtondc.org/cases/oscys.caseid.0387
+3936,4501,Nancy Queen,Nancy,Queen,enslaved,1809,freedom petition,,,unclear,,,,,,,,,Charles Neale,J022,987,http://earlywashingtondc.org/families/queen
+3937,4502,Nancy Queen,Nancy,Queen,enslaved,1810,freedom petition,,,not awarded,,,,,,,,,Charles Neale,J022,987,http://earlywashingtondc.org/cases/oscys.caseid.0340
+3938,4504,Phillis Queen,Phillis,Queen,enslaved,1796,freedom petition,,,awarded freedom,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/cases/oscys.caseid.0492
+3939,4508,Bill Queen,Bill,Queen,enslaved,1796,freedom petition,,,awarded freedom,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/cases/oscys.caseid.0496
+3940,4509,Kesiah Queen,Kesiah,Queen,enslaved,1796,freedom petition,,,awarded freedom,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/cases/oscys.caseid.0497
+3941,4510,Nicholas Queen,Nicholas,Queen,enslaved,1796,freedom petition,,,awarded freedom,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/cases/oscys.caseid.0498
+3942,4514,Lewis Queen,Lewis,Queen,enslaved,1796,freedom petition,,,awarded freedom,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/cases/oscys.caseid.0505
+3943,4515,Charles Queen,Charles,Queen,enslaved,1811,estate transfer,,,child of Susanna (Sucky) Queen and possibly John Ashton,,,,1556,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/families/queen
+3944,4517,Daniel Mahoney,Daniel,Mahoney,enslaved,1791,freedom petition,,,,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/cases/oscys.caseid.0483
+3945,4518,Bernard Mahoney,Bernard,Mahoney,enslaved,1794-04-08,mention,,,,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/doc/oscys.mdcase.0008.049
+3946,4519,Joseph Mahoney,Joseph,Mahoney,enslaved,1794-04-08,mention,,,,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/doc/oscys.mdcase.0008.049
+3947,4520,Robert Mahoney,Robert,Mahoney,enslaved,1794-04-08,mention,,,,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/doc/oscys.mdcase.0008.049
+3948,4521,Thomas Mahoney,Thomas,Mahoney,enslaved,1794-04-08,mention,,,,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/doc/oscys.mdcase.0008.049
+3949,4524,Kesiah Queen’s son,,Queen,enslaved,1796,freedom petition,,,awarded freedom,,,,,6,,,,John Ashton,J008,973,http://earlywashingtondc.org/cases/oscys.caseid.0497
