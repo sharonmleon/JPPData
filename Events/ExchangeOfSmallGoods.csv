@@ -1,1 +1,14 @@
 OS-ID,Identifier,Title,Date,Date type,Date of Birth,Note,Type,File,Age,Value,Estimated Value,Relationship,Identifier,Relationship,Identifier,Location,SJ,Identifier,SJ,Identifier,Source
+,,Small Goods,1785-10-22,purchase,,"to paid Negro cooper for sail, riggin & filkin",account book,,,0.2.9,,,,,,Newtown,Rev. Matthews,,,,1766-MPA-44-4-NewtownDayBook-1766-1795.json
+,,Small Goods,1785-12-02,purchase,,to do [cash] paid for spinning & weaving Negro Cloath,account book,,,1.17.6,,,,,,Newtown,,,,,1766-MPA-44-4-NewtownDayBook-1766-1795.json
+,,Millsen,1785-12-02,purchase,,to do paid to Millsen negro for baskets ,account book,,,0.10.0,,,,,,Newtown,,,,,1766-MPA-44-4-NewtownDayBook-1766-1795.json
+,,Negro Jack,1790-07-01,purchase,,a basket,,,,0.2.6,,,,,,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,Negro Barny,1791-02-11,purchase,,Bot. of Negro Barny for cash 5 bus: bran @ 1/,account book,,,0.5.0,,,,,,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,Patrick (Negro),1791-09-21,purchase,,Pd. Patrick (Negro) 1 1/2 bush: Corn @ 3/ ,,,,0.4.6,,,,,,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,Peter,1791-10-04,sale,,Sold Peter (Negro) 1/2 bushel wheat @ 7/ ,,,,0.3.6,,,,,,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,Ralph Jr,1791-12-02,sale,,Sold Ralph Junr. (Negro) 1 pint rum ,,,,0.0.9,,,,,,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,Jack,1791-12-02,purchase,,Bot of Jack (Negro) 5lb hops @ 1/10 1/2 p lb,,,,0.9.4n1/2,,,,,,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,Jack,1791-12-02,purchase,,6 chickens,,,,0.3.9,,,,,,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,Jack,1791-12-02,purchase,,1 basket,,,,0.2.6,,,,,,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,Patrick ,1791-12-03,sale,,3 quarts rum,,,,0.4.6,,,,,,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,Goes on for full account book to 1799,,,,,,,,,,,,,,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
