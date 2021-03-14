@@ -8,6 +8,11 @@ bio:particpant,Identifier,dcterms:title ,Name,bio:date,dcterms:type,dcterms:desc
 1307,6098,"1826, Mary birth",Mary,1826,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
 1312,6103,"1827, Lucy birth",Lucy,1827,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
 1313,6104,"1827, Ann birth",Ann,1827,birth,crossed out (dead?),2,,,,http://slaveryarchive.georgetown.edu/items/show/44
+3660,5200,"1754-11-24, Girl baptism",Girl,1754-11-24,baptism,"Died May 9, 1756 – godfather David – godmother Mrs. Cat Farrel",1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3661,5201,"1755-11-11, John baptism",John,1755-11-11,baptism,Child of Nanny - godfather Isaac - godmother Betty,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3662,5202,"1756-12-07, Prudens baptism",Prudens,1756-12-07,baptism,Child of Molly – godfather Davi – godmother Betty,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3663,5203,"1756-10-22, John baptism",John,1756-10-22,baptism,Child of Molly – godfather Davi – godmother Betty,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
+3665,5205,"1760-12, Sara baptism",Sara,1760-12,baptism,Child of Mary,1,Mr. Manners,,,http://slaveryarchive.georgetown.edu/items/show/276
 1287,6068,"1806-04-05, Henny birth",Henny,1806-04-05,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
 1288,6070,"1807-11-07, John birth",John,1807-11-07,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
 1289,6073,"1809-08-16, Bill birth",Bill,1809-08-16,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
@@ -32,9 +37,4 @@ bio:particpant,Identifier,dcterms:title ,Name,bio:date,dcterms:type,dcterms:desc
 1316,6107,"1831-03-03, Mary birth",Mary,1831-03-03,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
 1318,6109,"1831-09-03, Priscilla birth",Priscilla,1831-09-03,birth,,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
 1319,6110,"1831-12-12, Nicholas birth",Nicholas,1831-12-12,birth,crossed out and indicated dead,2,,,,http://slaveryarchive.georgetown.edu/items/show/44
-3660,5200,"1754-11-24, Girl baptism",Girl,1754-11-24,baptism,"Died May 9, 1756 – godfather David – godmother Mrs. Cat Farrel",1,,,,http://slaveryarchive.georgetown.edu/items/show/276
-3661,5201,"1755-11-11, John baptism",John,1755-11-11,baptism,Child of Nanny - godfather Isaac - godmother Betty,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
-3662,5202,"1756-12-07, Prudens baptism",Prudens,1756-12-07,baptism,Child of Molly – godfather Davi – godmother Betty,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
-3663,5203,"1756-10-22, John baptism",John,1758-10-22,baptism,Child of Molly – godfather Davi – godmother Betty,1,,,,http://slaveryarchive.georgetown.edu/items/show/276
-3664,5204,Robert baptism,Robert,,baptism,Child of Nanny ,1,Revd. Mr. Harding,,,http://slaveryarchive.georgetown.edu/items/show/276
-3665,5205,"1760-12, Sara baptism",Sara,1760-12,baptism,Child of Mary,1,Mr. Manners,,,http://slaveryarchive.georgetown.edu/items/show/276
+3664,5204,"1756, Robert baptism",Robert,1756,baptism,Child of Nanny ,1,Revd. Mr. Harding,,,http://slaveryarchive.georgetown.edu/items/show/276
