@@ -250,6 +250,16 @@ dcterms:identifier ,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,s
 2293,Enoch,Enoch,,enslaved person,1818-03,clothing,,,shoes made by John Dorsey,account book,,,,,,,,,,,,,knows of John Dorsey,NJ039,1063,,,,,,,3,Joseph Mobberly,J030,995,,,,MPA-44-1-StInigosRentLedger-1804-1832.json,,knows of John Dorsey,NJ039,,
 2294,Tom,Tom,,enslaved person,1818-03,clothing,,,shoes made by John Dorsey,account book,,,,,,,,,,,,,knows of John Dorsey,NJ039,1063,,,,,,,3,Joseph Mobberly,J030,995,,,,MPA-44-1-StInigosRentLedger-1804-1832.json,,knows of John Dorsey,NJ039,,
 2295,Ned,Ned,,enslaved person,1818-03,clothing,,,shoes made by John Dorsey,account book,,,,,,,,,,,,,knows of John Dorsey,NJ039,1063,,,,,,,3,Joseph Mobberly,J030,995,,,,MPA-44-1-StInigosRentLedger-1804-1832.json,,knows of John Dorsey,NJ039,,
+2300,Thomas,Thomas,,enslaved person,1760,inventory,,,,account book,,,,,,,,,,,,,,,,,,,,,,3,Arnold Livers,J062,,,,,https://slaveryarchive.georgetown.edu/items/show/356,,,,,
+2301,Susan ,Susan ,,enslaved person,1760,inventory,,,,account book,,,,,,,Nacy,2530,,,,,,,,,,,,,,,,,,,,,,,,,,
+2302,Briget,Briget,,enslaved person,1760,inventory,,,,,,,,,,,Abram,2000,,,,,,,,,,,,,,,,,,,,,,,,,,
+2303,Peter,Peter,,enslaved person,1760,inventory,,,,,,,,,,,Bess,2304,,,,,,,,,,,,,,,,,,,,,,,,,,
+2304,Bess,Bess,,enslaved person,1760,inventory,,,,,,,,,,,Peter,2304,,,,,,,,,,,,,,,,,,,,,,,,,,
+2305,James  ,James  ,,enslaved person,1760,inventory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2306,Abram,Abram,,enslaved person,1760,inventory,,,,,,,,,,,Ann,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2307,Walter,Walter,,enslaved person,1760,inventory,,,,,,,,,,,Abram,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2308,Mary or Martha,Mary or Martha,,enslaved person,1760,inventory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2309,Walter,Walter,,enslaved person,1760,inventory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3000,Mary,Mary,,enslaved person,1765-12-27,baptism,,,,sacramental record,,,,,,,,,,,,,,,,,,,,,,4,Joseph Mosley,J003,968,,,,http://slaveryarchive.georgetown.edu/items/show/54,,sibling of ,3001,sibling of,3002
 3001,Davy,Davy,,enslaved person,1765-12-27,witness,,,,sacramental record,,,,,,,,,,,,,,,,,,,,,,4,Joseph Mosley,J003,968,,,,http://slaveryarchive.georgetown.edu/items/show/54,,sibling of ,3000,sibling of,3002
 3002,Lucy,Lucy,,enslaved person,1765-12-27,witness,,,,sacramental record,,,,,,,,,,,,,,,,,,,,,,4,Joseph Mosley,J003,968,,,,http://slaveryarchive.georgetown.edu/items/show/54,,sibling of ,3000,sibling of ,3001
