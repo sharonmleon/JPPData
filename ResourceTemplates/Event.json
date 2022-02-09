@@ -6,8 +6,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "literal",
-            "data_type_label": "Text",
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
             "vocabulary_label": "Dublin Core",
             "local_name": "title",
@@ -18,8 +22,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "resource:item",
-            "data_type_label": "Item",
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/bio\/0.1\/",
             "vocabulary_label": "Bio",
             "local_name": "participant",
@@ -30,8 +38,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "customvocab:1",
-            "data_type_label": "Event Types",
+            "data_types": [
+                {
+                    "name": "customvocab:1",
+                    "label": "Event Types"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
             "vocabulary_label": "Dublin Core",
             "local_name": "type",
@@ -42,8 +54,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "numeric:timestamp",
-            "data_type_label": "Timestamp",
+            "data_types": [
+                {
+                    "name": "numeric:timestamp",
+                    "label": "Timestamp"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/bio\/0.1\/",
             "vocabulary_label": "Bio",
             "local_name": "date",
@@ -54,8 +70,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "literal",
-            "data_type_label": "Text",
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
             "vocabulary_label": "Dublin Core",
             "local_name": "description",
@@ -66,8 +86,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "numeric:integer",
-            "data_type_label": "Integer",
+            "data_types": [
+                {
+                    "name": "numeric:integer",
+                    "label": "Integer"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
             "vocabulary_label": "Friend of a Friend",
             "local_name": "age",
@@ -78,8 +102,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "literal",
-            "data_type_label": "Text",
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "comment",
@@ -90,8 +118,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "resource:item",
-            "data_type_label": "Item",
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/bio\/0.1\/",
             "vocabulary_label": "Bio",
             "local_name": "witness",
@@ -102,8 +134,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "resource:item",
-            "data_type_label": "Item",
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
             "vocabulary_label": "Relationship",
             "local_name": "knowsOf",
@@ -114,8 +150,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "resource:item",
-            "data_type_label": "Item",
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/bio\/0.1\/",
             "vocabulary_label": "Bio",
             "local_name": "officiator",
@@ -126,8 +166,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "resource:item",
-            "data_type_label": "Item",
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "buyer",
@@ -138,8 +182,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "resource:item",
-            "data_type_label": "Item",
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "seller",
@@ -150,8 +198,7 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "currency",
@@ -162,8 +209,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "numeric:integer",
-            "data_type_label": "Integer",
+            "data_types": [
+                {
+                    "name": "numeric:integer",
+                    "label": "Integer"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "totalPrice",
@@ -174,8 +225,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "literal",
-            "data_type_label": "Text",
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "priceSpecification",
@@ -186,8 +241,12 @@
             "o:alternate_comment": "PnY",
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "literal",
-            "data_type_label": "Text",
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "duration",
@@ -198,20 +257,50 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "resource:item",
-            "data_type_label": "Item",
+            "data_types": [
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "location",
             "label": "location"
         },
         {
+            "o:alternate_label": "Origin",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_types": [],
+            "vocabulary_namespace_uri": "http:\/\/schema.org\/",
+            "vocabulary_label": "Schema",
+            "local_name": "fromLocation",
+            "label": "fromLocation"
+        },
+        {
+            "o:alternate_label": "Destination",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_types": [],
+            "vocabulary_namespace_uri": "http:\/\/schema.org\/",
+            "vocabulary_label": "Schema",
+            "local_name": "toLocation",
+            "label": "toLocation"
+        },
+        {
             "o:alternate_label": null,
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "uri",
-            "data_type_label": "URI",
+            "data_types": [
+                {
+                    "name": "uri",
+                    "label": "URI"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
             "vocabulary_label": "Dublin Core",
             "local_name": "source",

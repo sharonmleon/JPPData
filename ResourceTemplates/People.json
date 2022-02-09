@@ -6,8 +6,12 @@
             "o:alternate_comment": null,
             "o:is_required": true,
             "o:is_private": false,
-            "data_type_name": "literal",
-            "data_type_label": "Text",
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
             "vocabulary_label": "Dublin Core",
             "local_name": "title",
@@ -18,8 +22,7 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
             "vocabulary_label": "Dublin Core",
             "local_name": "identifier",
@@ -30,8 +33,7 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
             "vocabulary_label": "Friend of a Friend",
             "local_name": "firstName",
@@ -42,8 +44,7 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
             "vocabulary_label": "Friend of a Friend",
             "local_name": "lastName",
@@ -54,8 +55,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "customvocab:3",
-            "data_type_label": "Gender",
+            "data_types": [
+                {
+                    "name": "customvocab:3",
+                    "label": "Gender"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
             "vocabulary_label": "Friend of a Friend",
             "local_name": "gender",
@@ -65,9 +70,13 @@
             "o:alternate_label": "Date of first appearance in archival sources",
             "o:alternate_comment": null,
             "o:is_required": false,
-            "o:is_private": false,
-            "data_type_name": "numeric:timestamp",
-            "data_type_label": "Timestamp",
+            "o:is_private": true,
+            "data_types": [
+                {
+                    "name": "numeric:timestamp",
+                    "label": "Timestamp"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "foundingDate",
@@ -78,8 +87,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "numeric:timestamp",
-            "data_type_label": "Timestamp",
+            "data_types": [
+                {
+                    "name": "numeric:timestamp",
+                    "label": "Timestamp"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/bio\/0.1\/",
             "vocabulary_label": "Bio",
             "local_name": "birth",
@@ -90,8 +103,12 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "numeric:timestamp",
-            "data_type_label": "Timestamp",
+            "data_types": [
+                {
+                    "name": "numeric:timestamp",
+                    "label": "Timestamp"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/bio\/0.1\/",
             "vocabulary_label": "Bio",
             "local_name": "death",
@@ -102,8 +119,12 @@
             "o:alternate_comment": "Last date associated with the SJs",
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "numeric:timestamp",
-            "data_type_label": "Timestamp",
+            "data_types": [
+                {
+                    "name": "numeric:timestamp",
+                    "label": "Timestamp"
+                }
+            ],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "endDate",
@@ -114,44 +135,50 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
             "vocabulary_label": "Dublin Core",
             "local_name": "description",
             "label": "Description"
         },
         {
-            "o:alternate_label": "Status",
+            "o:alternate_label": null,
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "customvocab:2",
-            "data_type_label": "Status",
-            "vocabulary_namespace_uri": "http:\/\/xmlns.com\/foaf\/0.1\/",
-            "vocabulary_label": "Friend of a Friend",
-            "local_name": "status",
-            "label": "status"
+            "data_types": [
+                {
+                    "name": "customvocab:2",
+                    "label": "Status"
+                }
+            ],
+            "vocabulary_namespace_uri": "https:\/\/onthesegrounds.org\/vocab#",
+            "vocabulary_label": "OTG Events Vocab",
+            "local_name": "freedomStatus",
+            "label": "Freedom Status"
         },
         {
-            "o:alternate_label": "Occupation",
+            "o:alternate_label": null,
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
-            "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/bio\/0.1\/",
-            "vocabulary_label": "Bio",
-            "local_name": "position",
-            "label": "Position"
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                }
+            ],
+            "vocabulary_namespace_uri": "https:\/\/onthesegrounds.org\/vocab#",
+            "vocabulary_label": "OTG Events Vocab",
+            "local_name": "hasOccupation",
+            "label": "Occupation"
         },
         {
-            "o:alternate_label": "Parent",
+            "o:alternate_label": null,
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
             "vocabulary_label": "Relationship",
             "local_name": "childOf",
@@ -162,32 +189,29 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
             "vocabulary_label": "Relationship",
             "local_name": "siblingOf",
             "label": "Sibling Of"
         },
         {
-            "o:alternate_label": "Spouse",
+            "o:alternate_label": "Spouse or Partner Of",
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
             "vocabulary_label": "Relationship",
             "local_name": "spouseOf",
             "label": "Spouse Of"
         },
         {
-            "o:alternate_label": "Child",
+            "o:alternate_label": null,
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
             "vocabulary_label": "Relationship",
             "local_name": "parentOf",
@@ -198,8 +222,7 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
             "vocabulary_label": "Relationship",
             "local_name": "knowsOf",
@@ -210,20 +233,27 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": "resource:item",
-            "data_type_label": "Item",
-            "vocabulary_namespace_uri": "http:\/\/purl.org\/vocab\/relationship",
-            "vocabulary_label": "Relationship",
-            "local_name": "employedBy",
-            "label": "Employed By"
+            "data_types": [
+                {
+                    "name": "literal",
+                    "label": "Text"
+                },
+                {
+                    "name": "resource:item",
+                    "label": "Item"
+                }
+            ],
+            "vocabulary_namespace_uri": "https:\/\/onthesegrounds.org\/vocab#",
+            "vocabulary_label": "OTG Events Vocab",
+            "local_name": "enslaver",
+            "label": "Enslaver"
         },
         {
             "o:alternate_label": "Home Location",
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/schema.org\/",
             "vocabulary_label": "Schema",
             "local_name": "homeLocation",
@@ -234,12 +264,27 @@
             "o:alternate_comment": null,
             "o:is_required": false,
             "o:is_private": false,
-            "data_type_name": null,
-            "data_type_label": null,
+            "data_types": [],
             "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
             "vocabulary_label": "Dublin Core",
             "local_name": "isReferencedBy",
             "label": "Is Referenced By"
+        },
+        {
+            "o:alternate_label": "Same as",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_types": [
+                {
+                    "name": "uri",
+                    "label": "URI"
+                }
+            ],
+            "vocabulary_namespace_uri": "http:\/\/schema.org\/",
+            "vocabulary_label": "Schema",
+            "local_name": "sameAs",
+            "label": "sameAs"
         }
     ],
     "o:resource_class": {

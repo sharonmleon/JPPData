@@ -1,0 +1,236 @@
+Year of Date Data,Month of Date Data,Date,Estate,City,State,Max. Fahrenheit Temperature Data,Min. Fahrenheit Temperature Data,Central Temperature
+1788,1,1788-1,,Paris,,51,28,40
+1788,2,1788-2,,Paris,,55,29,46.5
+1788,3,1788-3,,Paris,,45,38,45
+1788,4,1788-4,,Paris,,79,45,63.5
+1788,5,1788-5,,Paris,,81,48,67
+1788,6,1788-6,,Paris,,83,53,68.5
+1788,7,1788-7,,Paris,,86,54,69.5
+1788,8,1788-8,,Paris,,79,53,63
+1788,9,1788-9,,Paris,,81,47,56.5
+1788,10,1788-10,,Paris,,70,32,39
+1788,11,1788-11,,Paris,,63,8,30.75
+1788,12,1788-12,,Paris,,39,-1.5,24
+1791,1,1791-1,,Philadelphia, Pa.,53,9,31.5
+1791,2,1791-2,,Philadelphia, Pa.,59,10,43
+1791,3,1791-3,,Philadelphia, Pa.,81,27,58.5
+1791,4,1791-4,,Philadelphia, Pa.,79,36,63
+1791,5,1791-5,,Philadelphia, Pa.,82,47,71.5
+1791,7,1791-7,,Philadelphia, Pa.,94,61,75.5
+1791,8,1791-8,,Philadelphia, Pa.,93,57,60
+1791,11,1791-11,,Philadelphia, Pa.,64,27,42
+1791,12,1791-12,,Philadelphia, Pa.,61,20,29
+1792,1,1792-1,,Philadelphia, Pa.,46,-3,30.5
+1792,2,1792-2,,Philadelphia, Pa.,47,15,36
+1792,3,1792-3,,Philadelphia, Pa.,70,25,52.5
+1792,4,1792-4,,Philadelphia, Pa.,73,35,58.5
+1792,5,1792-5,,Philadelphia, Pa.,91,44,71
+1792,6,1792-6,,Philadelphia, Pa.,91,51,74.5
+1792,7,1792-7,,,,92,58,76.5
+1792,8,1792-8,,,,91,61,69
+1792,9,1792-9,Monticello, Charlottesville, Va.,77,47,55
+1792,10,1792-10,,Philadelphia, Pa.,75,33,52.5
+1792,11,1792-11,,Philadelphia, Pa.,64,30,42.5
+1792,12,1792-12,,Philadelphia, Pa.,49,21,36
+1794,1,1794-1,,,,55,23,34.5
+1794,2,1794-2,Monticello, Charlottesville, Va.,56,14,38
+1794,3,1794-3,Monticello, Charlottesville, Va.,70,20,52
+1794,4,1794-4,Monticello, Charlottesville, Va.,71,34,60.5
+1794,5,1794-5,,,,83,50,70.5
+1794,6,1794-6,,,,81,58,68.5
+1794,7,1794-7,Monticello, Charlottesville, Va.,82,56,70.5
+1794,8,1794-8,Monticello, Charlottesville, Va.,88,59,69.5
+1794,9,1794-9,Monticello, Charlottesville, Va.,82,51,57
+1794,10,1794-10,Monticello, Charlottesville, Va.,70,32,44.5
+1794,11,1794-11,Monticello, Charlottesville, Va.,70,19,48
+1794,12,1794-12,Monticello, Charlottesville, Va.,58,26,34
+1795,1,1795-1,Monticello, Charlottesville, Va.,41,10,25.5
+1795,2,1795-2,Monticello, Charlottesville, Va.,52,10,34.5
+1795,3,1795-3,Monticello, Charlottesville, Va.,68,17,48
+1795,4,1795-4,Monticello, Charlottesville, Va.,79,28,62
+1795,5,1795-5,Monticello, Charlottesville, Va.,84,45,68.5
+1795,6,1795-6,Monticello, Charlottesville, Va.,79,53,70
+1795,7,1795-7,Monticello, Charlottesville, Va.,90,61,75
+1795,8,1795-8,Monticello, Charlottesville, Va.,84,60,63
+1795,9,1795-9,Monticello, Charlottesville, Va.,82,42,57.5
+1795,10,1795-10,Monticello, Charlottesville, Va.,71,33,52
+1795,11,1795-11,Monticello, Charlottesville, Va.,68,33,47
+1795,12,1795-12,Monticello, Charlottesville, Va.,57,26,29.375
+1796,1,1796-1,Monticello, Charlottesville, Va.,58,1.75,38
+1796,2,1796-2,Monticello, Charlottesville, Va.,61,18,40
+1796,3,1796-3,Monticello, Charlottesville, Va.,74,19,54.5
+1796,4,1796-4,Monticello, Charlottesville, Va.,79,35,59.5
+1796,5,1796-5,Monticello, Charlottesville, Va.,79,40,67.5
+1796,6,1796-6,Monticello, Charlottesville, Va.,86,56,73
+1796,7,1796-7,Monticello, Charlottesville, Va.,88,60,71.5
+1796,8,1796-8,Monticello, Charlottesville, Va.,87,55,65
+1796,9,1796-9,Monticello, Charlottesville, Va.,83,43,61.5
+1796,10,1796-10,Monticello, Charlottesville, Va.,76,40,44
+1796,11,1796-11,Monticello, Charlottesville, Va.,69,12,32
+1796,12,1796-12,Monticello, Charlottesville, Va.,50,-5,34.5
+1799,3,1799-3,,,,74,19,53
+1799,4,1799-4,Monticello, Charlottesville, Va.,77,32,59.5
+1799,5,1799-5,Monticello, Charlottesville, Va.,85,42,70
+1799,6,1799-6,Monticello, Charlottesville, Va.,92,55,77
+1799,7,1799-7,Monticello, Charlottesville, Va.,90,62,76
+1799,8,1799-8,Monticello, Charlottesville, Va.,86,62,68
+1799,9,1799-9,Monticello, Charlottesville, Va.,89,50,62.5
+1799,10,1799-10,Monticello, Charlottesville, Va.,75,36,49.5
+1799,11,1799-11,Monticello, Charlottesville, Va.,64,24,43
+1799,12,1799-12,Monticello, Charlottesville, Va.,50,22,30.5
+1803,1,1803-1,,Washington, D.C.,61,11,31.5
+1803,2,1803-2,,,,63,2,38.25
+1803,3,1803-3,,,,46,13.5,41
+1803,4,1803-4,,,,87,36,57.5
+1803,5,1803-5,,,,86,28,69
+1803,6,1803-6,,Washington, D.C.,94,52,75.5
+1803,7,1803-7,,,,98.5,57,77.5
+1803,8,1803-8,Monticello, Charlottesville, Va.,90,56.5,68.75
+1803,9,1803-9,,,,77,47.5,58
+1803,10,1803-10,,Washington, D.C.,79,39,51.5
+1803,11,1803-11,,,,67,24,42.5
+1803,12,1803-12,,,,61,18,25.5
+1804,1,1804-1,,,,52,-10,31
+1804,2,1804-2,,Washington, D.C.,52,10,37
+1804,3,1804-3,,,,67,22,48
+1804,4,1804-4,,,,81,29,62.75
+1804,5,1804-5,,,,91,44.5,74.5
+1804,6,1804-6,,Washington, D.C.,93,58,78.5
+1804,7,1804-7,,,,95.5,64,78.75
+1804,8,1804-8,Monticello, Charlottesville, Va.,92.5,62,70.25
+1804,9,1804-9,Monticello, Charlottesville, Va.,98.5,48,66.75
+1804,10,1804-10,,,,76,35,52
+1804,11,1804-11,,Washington, D.C.,71,28,30
+1804,12,1804-12,,,,57,-11,17.5
+1805,1,1805-1,,,,53,-22,32.5
+1805,2,1805-2,,Washington, D.C.,53,12,37
+1805,3,1805-3,,,,79,21,58
+1805,4,1805-4,,,,81,37,60.5
+1805,5,1805-5,,Washington, D.C.,86,40,69.5
+1805,6,1805-6,,Washington, D.C.,93,53,76.5
+1805,7,1805-7,,,,97.5,60,80.25
+1805,8,1805-8,Monticello, Charlottesville, Va.,89,63,71
+1805,9,1805-9,Monticello, Charlottesville, Va.,85,53,57
+1805,10,1805-10,,,,75,29,52
+1805,11,1805-11,,Washington, D.C.,68,29,44.5
+1805,12,1805-12,,Washington, D.C.,64,21,36.5
+1806,1,1806-1,,,,66,9,43.5
+1806,2,1806-2,,Washington, D.C.,65,21,43.5
+1806,3,1806-3,,Washington, D.C.,80,22,52
+1806,4,1806-4,,Washington, D.C.,76,24,59
+1806,5,1806-5,,,,88,42,73.5
+1806,6,1806-6,,,,96,59,77
+1806,7,1806-7,,,,95,58,76.5
+1806,8,1806-8,,,,91.5,58,73.25
+1806,9,1806-9,Monticello, Charlottesville, Va.,92,55,65.5
+1806,10,1806-10,,Washington, D.C.,80,39,55
+1806,11,1806-11,,,,67,30,40.5
+1806,12,1806-12,,Washington, D.C.,60,14,13.5
+1807,1,1807-1,,,,50,-33,26
+1807,2,1807-2,,Washington, D.C.,54,2,40
+1807,3,1807-3,,Washington, D.C.,59,26,45.5
+1807,4,1807-4,,,,81,32,59.25
+1807,5,1807-5,,,,84,37.5,66.5
+1807,6,1807-6,,Washington, D.C.,95,49,77
+1807,7,1807-7,,Washington, D.C.,95,59,77
+1807,8,1807-8,,,,85,59,67.5
+1807,9,1807-9,,,,86,50,59.25
+1807,10,1807-10,,,,77,32.5,48
+1807,11,1807-11,,Washington, D.C.,65,19,45
+1807,12,1807-12,,Washington, D.C.,60,25,32
+1808,1,1808-1,,Washington, D.C.,52,4,34.5
+1808,2,1808-2,,Washington, D.C.,64,17,44
+1808,3,1808-3,,Washington, D.C.,72,24,52
+1808,4,1808-4,,Washington, D.C.,83,32,64
+1808,5,1808-5,,,,80,45,66
+1808,6,1808-6,,,,96,52,78
+1808,7,1808-7,,,,98.5,60,77.25
+1808,8,1808-8,Monticello, Charlottesville, Va.,88,56,64
+1808,9,1808-9,,,,86,40,58
+1808,10,1808-10,,,,75,30,48
+1808,11,1808-11,,,,66,21,43.5
+1808,12,1808-12,,Washington, D.C.,62,21,36
+1809,1,1809-1,,Washington, D.C.,48,10,13.25
+1809,2,1809-2,,,,53,-21.5,37
+1809,3,1809-3,,,,74,21,54.5
+1809,4,1809-4,Monticello, Charlottesville, Va.,85,35,65
+1809,5,1809-5,Monticello, Charlottesville, Va.,84,45,66.5
+1809,6,1809-6,Monticello, Charlottesville, Va.,92,49,76
+1809,7,1809-7,Monticello, Charlottesville, Va.,84,60,71.5
+1809,8,1809-8,Monticello, Charlottesville, Va.,90,59,68
+1809,9,1809-9,Monticello, Charlottesville, Va.,84,46,69
+1809,10,1809-10,,,,86,54,52.5
+1809,11,1809-11,Monticello, Charlottesville, Va.,68,19,43.5
+1809,12,1809-12,Monticello, Charlottesville, Va.,67,19,36.25
+1810,1,1810-1,Monticello, Charlottesville, Va.,66,5.5,39
+1810,2,1810-2,Monticello, Charlottesville, Va.,73,12,46.5
+1810,3,1810-3,,,,61,20,51.5
+1810,4,1810-4,,,,81,42,62
+1810,5,1810-5,Monticello, Charlottesville, Va.,88,43,70.5
+1810,6,1810-6,,,,87,53,73.5
+1810,7,1810-7,Monticello, Charlottesville, Va.,88,60,71.5
+1810,8,1810-8,,,,90,55,70
+1810,9,1810-9,,,,81,50,56.5
+1810,10,1810-10,Monticello, Charlottesville, Va.,82,32,54.5
+1810,11,1810-11,Monticello, Charlottesville, Va.,69,27,42.5
+1810,12,1810-12,,,,62,16,33.75
+1812,1,1812-1,Monticello, Charlottesville, Va.,53,5.5,37
+1812,2,1812-2,Monticello, Charlottesville, Va.,75,21,49.5
+1812,3,1812-3,Monticello, Charlottesville, Va.,70,24,50.5
+1812,4,1812-4,Monticello, Charlottesville, Va.,86,31,62.5
+1812,5,1812-5,,,,86,39,72
+1812,6,1812-6,Monticello, Charlottesville, Va.,92.5,58,74.75
+1812,7,1812-7,Monticello, Charlottesville, Va.,91,57,76
+1812,8,1812-8,,,,87,61,67
+1812,9,1812-9,,,,75,47,57
+1812,10,1812-10,Monticello, Charlottesville, Va.,80,39,49
+1812,11,1812-11,,,,76,18,44.5
+1812,12,1812-12,,,,63,13,38
+1813,1,1813-1,Monticello, Charlottesville, Va.,66,13,42.5
+1813,2,1813-2,Monticello, Charlottesville, Va.,65,19,46.5
+1813,3,1813-3,Monticello, Charlottesville, Va.,71,28,54.5
+1813,4,1813-4,,,,80,38,63.5
+1813,5,1813-5,,,,81,47,67.5
+1813,6,1813-6,Monticello, Charlottesville, Va.,93,54,76.5
+1813,7,1813-7,Monticello, Charlottesville, Va.,94.5,60,78.25
+1813,8,1813-8,,,,92,62,71.5
+1813,9,1813-9,,,,83,51,57.5
+1813,10,1813-10,Monticello, Charlottesville, Va.,70,32,45
+1813,11,1813-11,,,,71,20,44.5
+1813,12,1813-12,,,,53,18,34.75
+1814,1,1814-1,Monticello, Charlottesville, Va.,55,16.5,34.5
+1814,2,1814-2,Monticello, Charlottesville, Va.,65,14,39.25
+1814,3,1814-3,Monticello, Charlottesville, Va.,73,13.5,54
+1814,4,1814-4,Monticello, Charlottesville, Va.,82,35,64.5
+1814,5,1814-5,,,,91,47,74
+1814,6,1814-6,,,,87,57,73.5
+1814,7,1814-7,Monticello, Charlottesville, Va.,89,60,72.5
+1814,8,1814-8,,,,88,56,70
+1814,9,1814-9,Monticello, Charlottesville, Va.,89,52,63
+1814,10,1814-10,,,,83,37,53
+1814,11,1814-11,,,,71,23,44.5
+1814,12,1814-12,Monticello, Charlottesville, Va.,59,18,29
+1815,1,1815-1,,,,60,-1,38
+1815,2,1815-2,Monticello, Charlottesville, Va.,57,16,44
+1815,3,1815-3,Monticello, Charlottesville, Va.,80,31,60.5
+1815,4,1815-4,Monticello, Charlottesville, Va.,82,41,59.3333333335
+1815,5,1815-5,,,,77,36.666666667,65.5
+1815,6,1815-6,,,,88,54,75.5
+1815,7,1815-7,Monticello, Charlottesville, Va.,89,63,73.5
+1815,8,1815-8,,,,84,58,64.5
+1815,9,1815-9,,,,69,45,53.75
+1815,10,1815-10,,,,76,38.5,48
+1815,11,1815-11,,,,56,20,34
+1815,12,1815-12,,,,57,12,36
+1816,1,1816-1,Monticello, Charlottesville, Va.,51,15,30.5
+1816,2,1816-2,Monticello, Charlottesville, Va.,62,10,42.5
+1816,3,1816-3,Monticello, Charlottesville, Va.,75,23,52.5
+1816,4,1816-4,,,,71,30,57
+1816,5,1816-5,,,,79,43,65
+1816,6,1816-6,,,,86,51,68.5
+1816,7,1816-7,,,,86,51,68.375
+1816,8,1816-8,,,,90,50.75,66.5
+1816,9,1816-9,,,,90.5,43,63.75
+1816,10,1816-10,,,,75,37,47
+1816,11,1816-11,Poplar Forest, Bedford, Va.,71,19,47
+1816,12,1816-12,,,,69,23,34.5
