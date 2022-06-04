@@ -1,63 +1,75 @@
-OS-ID,Identifier,Title,Date,Date type,Note,Type,Location,SJ,Identifier,SJ,Identifier,Source
-1202,3040,John Baptist,1781-09-06,death,,sacramental record,St. Joseph's,Joseph Mosley,,,,http://slaveryarchive.georgetown.edu/items/show/54
-1270,6014,Agnes,1784-05-18,death,,inventory,Newtown,,,,,1782-MPA-44-4-NewtownDayBook-loose-SlaveList-1782-1796.json
-1320,6121,Gabe,1790-02-14,death,,inventory,Newtown,,,,,1782-MPA-44-4-NewtownDayBook-loose-SlaveList-1782-1796.json
-1442,5058,Stephen,1796-08-03,death,cancer,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1394,2224,Old Billy,1806-1812,death,"Old Billy laboring about three years under a complaint which Physicians called fistula in ano, at length died being about 65 years old ??? between 1806 and 1812",letter,St. Inigoe's Manor,Joseph Mobberly,J030,,,MPA-57-3-Mobberly-Grassi-DeathsAtStInigoes-1812.json
-1395,2225,Old Sucky,1806-1812,death,"Old Sucky died with old age, being 96 years old according to the family record, tho?? she often told me she was more than 100 ??? between 1806-1812",letter,St. Inigoe's Manor,Joseph Mobberly,J030,,,MPA-57-3-Mobberly-Grassi-DeathsAtStInigoes-1812.json
-1396,2226,Old Matthew,1806-1812,death,"Old Mathew also died with old age, being 99 years and 6 months old, tho?? he often said he was much older",letter,St. Inigoe's Manor,Joseph Mobberly,J030,,,MPA-57-3-Mobberly-Grassi-DeathsAtStInigoes-1812.json
-1397,2227,Little Sucky,1806-1812,death,"Little Sucky having been troubled with fits 3 or 4 years, at length fell twice into the fire, was most shockingly burnt and died a few days after ???between 1806 and 1812",letter,St. Inigoe's Manor,Joseph Mobberly,J030,,,MPA-57-3-Mobberly-Grassi-DeathsAtStInigoes-1812.json
-,,Betsy,1806-1812,death,"Betsy, the Blacksmith’s wife died in childbed with twins, of which she could not possibly be delivered, tho’ every exertion was made by 2 physicians and a midwife.",letter,St. Inigoe's Manor,Joseph Mobberly,J030,,,MPA-57-3-Mobberly-Grassi-DeathsAtStInigoes-1812.json
-1871,7001,Sarah ,1809-06-26,death,report of death,,Arabia Petrea,Francis Beestow,J016,,,"""C:\Users\sharonmleon\Dropbox\JPPDigital\MPA-24-1-ProceedingsoftheCorporationVol1-1809-06-26.json"""
-1670,2228,Old Nacy,1815-02-15,death,,letter,St. Inigoe's Manor,Joseph Mobberly,J030,,,MPA-57-3-Mobberly-Grassi-DeathsAtStInigoes-1812.json
-1212,4112,Simon,1820-07-18,death,,sacramental record,White Marsh,F. Van Quickenborne,J055,,,1818-MPC-3-4-WhiteMarshBaptismalRegistry-1818-1822.json
-1687,5055,Barney,1824-05-24,death,arrived house at nine where I found our old Banney dead & buried during my absences (Barney?),letter,Bohemia,Peter Epinette,J043,,,MPA-60-6-Epinette-McElroy-1824-05-19.json
-1403,7094,Alzire,1826-03-08,death,,,Baltimore,J.W. Beschter,J040,Enoch Fenwick,J012,MPA-61-10-Beschter-EnochFenwick-1826-03-09.json
-1393,1109,Matthew,1826-11-02,death,from typhus,letter,St. Thomas's Manor,Francis Neale,J011,,,
-1181,1117,Eliza,1827-08-29,death,,,St. Thomas's Manor,Francis Neale,J011,,,http://slaveryarchive.georgetown.edu/items/show/62
-,,Dick ,1829-10-05,death,$5.00 paid for digging old Dick’s grave,account book,Georgetown,,,,,1829-1836-GUArchives-CashBook-1829-1836.json
-1818,6128,Michael,1831-01-06,death, Jan. 7th 1831. Buried old Michael who died yesterday after receiving all the sacraments. He belonged to Newtown and was aged about 80.,sacramental record,Newtown,,,,,MPA-101-9-NewtownSacramentalRegister-1819-1857.json
-1243,4212,Richard,1832-04-23,death,,sacramental record,White Marsh,Fidelis Grivel,J009,,,1818-MPC-3-4-WhiteMarshBaptismalRegistry-1818-1833.json
-,,,,,,,,,,,,
-1442,5058,Stephen,1790-09-25,health,Pd. Doctor Jones for cutting a Wen out of Negro Stephen’s forehead (a wen is a sebaceous cyst),account book,Bohemia,Robert Molyneax,,Doctor Jones,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
-,,Nace and Michael,1794-08-15,health,To Doctors bill for physic & attendance while in the sleep,account book,Other,George Fenwick,,Mrs. Prius,,1794-MPA-39-5-FenwickMemorandumBook-1794-1799.json
-,,,1821-10-17,health,Visit repd to negroes,bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1822-02-08,health,Visit repd to W.M. & Negroes,bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1822-02-27,health,Visiting do. To negro Boy,bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1822-03-28,health,Venesections to negro Girl,bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1822-04-14,health,Visit in the night to negro Girl,bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1822-04-24,health,Visit to N. Girl,bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1822-07-07,health,Visit to Negroes,bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1822-07-13,health,Visit to self & negroes,bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1822-08-20,health,"Visit do to self, W.M., & Negroes",bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1822-08-26,health,Visit to family,bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1822-11-05,health,Visit to Mss W & N. Girl,bill,St. Thomas's Manor,Francis Neale,J011,Dr. Joseph Lancaster,,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
-,,,1791-05-02,health,Pd. for nursing my Negros sick of the small pox,account book,Bohemia,Robert Molyneax,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
-1694,5075,Ned,1793-02-20,health,Taken ill at Dr. Mathews,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-,,,1795-06-23,health,"Paye au Dr. Matthews: 51.19.9 pour principal et. interest de ce qui lui rentent du pour les deux negres, achetez de lui le 10 Mars precedent",account book,Bohemia,,,Doctor Matthews,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
-,,,1806-10-26,health,"We have still 4 sick grown hands & 2 are employed in attending them, It is a comfort yr. they are all convalescents, & there are no new cases in the family (malarial fever)",letter,Newtown,Ignatius Brooke,,,,MPA-575-13-Brooke-Neale-SicknessAtNewtown-1806-10-26.json
-,,,1809-12-15,health,By pd. Theo. Woodward for negro woman being sick at his house & rd,account book,Newtown,,,,,1807-MPA-45-3-NewtownDayBook-1807-1816.json
-1436,7205,Williamson,1826-03-09,health,,,Baltimore,J.W. Beschter,J040,Enoch Fenwick,J012,MPA-61-10-Beschter-EnochFenwick-1826-03-09.json
-,,,1827-01-09,health,"On my return, I found that our family here had meet with severe chastisements. - a young married women had died, five men were confined with sickness as also six women, and five children…. P.S. There have been three deaths in our family + two more are expected-  (Typhoid)",letter,St. Thomas's Manor,Francis Neale,J011,,,MPA-62-13-FrancisNeale-Dzierozynski-Illness-1827-01-09.json
-,,Stephen,1832-09-14,health,Medical attendance  & taking ^care^ of servant man Stephen,account book,Georgetown,,,,,1829-1836-GUArchives-CashBook-1829-1836.json
-1438,5027,Kate,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1439,5032,James,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1440,5052,Henny,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1687,5055,Barney,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1441,5056,Bill ,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1442,5058,Stephen,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1689,5059,Dick ,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1443,5060,Luke,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-,5121,Charles,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1691,5062,Jack,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1444,5063,Lucy,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1445,5064,Fanny,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1932,5103,Jenny,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1447,5066,Dennis,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1448,5068,Patrick,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1449,5069,Amilia,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-3667,5207,Nelly,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1451,5071,John,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1452,5072,Joseph,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-1692,5073,Ralph,1791-02-22,health,inoculation,account book,Bohemia,,,,,1790-MPC-1-1-Records of Bohemia-1790.json
-,,Nace and Michael,1794-08-15,health,To annoculation of the Small Pox at 10L Each,account book,Other,George Fenwick,,Mrs. Prius,,1794-MPA-39-5-FenwickMemorandumBook-1794-1799.json
+bio:participant ,Identifier,dcterms:title,Title,bio:date,dcterms:type,dcterms:description,Type,Location,schema:location ,SJ,ID,relationship:knowsOf,Other participant,Identifier,relationship:knowsOf,dcterms:source
+1449,5069,"1791-02-22, Amilia, health",Amilia,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1687,5055,"1791-02-22, Barney, health",Barney,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1441,5056,"1791-02-22, Bill , health",Bill ,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+3709,5121,"1791-02-22, Charles, health",Charles,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1447,5066,"1791-02-22, Dennis, health",Dennis,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1689,5059,"1791-02-22, Dick , health",Dick ,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1445,5064,"1791-02-22, Fanny, health",Fanny,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1440,5052,"1791-02-22, Henny, health",Henny,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1691,5062,"1791-02-22, Jack, health",Jack,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1439,5032,"1791-02-22, James, health",James,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1932,5103,"1791-02-22, Jenny, health",Jenny,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1451,5071,"1791-02-22, John, health",John,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1452,5072,"1791-02-22, Joseph, health",Joseph,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1438,5027,"1791-02-22, Kate, health",Kate,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1444,5063,"1791-02-22, Lucy, health",Lucy,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1443,5060,"1791-02-22, Luke, health",Luke,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1694,5075,"1793-02-20, Ned, health",Ned,1793-02-20,health,Taken ill at Dr. Mathews,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+3667,5207,"1791-02-22, Nelly, health",Nelly,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1448,5068,"1791-02-22, Patrick, health",Patrick,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1692,5073,"1791-02-22, Ralph, health",Ralph,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1442,5058,"1790-09-25, Stephen, health",Stephen,1790-09-25,health,Pd. Doctor Jones for cutting a Wen out of Negro Stephen’s forehead (a wen is a sebaceous cyst),account book,Bohemia,1,Robert Molyneax,J005,970,Doctor Jones,NJ049,1074,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+4495,7301,"1832-09-14, Stephen, health",Stephen,1832-09-14,health,Medical attendance  & taking ^care^ of servant man Stephen,account book,Georgetown,7,,,,,,,1829-1836-GUArchives-CashBook-1829-1836.json
+1442,5058,"1791-02-22, Stephen, health",Stephen,1791-02-22,health,inoculation,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPC-1-1-Records of Bohemia-1790.json
+1436,7205,"1826-03-09, Williamson, health",Williamson,1826-03-09,health,,,Baltimore,Baltimore,J.W. Beschter,J040,1005,Enoch Fenwick,J012,977,MPA-61-10-Beschter-EnochFenwick-1826-03-09.json
+,,"1821-10-17, unnamed people, health",unnamed people,1821-10-17,health,Visit repd to negroes,bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1822-02-08, unnamed people, health",unnamed people,1822-02-08,health,Visit repd to W.M. & Negroes,bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1822-02-27, unnamed boy, health",unnamed boy,1822-02-27,health,Visiting do. To negro Boy,bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1822-03-28, unnamed girl, health",unnamed girl,1822-03-28,health,Venesections to negro Girl,bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1822-04-14, unnamed girl, health",unnamed girl,1822-04-14,health,Visit in the night to negro Girl,bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1822-04-24, unnamed girl, health",unnamed girl,1822-04-24,health,Visit to N. Girl,bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1822-07-07, unnamed people, health",unnamed people,1822-07-07,health,Visit to Negroes,bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1822-07-13, unnamed people, health",unnamed people,1822-07-13,health,Visit to self & negroes,bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1822-08-20, unnamed people, health",unnamed people,1822-08-20,health,"Visit do to self, W.M., & Negroes",bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1822-08-26, unnamed people, health",unnamed people,1822-08-26,health,Visit to family,bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1822-11-05, unnamed girl, health",unnamed girl,1822-11-05,health,Visit to Mss W & N. Girl,bill,St. Thomas's Manor,5,Francis Neale,J011,976,Dr. Joseph Lancaster,,4493,1821-MPA-15-17-Neale-DrLancaster-AccountsVisits-1821-1822.json
+,,"1791-05-02, unnamed people, health",unnamed people,1791-05-02,health,Pd. for nursing my Negros sick of the small pox,account book,Bohemia,1,Robert Molyneax,J005,970,,,,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,"1795-06-23, 2 unnamed people, health",2 unnamed people,1795-06-23,health,"Paye au Dr. Matthews: 51.19.9 pour principal et. interest de ce qui lui rentent du pour les deux negres, achetez de lui le 10 Mars precedent",account book,Bohemia,1,,,,Doctor Matthews,NJ111,3724,1790-MPA-49-3-BohemiaDayBook-1790-1870.json
+,,"1806-10-26, 4 unnamed people, health",4 unnamed people,1806-10-26,health,"We have still 4 sick grown hands & 2 are employed in attending them, It is a comfort yr. they are all convalescents, & there are no new cases in the family (malarial fever)",letter,Newtown,2,Ignatius Brooks,J050,1015,,,,MPA-575-13-Brooke-Neale-SicknessAtNewtown-1806-10-26.json
+,,"1809-12-15, Woman, health",Woman,1809-12-15,health,By pd. Theo. Woodward for negro woman being sick at his house & rd,account book,Newtown,2,,,,,,,1807-MPA-45-3-NewtownDayBook-1807-1816.json
+,,"1827-01-09, 16 unnamed people, health",16 unnamed people,1827-01-09,health,"On my return, I found that our family here had meet with severe chastisements. - a young married women had died, five men were confined with sickness as also six women, and five children…. P.S. There have been three deaths in our family + two more are expected-  (Typhoid)",letter,St. Thomas's Manor,5,Francis Neale,J011,976,,,,MPA-62-13-FrancisNeale-Dzierozynski-Illness-1827-01-09.json
+4496,2310,"1835-07-10, Nancy, health",Nancy,1835-07-10,health,To visit by request servt. Nancy -- pres -- -- $4.00account book,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-07-11, Nancy, health",Nancy,1835-07-11,health,To visit repeat to Ziv [oz iv] Extract a sarsaparilla comp 3.50 [https://www.webmd.com/vitamins/ai/ingredientmono-379/sarsaparilla],account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-07-16, Nancy, health",Nancy,1835-07-16,health,To visit repeat. To prescription for Do. [sarsaparilla comp]  2.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-07-22, Nancy, health",Nancy,1835-07-22,health,To visit reptd. To 1 Bon Compound pills -- 4.00 ,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-08-15, Nancy, health",Nancy,1835-08-15,health,To vist repeated for Nancy,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4497,2311,"1835-08-15, Tracey, health",Tracey,1835-08-15,health,prescription for Tracey & child 3.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4498,2312,"1835-08-15, Tracey’s Child, health",Tracey’s Child,1835-08-15,health,prescription for Tracey & child 3.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-08-18, Nancy, health",Nancy,1835-08-18,health,To repeat visit for Nancy,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4497,2311,"1835-08-18, Tracey, health",Tracey,1835-08-18,health,prescription for Tracey & child 3.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4498,2312,"1835-08-18, Tracey’s Child, health",Tracey’s Child,1835-08-18,health,prescription for Tracey & child 3.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-08-22, Nancy, health",Nancy,1835-08-22,health,To visit repeated for Nancy 1 piece cast to ap for Nancy. & 6oz [Eil Josos](no idea what this is) 2.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-08-24, Nancy, health",Nancy,1835-08-24,health,To visit repeat & pres for Nancy – 1.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-09-05, Nancy, health",Nancy,1835-09-05,health,To visit repeat & pres for Nancy – 1.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+,,"1835-09-08, 9 unnamed people, health",9 unnamed people,1835-09-08,health,To visit by request & pres for 9 servants 6.50,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+,,"1835-09-09, 9 unnamed people, health",9 unnamed people,1835-09-09,health,To visit by request & pres for 9 servants. To zi. [dram i] [Hydragiro] & pres for same 6.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+,,"1835-09-10, 9 unnamed people, health",9 unnamed people,1835-09-10,health,To visit reptd. To pres for 9 servants – 6.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+1983,2243,"1835-09-10, Jno, health",Jno,1835-09-10,health,To Extracting [Dens] Molar for Jno. & 2 oz spiglia 1.50,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+,,"1835-09-15, 6 unnamed people, health",6 unnamed people,1835-09-15,health,To visit & prescription for 6 servants – 4.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+,,"1835-09-18, 5 unnamed people, health",5 unnamed people,1835-09-18,health,To medicine & advice for 5 servants – 3.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+,,"1835-09-19, 4 unnamed people, health",4 unnamed people,1835-09-19,health,To visit repeated for Mr. Neale & pres for 4 servants 2.50,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+,,"1835-09-20, 4 unnamed people, health",4 unnamed people,1835-09-20,health,To Do reptd for Do [Neale]. & advice for same [4 servants] 2.50,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+,,"1835-09-26, 4 unnamed people, health",4 unnamed people,1835-09-26,health,To visit by request for Mr. Sanders. 1 pito. Med & pres for 4 servants 6.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+,,"1835-09-27, 4 unnamed people, health",4 unnamed people,1835-09-27,health,To Do reptd for Mr. Sanders 1 pill hydrg. & pres for Do [4 servants] 3.50,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+,,"1835-09-28, 2 unnamed people, health",2 unnamed people,1835-09-28,health,To Do for Do [Sanders]  to 1 pill comp. To Do for 2 servants 3.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4499,2313,"1835-09-29, William , health",William ,1835-09-29,health,To Do for Do [Sanders] To medicine & pres for servt William 3.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-10-10, Nancy, health",Nancy,1835-10-10,health,To 1 Bottle Carpenters Comp Extra sarsaparilla for Nancy 2.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-10-10, Nancy, health",Nancy,1835-10-10,health,To visit Mr. Sachi & advice for Nancy ---- 2.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-10-12, Nancy, health",Nancy,1835-10-12,health,To visit Mr. Sachi & advice for Nancy. To pres. For Mr. Meochlelin 1.50,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-10-14, Nancy, health",Nancy,1835-10-14,health,To repeated visit for Nancy and others. To 1 Bottle [semplia cirate] 2.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+4496,2310,"1835-10-20, Nancy, health",Nancy,1835-10-20,health,To visit Mr. Meloclelin & 1 Botttle Comp [Jasaf] for Nancy 2.50,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+2695,8220,"1836-07-02, Betsy, health",Betsy,1836-07-02,health,To visit by request servant Betsy & Medicine 4.00,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+2695,8220,"1836-07-04, Betsy, health",Betsy,1836-07-04,health,To visit repeated for Betsy,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+2695,8220,"1836-07-06, Betsy, health",Betsy,1836-07-06,health,To visit repeated for Betsy & prescription 3.50,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json
+2695,8220,"1836-09-12, Betsy, health",Betsy,1836-09-12,health,To venesection for Betsy,account book,St. Inigoe’s Manor,3,William McShery,J027,992,Thomas Davis,,4492,1835-MPA-43-3-McSherry-Davis-MedicalAcct-1835-1837.json

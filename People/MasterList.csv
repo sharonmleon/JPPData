@@ -260,6 +260,10 @@ dcterms:identifier ,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,s
 2307,Walter,Walter,,enslaved person,1760,inventory,,,,,,,,,,,Abram,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2308,Mary or Martha,Mary or Martha,,enslaved person,1760,inventory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2309,Walter,Walter,,enslaved person,1760,inventory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2310,Nancy,Nancy,,enslaved person,1835-07-10,health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2311,Tracey,Tracey,,enslaved person,1835-08-15,health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2312,Tracey’s child,Tracey’s child,,enslaved person,1835-08-15,health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2313,William,William,,enslaved person,1835-09-29,health,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3000,Mary,Mary,,enslaved person,1765-12-27,baptism,,,,sacramental record,,,,,,,,,,,,,,,,,,,,,,4,Joseph Mosley,J003,968,,,,http://slaveryarchive.georgetown.edu/items/show/54,,sibling of ,3001,sibling of,3002
 3001,Davy,Davy,,enslaved person,1765-12-27,witness,,,,sacramental record,,,,,,,,,,,,,,,,,,,,,,4,Joseph Mosley,J003,968,,,,http://slaveryarchive.georgetown.edu/items/show/54,,sibling of ,3000,sibling of,3002
 3002,Lucy,Lucy,,enslaved person,1765-12-27,witness,,,,sacramental record,,,,,,,,,,,,,,,,,,,,,,4,Joseph Mosley,J003,968,,,,http://slaveryarchive.georgetown.edu/items/show/54,,sibling of ,3000,sibling of ,3001
@@ -964,3 +968,4 @@ dcterms:identifier ,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:status ,s
 7201,Mat ,Mat ,,enslaved person,1835-12-31,sale,,,for Negro boy Mat,account book,,,,,,,,,,,,,,,,,,,sold to John Hoover,NJ080,1105,7,,,,,,,GUArchives-DayBook-1830-1836.json,,sold to John Hoover,NJ080,,
 7202,Wat,Wat,,enslaved person,1806-05-20,sale,,,sold to Francis Neale at St. Inigoes,account book,,,,,,,,,,,,,,,,,,,sold to Francis Neale,J011,976,7,Francis Neale,J011,976,,,,GUArchives-Expenses-1801-1808.json,,sold to Francis Neale,J011,,
 7300,"Wife of Isaac Hawkins, I",,Hawkins,enslaved person,1838-11-06,mention,,,,letter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7301,Stephen,Stephen,,enslaved person,1832-09-14,health,,,Medical attendance  & taking ^care^ of servant man Stephen,account book,Georgetown,7,,,,,,,1829-1836-GUArchives-CashBook-1829-1836.json,,,,,,,,,,,,,,,,,,,,,,,,,

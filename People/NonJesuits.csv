@@ -8,9 +8,9 @@ os:id,dcterms:identifier ,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:sta
 1031,NJ007,John Butler,John,Butler,white lay person,Contract,
 1032,NJ008,Dorothy Digges,Dorothy,Digges,white lay person,,
 1033,NJ009,Nicholas Lewis Sewall,Nicholas Lewis,Sewall,white lay person,,
-1034,NJ010,Henry Young,Henry,Young,white lay person,purchasing enslaved people from White Marsh in 1824; Own s Nelly s husband Peter ,
-1035,NJ011,"Outerbridge Horsey, III",Outerbridge ,Horsey,white lay person,1832 sales talks   St. Thomas s;  John Lee s Brother-in-law ,
-1036,NJ012,John Lee,John,Lee,white lay person,1832 sales talks   St. Thomas s;  Horsey s Brother-in-Law ,
+1034,NJ010,Henry Young,Henry,Young,white lay person,purchasing enslaved people from White Marsh in 1824, Own s Nelly s husband Peter 
+1035,NJ011,"Outerbridge Horsey, III",Outerbridge ,Horsey,white lay person,1832 sales talks   St. Thomas s,  John Lee s Brother-in-law 
+1036,NJ012,John Lee,John,Lee,white lay person,1832 sales talks   St. Thomas s,  Horsey s Brother-in-Law 
 1037,NJ013,Mr. Masi,,Masi,white lay person,"Late 1820s the Corp authorizes the sale of a child, boy or girl from any of the farms",
 1038,NJ014,Thomas Curd,Thomas,Curd,white lay person,,
 1039,NJ015,George Fenwick I,George ,Fenwick I,white lay person,"Father of Francis Fenwick and George Fenwick, II, SJ",
@@ -111,9 +111,9 @@ os:id,dcterms:identifier ,dcterms:title ,foaf:firstName ,foaf:lastName ,foaf:sta
 3723,NJ110,Frank Baker,Frank,Baker,white lay person,,
 3724,NJ111,Dr. Matthews,,Matthews,white lay person,,
 3725,NJ112,John Llwellin,John,Llwellin,white lay person,,MPA-45-3-NewtownDayBook-1807-1816.json
-,,,,,,,
-,,,,,,,
-,,,,,,,
+4492,NJ113,Thomas Davis,Thomas,Davis,white lay person,,
+4493,NJ114,Dr. Joseph Lancaster,Joseph,Lancaster,white lay person,,
+4494,NJ115,Mrs. Prius,,Pruis,white lay person,,
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,MPA-46-1-NewtownAccountsLedger-1816-1832.json
